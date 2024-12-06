@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "portablog/First post test.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "First post test"
@@ -175,6 +175,7 @@
   },
   "active": "6cb64b68115f85ed",
   "lastOpenFiles": [
+    "CleanShot 2024-12-06 at 22.41.02@2x.png",
     "portablog/First post test.md",
     "portablog",
     "4-archives/Untitled",
