@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portablog/First post test.md",
+                "file": "portablog/First post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First post test"
+              "title": "First post"
             }
           }
         ]
@@ -173,11 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cb64b68115f85ed",
+  "active": "65f7154ccc8bc494",
   "lastOpenFiles": [
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",
-    "portablog/First post test.md",
+    "portablog/First post.md",
     "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png",
     "3-resources/attachments",
     "portablog",
