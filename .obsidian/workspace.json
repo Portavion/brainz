@@ -11,14 +11,12 @@
             "id": "6cb64b68115f85ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "portablog/First post test.md",
-                "mode": "source",
-                "source": false
+                "file": "3-resources/attachments/test.png"
               },
-              "icon": "lucide-file",
-              "title": "First post test"
+              "icon": "lucide-image",
+              "title": "test"
             }
           }
         ]
@@ -175,8 +173,8 @@
   },
   "active": "6cb64b68115f85ed",
   "lastOpenFiles": [
-    "3-resources/attachments/test.png",
     "portablog/First post test.md",
+    "3-resources/attachments/test.png",
     "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png",
     "3-resources/attachments",
     "portablog",
