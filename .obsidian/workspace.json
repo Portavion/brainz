@@ -11,14 +11,10 @@
             "id": "6cb64b68115f85ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/Git Token for ipad.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Git Token for ipad"
+              "title": "New tab"
             }
           }
         ]
@@ -173,11 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cb64b68115f85ed",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
+    "0-inbox/Test adding files from ipad.md",
+    "0-inbox/Git Token for ipad.md",
     "Test adding files from ipad.md",
     "2-areas/Coding/react-project-setup.md",
-    "0-inbox/Git Token for ipad.md",
     "0-inbox/test-markdown.md",
     "1-projects/salty-lips-mix.md",
     "2-areas/Coding"
