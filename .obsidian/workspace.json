@@ -11,14 +11,12 @@
             "id": "6cb64b68115f85ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "portablog/First post test.md",
-                "mode": "preview",
-                "source": true
+                "file": "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png"
               },
-              "icon": "lucide-file",
-              "title": "First post test"
+              "icon": "lucide-image",
+              "title": "CleanShot 2024-12-06 at 22.41.02@2x"
             }
           }
         ]
@@ -173,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cb64b68115f85ed",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
+    "portablog/First post test.md",
     "3-resources/attachments",
     "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png",
-    "portablog/First post test.md",
     "portablog",
     "4-archives/Untitled",
     "0-inbox/Git Token for ipad.md",
