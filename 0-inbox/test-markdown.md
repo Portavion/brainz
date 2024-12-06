@@ -14,4 +14,4 @@ This is some text from the previous header
 
 It is also easy to maintain now that I have added prettier to take care of the _formating_
 
-Now this is a third test to see if Obsidi
+Now this is a third test to see if Obsidian Git works
