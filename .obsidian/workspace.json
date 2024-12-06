@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/test-markdown.md",
+                "file": "2-areas/Coding/react-project-setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-markdown"
+              "title": "react-project-setup"
             }
           }
         ]
@@ -173,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cb64b68115f85ed",
+  "active": "65f7154ccc8bc494",
   "lastOpenFiles": [
+    "0-inbox/test-markdown.md",
     "2-areas/Coding/react-project-setup.md",
     "1-projects/salty-lips-mix.md",
     "2-areas/Coding"
