@@ -1,2 +1,0 @@
-# brainz
- All my notes
