@@ -1,5 +1,5 @@
 ---
-title: First post test
+title: First post
 date: 2024-12-06
 draft: false
 tags:
