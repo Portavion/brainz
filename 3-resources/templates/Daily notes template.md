@@ -1,7 +1,7 @@
 ---
 date: {{date:DD-MM-YYYY}}
 tags:
-  - weekly-note
+  - daily-note
 ---
-# Recipes
-- 
+
+
