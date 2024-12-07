@@ -4,4 +4,4 @@
 
 ### Poultry
 
-- [Creamy Dijon Chicken](creamy-dijon-chicken.md)
+- [[3-resources/cooking/Creamy Dijon Chicken|Creamy Dijon Chicken]]

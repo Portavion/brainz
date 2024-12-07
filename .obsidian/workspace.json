@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portablog/Creamy Dijon Chicken 1.md",
+                "file": "3-resources/cooking/W44-recipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creamy Dijon Chicken 1"
+              "title": "W44-recipes"
             }
           }
         ]
@@ -175,9 +175,12 @@
   },
   "active": "6cb64b68115f85ed",
   "lastOpenFiles": [
+    "3-resources/cooking/index.md",
+    "3-resources/cooking/Creamy Dijon Chicken.md",
+    "3-resources/cooking/W44-recipes.md",
+    "3-resources/cooking/creamy-dijon-chicken.md",
+    "portablog/Creamy Dijon Chicken.md",
     "portablog/First post.md",
-    "portablog/Creamy Dijon Chicken 1.md",
-    "0-inbox/Creamy Dijon Chicken.md",
     "3-resources/attachments/creamy-dijon-chicken.png",
     "Clippings",
     "3-resources/attachments/whatis.png",
