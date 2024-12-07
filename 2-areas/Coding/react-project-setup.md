@@ -103,6 +103,29 @@ Last final package:
 ```bash
 npm install @testing-library/user-event --save-dev
 ```
+### Proptypes
+First install the library:
+```bash
+npm install --save prop-types
+```
+Then import the PropTypes package in the in the component whose types you want to validate:
+```javascript
+import PropTypes from 'prop-types';
+```
+Example of use:
+```javascript
+import PropTypes from 'prop-types';
+
+const RenderName = (props) => {
+  return <div>{props.name}</div>;
+};
+
+RenderName.propTypes = {
+  name: PropTypes.string,
+};
+
+export default RenderName;
+```
 ## GitHub
 To link your local project directory to a GitHub repo, create a new **empty** repo on GitHub then follow the instructions in the new repo’s page to connect it to your local project directory.
 
