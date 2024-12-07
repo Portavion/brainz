@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/templates/Weekly notes template.md",
-                "mode": "source",
+                "file": "3-resources/cooking/00 index.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Weekly notes template"
+              "title": "00 index"
             }
           }
         ]
@@ -187,15 +187,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open this week": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "b4a0aca820114c2f",
   "lastOpenFiles": [
+    "portablog/Creamy Dijon Chicken.md",
+    "3-resources/cooking/W44-recipes.md",
+    "3-resources/templates/Weekly notes template.md",
     "3-resources/templates/Daily notes template.md",
     "3-resources/templates/blog frontmatter.md",
-    "3-resources/templates/Weekly notes template.md",
     "4-archives/weekly-notes/2024-W49.md",
     "Untitled.md",
     "4-archives/weekly-notes",
@@ -203,13 +204,11 @@
     "3-resources/templates",
     "portablog/First post.md",
     "portablog/Third test blog.md",
-    "portablog/Creamy Dijon Chicken.md",
     "3-resources/cooking/Creamy Dijon Chicken.md",
     "About.md 12-07-53-200.md",
     "About.md",
     "Untitled",
-    "3-resources/cooking/W44-recipes.md",
-    "3-resources/cooking/index.md",
+    "3-resources/cooking/00 index.md",
     "3-resources/cooking/creamy-dijon-chicken.md",
     "3-resources/attachments/creamy-dijon-chicken.png",
     "Clippings",
