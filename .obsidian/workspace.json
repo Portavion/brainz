@@ -11,14 +11,10 @@
             "id": "b4a0aca820114c2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "portablog/First post.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "First post"
+              "title": "New tab"
             }
           }
         ]
@@ -175,8 +171,8 @@
   },
   "active": "b4a0aca820114c2f",
   "lastOpenFiles": [
-    "portablog/Third test blog.md",
     "portablog/First post.md",
+    "portablog/Third test blog.md",
     "portablog/Creamy Dijon Chicken.md",
     "3-resources/cooking/Creamy Dijon Chicken.md",
     "About.md 12-07-53-200.md",
