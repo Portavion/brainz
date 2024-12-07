@@ -2,8 +2,8 @@
 title: Creamy Dijon Chicken
 source: https://www.budgetbytes.com/creamy-dijon-chicken/
 author:
-  - "[[Marsha - Budget Bytes]]"
-published: 2024-08-26
+  - Portavion
+published: 2024-12-07
 created: 2024-12-07
 description: Take dinner to the next level with this Creamy Dijon Chicken recipe! Made with an insanely delicious sauce and simple ingredients!
 tags:
