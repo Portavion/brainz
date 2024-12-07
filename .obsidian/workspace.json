@@ -11,10 +11,14 @@
             "id": "b4a0aca820114c2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3-resources/templates/blog frontmatter.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "blog frontmatter"
             }
           }
         ]
@@ -169,8 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4a0aca820114c2f",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
+    "4-archives/daily-notes",
+    "3-resources/templates/blog frontmatter.md",
+    "3-resources/templates",
     "portablog/First post.md",
     "portablog/Third test blog.md",
     "portablog/Creamy Dijon Chicken.md",
@@ -188,7 +195,6 @@
     "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png",
     "3-resources/attachments",
     "portablog",
-    "4-archives/Untitled",
     "0-inbox/Git Token for ipad.md",
     "0-inbox/Test adding files from ipad.md",
     "Test adding files from ipad.md",
