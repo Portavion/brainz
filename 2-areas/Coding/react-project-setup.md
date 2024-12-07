@@ -32,7 +32,7 @@ Then in your package.json file, add another script which will run the tests even
 ```
 
 Create a test file somewhere in your project with the suffix _test_, e.g. _App.test.jsx_, and give it the following content:
-```javascript
+```jsx
 import { describe, it, expect } from 'vitest';
 describe('something truthy and falsy', () => {
   it('true to be true', () => {
@@ -64,7 +64,7 @@ Then install the react testing library:
 npm install @testing-library/react @testing-library/jest-dom --save-dev
 ```
 Fourth, add a test setup file in _tests/setup.js_ and give it the following implementation:
-```javascript
+```jsx
 import { expect, afterEach } from 'vitest';
 import { cleanup } from '@testing-library/react';
 import * as matchers from "@testing-library/jest-dom/matchers";
@@ -88,7 +88,7 @@ export default defineConfig({
 });
 ```
 That's it. You can render React components in Vitest now:
-```javascript
+```jsx
 import { render, screen } from '@testing-library/react';
 import App from './App';
 describe('App', () => {
@@ -113,7 +113,7 @@ Then import the PropTypes package in the in the component whose types you want t
 import PropTypes from 'prop-types';
 ```
 Example of use:
-```javascript
+```jsx
 import PropTypes from 'prop-types';
 
 const RenderName = (props) => {
@@ -124,6 +124,9 @@ RenderName.propTypes = {
   name: PropTypes.string,
 };
 
+RenderName.defaultProps = {
+  name: 'Zach',
+};
 export default RenderName;
 ```
 ## GitHub
