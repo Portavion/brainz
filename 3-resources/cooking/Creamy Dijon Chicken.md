@@ -9,9 +9,6 @@ description: Take dinner to the next level with this Creamy Dijon Chicken recipe
 tags:
   - recipe
 ---
-
-Get ready friends, because Dijon is having a moment! This Creamy Dijon Chicken starts with quick pan-seared chicken breasts that get covered with a creamy, luscious, Dijon mustard sauce. It’s one of those recipes that feels luxurious and expensive, but is really made with simple inexpensive ingredients. And my secret ingredient to making it extra special…just a hint of Worcestershire sauce. This Dijon chicken recipe is so delicious and guaranteed to be one the whole family enjoys!
-
 ![[creamy-dijon-chicken.png]]
 
 ## **Serving Suggestions**
@@ -25,16 +22,16 @@ We served this creamy dijon chicken over some fluffy mashed potatoes to soak up 
 - 1/2 tsp onion powder 
 - 1/2 tsp salt 
 - 1/2 tsp freshly cracked black pepper 
-- 2 boneless, skinless chicken breast (about 1.3 lb​【590 g】.) 
+- 2 boneless, skinless chicken breast (about 600g) 
 - 2 Tbsp olive oil 
 - 2 Tbsp butter 
 - 2 cloves of garlic, minced 
-- 1 cup​【237 mL】 chicken broth 
+- 250mL chicken broth 
 - 1 Tbsp Dijon mustard 
 - 1 tsp Worcestershire sauce 
-- 1/3 cup​【79 mL】 heavy cream 
+- 80mL heavy cream 
 - 2 Tbsp grated parmesan cheese 
-- 2 cups​【473 mL】 spinach 
+- 2 cups​ spinach 
 
 ## Instructions
 

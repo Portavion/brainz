@@ -9,8 +9,6 @@ description: Take dinner to the next level with this Creamy Dijon Chicken recipe
 tags:
   - recipe
 ---
-
-
 ![[creamy-dijon-chicken.png]]
 
 ## **Serving Suggestions**
