@@ -11,12 +11,14 @@
             "id": "b4a0aca820114c2f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2-areas/Flexibility/MFTK Pike & H2T Program AYSYIRNV2.pdf"
+                "file": "1-projects/salty-lips-mix.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MFTK Pike & H2T Program AYSYIRNV2"
+              "icon": "lucide-file",
+              "title": "salty-lips-mix"
             }
           }
         ]
@@ -190,9 +192,9 @@
   },
   "active": "b4a0aca820114c2f",
   "lastOpenFiles": [
-    "2-areas/Flexibility/pancake.md",
     "2-areas/Coding/react-project-setup.md",
     "2-areas/Flexibility/MFTK Pike & H2T Program AYSYIRNV2.pdf",
+    "2-areas/Flexibility/pancake.md",
     "3-resources/cooking/00 index.md",
     "portablog/Creamy Dijon Chicken.md",
     "3-resources/cooking/W44-recipes.md",
