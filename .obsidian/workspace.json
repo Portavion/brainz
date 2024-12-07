@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portablog/First post.md",
+                "file": "0-inbox/Creamy Dijon Chicken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First post"
+              "title": "Creamy Dijon Chicken"
             }
           }
         ]
@@ -173,11 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65f7154ccc8bc494",
+  "active": "6cb64b68115f85ed",
   "lastOpenFiles": [
+    "portablog/First post.md",
+    "0-inbox/Creamy Dijon Chicken.md",
+    "Clippings",
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",
-    "portablog/First post.md",
     "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png",
     "3-resources/attachments",
     "portablog",
