@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Creamy Dijon Chicken"
             }
+          },
+          {
+            "id": "a26e8e37ae6e4681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +188,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cb64b68115f85ed",
+  "active": "a26e8e37ae6e4681",
   "lastOpenFiles": [
-    "3-resources/cooking/Creamy Dijon Chicken.md",
     "portablog/Creamy Dijon Chicken.md",
+    "About.md",
+    "Untitled",
+    "3-resources/cooking/Creamy Dijon Chicken.md",
     "3-resources/cooking/W44-recipes.md",
     "3-resources/cooking/index.md",
     "3-resources/cooking/creamy-dijon-chicken.md",
