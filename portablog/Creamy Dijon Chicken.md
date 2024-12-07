@@ -11,7 +11,7 @@ tags:
 ---
 ![[creamy-dijon-chicken.png]]
 
-## **Serving Suggestions**
+## Serving Suggestions
 
 We served this creamy dijon chicken over some fluffy mashed potatoes to soak up all of that delicious sauce. But you can also serve it with some buttered noodles, pasta, or over rice. A simple side salad or Caesar salad would also taste great. And you can never go wrong with a side of quick sautéed vegetables like this easy sautéed asparagus recipe.
 
