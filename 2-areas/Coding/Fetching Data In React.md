@@ -182,6 +182,8 @@ To see this in action, go back to that embedded CodeSandbox and comment out the 
 Now we have both requests firing as soon as `Profile` renders. The request for `imageURL` resolves 2 seconds before the `bioText` request, and our div containing `<Bio />` renders. When `bioText` resolves, an update will be made in state which will trigger a rerender in `<Bio />`, adding that text description to the page.
 
 In all of the code examples above, we added an artificial `delay` with the `setTimeout` function. As you’ve likely guessed by now, this is to help you walk through the data fetching basics in the lesson. We recommend removing these `delay`s and play around with the code examples to further cement the concepts.
+#### Promise.all to fire all at once
+See https://www.developerway.com/posts/how-to-fetch-data-in-react#part5
 
 ### Data fetching libraries
 
@@ -189,22 +191,3 @@ We’ve only just begun to scratch the surface of data fetching on the frontend.
 
 You’ve already tasted the complexity of data fetching in this lesson. Each request has to have a *minimum* of three states to achieve an optimal user experience: `data`, `loading`, and `error`. Although some libraries can help you with data fetching and more, it is highly recommended to use vanilla React data fetching for all the projects in this course. The lessons you will learn while doing so will be invaluable.
 
-### Assignment
-
-1. Read [Modern API data fetching methods](https://blog.logrocket.com/modern-api-data-fetching-methods-react/) until you reach the Axios section for a brief overview of what was discussed in this lesson.
-2. Read [How to fetch data in React with performance in mind](https://www.developerway.com/posts/how-to-fetch-data-in-react) to learn more about efficiently handling fetch requests in React components.
-
-### Knowledge check
-
-The following questions are an opportunity to reflect on key topics in this lesson. If you can’t answer a question, click on it to review the material, but keep in mind you are not expected to memorize or master this knowledge.
-
-- [How can you fetch data from an API in React?](https://www.theodinproject.com/lessons/#using-fetch-in-react-components)
-- [Why should you manually throw errors in fetch requests?](https://www.theodinproject.com/lessons/#handling-errors)
-- [How can you avoid waterfalling requests?](https://www.theodinproject.com/lessons/#managing-multiple-fetch-requests)
-
-### Additional resources
-
-This section contains helpful links to related content. It isn’t required, so consider it supplemental.
-
-- [TanStack Query](https://tanstack.com/query/latest/docs/react/overview) is a library that handles all the necessary states and offers built-in support for major features, such as caching.
-- This article by Nadia Makarevich provides additional information and examples on [how to deal with race conditions](https://www.developerway.com/posts/fetching-in-react-lost-promises). Do not worry about the `useRef` hook, as it will be covered later on in the course.
