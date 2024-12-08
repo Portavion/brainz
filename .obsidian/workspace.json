@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "portablog/Creamy Dijon Chicken.md",
+                "file": "2-areas/Coding/react-project-setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creamy Dijon Chicken"
+              "title": "react-project-setup"
             }
           }
         ]
@@ -192,9 +192,9 @@
   },
   "active": "b4a0aca820114c2f",
   "lastOpenFiles": [
+    "portablog/Creamy Dijon Chicken.md",
     "3-resources/cooking/00 index.md",
     "3-resources/cooking/Creamy Dijon Chicken.md",
-    "portablog/Creamy Dijon Chicken.md",
     "2-areas/Coding/react-project-setup.md",
     "1-projects/salty-lips-mix.md",
     "2-areas/Flexibility/MFTK Pike & H2T Program AYSYIRNV2.pdf",
