@@ -63,10 +63,9 @@ Reference for the revisions: _Where the home is_ or _Cut_ by the band **Sweet Pi
 
 - [x] Doubled vocals to get the same treatment as the Harmonies
 - [x] Remove the chorus lead vocal automation to smooth transition from verse to
-      chorus (maybe lower the rhythm guitar instead of raising the lead vocal)
 
 ### Third revision changes
 
 - Removed the lead vocal +2dB in the choruses
-- Lowered the dist guitars -2dB in the chorus (back in the solo section)
-- Lowered the doubled vocals -13 dBs
+- Lowered the dist guitars -2dB in the chorus (back in the solo sectoin)
+- Lowered the doubled vocals -2 dBs
