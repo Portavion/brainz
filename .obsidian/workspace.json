@@ -11,14 +11,10 @@
             "id": "b4a0aca820114c2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "portablog/Creamy Dijon Chicken test resizing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Creamy Dijon Chicken test resizing"
+              "title": "New tab"
             }
           }
         ]
@@ -190,7 +186,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b4a0aca820114c2f",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
     "2-areas/Coding/react-project-setup.md",
     "portablog/Creamy Dijon Chicken test resizing.md",
