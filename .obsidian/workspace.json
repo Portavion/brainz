@@ -11,10 +11,14 @@
             "id": "b4a0aca820114c2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/Coding/react-project-setup.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "react-project-setup"
             }
           }
         ]
@@ -186,7 +190,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "958a1d34b0f58cb8",
+  "active": "b4a0aca820114c2f",
   "lastOpenFiles": [
     "2-areas/Coding/react-project-setup.md",
     "portablog/Creamy Dijon Chicken test resizing.md",
