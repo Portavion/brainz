@@ -2,5 +2,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "3-resources/attachments",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "mobileQuickRibbonItem": ""
 }
