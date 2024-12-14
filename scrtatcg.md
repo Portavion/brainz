@@ -1,0 +1,1 @@
+SELECT city FROM north_american_cities WHERE Country LIKE 'United states' AND longitude < (SELECT longitude FROM north_american_cities WHERE city LIKE 'chicago') ORDER BY latitude DESC;
