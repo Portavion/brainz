@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/test.md",
+                "file": "1-projects/salty-lips-mix.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "salty-lips-mix"
             }
           }
         ],
@@ -207,6 +207,7 @@
   "active": "2a9a4c6e8cfaa4b4",
   "lastOpenFiles": [
     "4-archives/weekly-notes/2024-W50.md",
+    "0-inbox/test.md",
     "2-areas/Coding/react-project-setup.md",
     "scrtatcg.md",
     "2-areas/Coding/react-fetching-data.md",
@@ -214,7 +215,6 @@
     "2-areas/Portavion/inspirations",
     "2-areas/Portavion",
     "portablog/Creamy Dijon Chicken test resizing.md",
-    "0-inbox/test.md",
     "1-inbox",
     "portablog/Creamy Dijon Chicken.md",
     "3-resources/cooking/00 index.md",
