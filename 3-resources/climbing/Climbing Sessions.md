@@ -69,39 +69,31 @@ It’s really important that the board is secure, and that you have enough stren
 Choose four boulders that are about the same grade and ~50% your current max. Climb one, then climb down, and do the second, third, and fourth, continuously. After the fourth problem, rest until you are completely recovered (5-7 minutes). Repeat the process another three times. If you cannot complete a climb, move to the next one and try to select a different problem to replace it in the next round.
 ### Climb (~15-25 min)
 Climb boulders that look fun and are 50-75% of your max effort. Rest 2-3 minutes between each climb.
-# Session 4: Technique (~80 min)
+# Session 4: Projecting (~80 min)
+## Warm-Up
+### Warm-Up Circuit (~15 min)
+Three rounds (10-12 repetitions each)  
+- External rotation with scapular retraction  
+- Bird dog with resistance (5-6 repetitions each side) 
+- Goblet squat
+### Flexibility (~5 min)
+Repeat each exercise twice  
+- Single-arm doorway stretch (20-30 sec each side) 
+- Frog pose (30-60 sec)
+### Climbing Warm-Up(~20 min)
+Climb boulders that look fun and are 50-75% of your max effort. Slowly increase the difficulty level of your climbs. Rest 2-3 minutes between each climb.
+## Training
+### Limit Bouldering (~40 min)
+Pick a boulder you can’t send, and try to successfully complete each move. Once you can complete the moves separately, try to link the moves together.
+
+If you can’t complete the boulder, no worries! You can revisit this boulder during your next projecting session.
+
+Note: Be aware of your total number of attempts. Depending on your experience, you should only attempt a complete climb 5-7 times. If you’re able to break up the boulder and practice different moves without climbing the entire problem, these do not count as attempts.
+# Session 5: Partner Fun (~80 min)
 ## Warm-Up
 
-### Glue Hands and Feet (~10 min)
-Climb five boulders that are below your level (that you can easily climb without much difficulty) and limit your adjustments. Take 30 sec–1 min rest in between, shake your arms out.
-### Climb Silently (~10 min)
-Climb five boulders that are below your level (that you can easily climb without much difficulty) and try to make no noise. Take 30 sec–1 min rest in between, shake your arms out.
 ## Training
-### Mastery Climbing (~45 min)
-Pick 2-3 boulders in different styles that you can flash (climb on your first try), but are at the edge of your ability level. Climb each problem 2-5 times, each time looking for more efficient ways, and better techniques. Give yourself 2-3 minutes rest between each attempt.
-### Film Yourself (~15 min)
-Pick a climb that is difficult for you and you can’t flash. Film yourself climbing it. After your attempt look at the footage and identify one part of your technique you want to improve. Focus on this element during your next attempt. Rest 3-5 minutes. Repeat 2-3 times.
-# Session 5: Technique (~80 min)
+# Session 6:  Partner Fun + Hangboarding (~80 min)
 ## Warm-Up
-
-### Glue Hands and Feet (~10 min)
-Climb five boulders that are below your level (that you can easily climb without much difficulty) and limit your adjustments. Take 30 sec–1 min rest in between, shake your arms out.
-### Climb Silently (~10 min)
-Climb five boulders that are below your level (that you can easily climb without much difficulty) and try to make no noise. Take 30 sec–1 min rest in between, shake your arms out.
 ## Training
-### Mastery Climbing (~45 min)
-Pick 2-3 boulders in different styles that you can flash (climb on your first try), but are at the edge of your ability level. Climb each problem 2-5 times, each time looking for more efficient ways, and better techniques. Give yourself 2-3 minutes rest between each attempt.
-### Film Yourself (~15 min)
-Pick a climb that is difficult for you and you can’t flash. Film yourself climbing it. After your attempt look at the footage and identify one part of your technique you want to improve. Focus on this element during your next attempt. Rest 3-5 minutes. Repeat 2-3 times.
-# Session 6: Technique (~80 min)
-## Warm-Up
-
-### Glue Hands and Feet (~10 min)
-Climb five boulders that are below your level (that you can easily climb without much difficulty) and limit your adjustments. Take 30 sec–1 min rest in between, shake your arms out.
-### Climb Silently (~10 min)
-Climb five boulders that are below your level (that you can easily climb without much difficulty) and try to make no noise. Take 30 sec–1 min rest in between, shake your arms out.
-## Training
-### Mastery Climbing (~45 min)
-Pick 2-3 boulders in different styles that you can flash (climb on your first try), but are at the edge of your ability level. Climb each problem 2-5 times, each time looking for more efficient ways, and better techniques. Give yourself 2-3 minutes rest between each attempt.
-### Film Yourself (~15 min)
-Pick a climb that is difficult for you and you can’t flash. Film yourself climbing it. After your attempt look at the footage and identify one part of your technique you want to improve. Focus on this element during your next attempt. Rest 3-5 minutes. Repeat 2-3 times.
+## Flexibility
