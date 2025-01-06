@@ -3,5 +3,6 @@
   "attachmentFolderPath": "3-resources/attachments",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "mobileQuickRibbonItem": ""
+  "mobileQuickRibbonItem": "",
+  "vimMode": true
 }
