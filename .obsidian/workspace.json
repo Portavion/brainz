@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Coding/react-project-setup.md"
+                "file": "3-resources/climbing/Climbing Sessions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of react-project-setup"
+              "title": "Outline of Climbing Sessions"
             }
           },
           {
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "baa5fd5e0b5bcb3e",
@@ -204,7 +204,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2a9a4c6e8cfaa4b4",
+  "active": "905781d404c68aae",
   "lastOpenFiles": [
     "3-resources/attachments/creamy-dijon-chicken.png",
     "3-resources/climbing/Climbing Sessions.md",
