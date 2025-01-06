@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/salty-lips-mix.md",
+                "file": "3-resources/templates/Weekly notes template.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "salty-lips-mix"
+              "title": "Weekly notes template"
             }
           }
         ],
@@ -206,6 +206,9 @@
   },
   "active": "2a9a4c6e8cfaa4b4",
   "lastOpenFiles": [
+    "3-resources/templates/1734449485-testnewnotenvim.md",
+    "3-resources/templates/Weekly notes template.md",
+    "1-projects/salty-lips-mix.md",
     "4-archives/weekly-notes/2024-W50.md",
     "0-inbox/test.md",
     "2-areas/Coding/react-project-setup.md",
@@ -219,11 +222,9 @@
     "portablog/Creamy Dijon Chicken.md",
     "3-resources/cooking/00 index.md",
     "3-resources/cooking/Creamy Dijon Chicken.md",
-    "1-projects/salty-lips-mix.md",
     "2-areas/Flexibility/MFTK Pike & H2T Program AYSYIRNV2.pdf",
     "2-areas/Flexibility/pancake.md",
     "3-resources/cooking/W44-recipes.md",
-    "3-resources/templates/Weekly notes template.md",
     "3-resources/templates/Daily notes template.md",
     "3-resources/templates/blog frontmatter.md",
     "4-archives/weekly-notes/2024-W49.md",
@@ -244,7 +245,6 @@
     "3-resources/attachments",
     "0-inbox/Git Token for ipad.md",
     "0-inbox/Test adding files from ipad.md",
-    "Test adding files from ipad.md",
-    "0-inbox/test-markdown.md"
+    "Test adding files from ipad.md"
   ]
 }
