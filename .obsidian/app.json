@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "mobileQuickRibbonItem": "",
-  "vimMode": true
+  "vimMode": true,
+  "showLineNumber": true
 }
