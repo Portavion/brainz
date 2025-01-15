@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/A future-proof Node.js express filefolder structure.md",
+                "file": "0-inbox/A future-proof Node.js express filefolder structure.md",
                 "mode": "source",
                 "source": false
               },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/A future-proof Node.js express filefolder structure.md"
+                "file": "0-inbox/A future-proof Node.js express filefolder structure.md"
               },
               "icon": "lucide-list",
               "title": "Outline of A future-proof Node.js express filefolder structure"
@@ -152,7 +152,7 @@
       {
         "id": "baa5fd5e0b5bcb3e",
         "type": "tabs",
-        "dimension": 26.856240126382314,
+        "dimension": 26.85624012638231,
         "children": [
           {
             "id": "8edb6a8d642428a5",
@@ -169,7 +169,7 @@
       {
         "id": "2bf6e1a948eab270",
         "type": "tabs",
-        "dimension": 21.95892575039494,
+        "dimension": 21.958925750394933,
         "children": [
           {
             "id": "65f7154ccc8bc494",
@@ -198,9 +198,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b4a0aca820114c2f",
+  "active": "905781d404c68aae",
   "lastOpenFiles": [
     "2-areas/Coding/react-project-setup.md",
+    "0-inbox/A future-proof Node.js express filefolder structure.md",
     "Clippings/A future-proof Node.js express filefolder structure.md",
     "Clippings",
     "0-inbox/Test ssh pull.md",
@@ -236,7 +237,6 @@
     "About.md 12-07-53-200.md",
     "About.md",
     "Untitled",
-    "3-resources/cooking/creamy-dijon-chicken.md",
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",
     "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png"
