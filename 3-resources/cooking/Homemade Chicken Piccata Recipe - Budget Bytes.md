@@ -34,7 +34,7 @@ Serve with your choice of:
 - Add the capers and half of the chopped parsley to the skillet. Increase the heat to medium, add the chicken back to the skillet, and spoon the sauce over top. Allow the chicken to simmer in the sauce for 3-5 minutes, without a lid, or until the sauce reduces by half. The flour on the chicken will help thicken the sauce as it simmers. Sprinkle the remaining parsley over top just before serving.
 
 ## Nutritional Facts
-For one serving:
+For one serving(serves 4):
 - Calories: 448.63kcal
 - Carbohydrates: 14.45g
 - Protein: 53.08g
