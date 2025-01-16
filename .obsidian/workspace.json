@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/cooking/Homemade Chicken Piccata Recipe - Budget Bytes.md",
+                "file": "0-inbox/Chickpea, spinach and egg curry recipe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homemade Chicken Piccata Recipe - Budget Bytes"
+              "title": "Chickpea, spinach and egg curry recipe"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/cooking/Homemade Chicken Piccata Recipe - Budget Bytes.md"
+                "file": "0-inbox/Chickpea, spinach and egg curry recipe.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Homemade Chicken Piccata Recipe - Budget Bytes"
+              "title": "Outline of Chickpea, spinach and egg curry recipe"
             }
           }
         ],
@@ -200,9 +200,9 @@
   },
   "active": "b4a0aca820114c2f",
   "lastOpenFiles": [
+    "3-resources/cooking/Homemade Chicken Piccata Recipe - Budget Bytes.md",
     "3-resources/cooking/Creamy Dijon Chicken.md",
     "0-inbox/Chickpea, spinach and egg curry recipe.md",
-    "3-resources/cooking/Homemade Chicken Piccata Recipe - Budget Bytes.md",
     "4-archives/weekly-notes/2025-W03.md",
     "3-resources/cooking/00 index.md",
     "0-inbox/A future-proof Node.js express filefolder structure.md",

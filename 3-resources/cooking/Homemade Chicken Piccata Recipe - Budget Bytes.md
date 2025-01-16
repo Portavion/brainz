@@ -15,6 +15,7 @@ Serve with your choice of:
 - Plain buttered pasta
 - Rice
 ## Ingredients
+For 4 servings:
 - 1 fresh lemon 
 - 1/4 bunch Italian parsley 
 - 3 cloves garlic 
@@ -26,7 +27,7 @@ Serve with your choice of:
 - 1/2 cup​ chicken broth 
 - 1 Tbsp capers 
 
-## Instructions
+## Method
 - Prepare the lemon, parsley, and garlic so they’re ready to go when you need them. Roughly chop the parsley leaves, juice the lemon, and mince the garlic. Set these ingredients aside.
 - Trim the chicken breasts of excess fat. Cover them with plastic wrap and pound them with a mallet or rolling pin until they are an even thickness (about 1/2-3/4 inch thick). Cut each chicken breast in half so that you have four to six pieces about the size of the palm of your hand. Season both sides of the chicken pieces with salt and pepper.
 - Heat the olive oil in a heavy skillet, over medium heat. While the oil is heating, place the flour in a bowl and lightly coat each piece of chicken on both sides. When the oil is very hot but not smoking, add the chicken pieces to the skillet and cook until golden brown on each side (about 3-5 minutes on each side). Cook the chicken in batches, if needed, to prevent them from overcrowding the skillet. Transfer the browned chicken on a clean plate.
@@ -34,7 +35,7 @@ Serve with your choice of:
 - Add the capers and half of the chopped parsley to the skillet. Increase the heat to medium, add the chicken back to the skillet, and spoon the sauce over top. Allow the chicken to simmer in the sauce for 3-5 minutes, without a lid, or until the sauce reduces by half. The flour on the chicken will help thicken the sauce as it simmers. Sprinkle the remaining parsley over top just before serving.
 
 ## Nutritional Facts
-For one serving(serves 4):
+For one serving (serves 4):
 - Calories: 448.63kcal
 - Carbohydrates: 14.45g
 - Protein: 53.08g
