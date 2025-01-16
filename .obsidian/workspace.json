@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Homemade Chicken Piccata Recipe - Budget Bytes.md",
+                "file": "3-resources/cooking/Homemade Chicken Piccata Recipe - Budget Bytes.md",
                 "mode": "source",
                 "source": false
               },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Homemade Chicken Piccata Recipe - Budget Bytes.md"
+                "file": "3-resources/cooking/Homemade Chicken Piccata Recipe - Budget Bytes.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Homemade Chicken Piccata Recipe - Budget Bytes"
@@ -200,8 +200,11 @@
   },
   "active": "b4a0aca820114c2f",
   "lastOpenFiles": [
+    "3-resources/cooking/Creamy Dijon Chicken.md",
+    "3-resources/cooking/Homemade Chicken Piccata Recipe - Budget Bytes.md",
+    "4-archives/weekly-notes/2025-W03.md",
+    "3-resources/cooking/00 index.md",
     "0-inbox/A future-proof Node.js express filefolder structure.md",
-    "0-inbox/Homemade Chicken Piccata Recipe - Budget Bytes.md",
     "2-areas/Coding/react-project-setup.md",
     "Clippings/A future-proof Node.js express filefolder structure.md",
     "Clippings",
@@ -222,8 +225,6 @@
     "portablog/Creamy Dijon Chicken test resizing.md",
     "1-inbox",
     "portablog/Creamy Dijon Chicken.md",
-    "3-resources/cooking/00 index.md",
-    "3-resources/cooking/Creamy Dijon Chicken.md",
     "2-areas/Flexibility/MFTK Pike & H2T Program AYSYIRNV2.pdf",
     "2-areas/Flexibility/pancake.md",
     "3-resources/cooking/W44-recipes.md",
@@ -235,7 +236,6 @@
     "3-resources/templates",
     "portablog/First post.md",
     "portablog/Third test blog.md",
-    "About.md 12-07-53-200.md",
     "Untitled",
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",

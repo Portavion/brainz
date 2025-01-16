@@ -9,68 +9,16 @@ description: "Easy Chicken Piccata in a buttery lemon caper sauce is a fast, eas
 tags:
   - "clippings"
 ---
-![chicken piccata pin image](https://www.budgetbytes.com/wp-content/uploads/2017/07/Chicken-Piccata-PIN1.jpg)
-
-![chicken piccata pin image](https://www.budgetbytes.com/wp-content/uploads/2017/07/Chicken-Piccata-PIN2.jpg)
-
-Whenever I’m craving a dinner that’s easy to put together and is full of flavor, I make this delicious Chicken Piccata recipe. It only requires a handful of ingredients, meaning it’s seriously simple, but you’d never know once you taste it! It’s totally restaurant quality and elegant enough to impress a date or your in-laws—if I do say so myself!! When garlic and lemon come together with briny capers, creamy butter, and fresh parsley, you just can’t lose. Trust me; if you’ve got some chicken in your fridge and don’t know what to do with it, my homemade chicken piccata is your answer.
-
-![Pan full of lemony, briny, buttery, and garlicky Chicken Piccata.](https://www.budgetbytes.com/wp-content/uploads/2012/01/Chicken-Piccatta-V2.jpg)
-
-![chicken piccata pin image](https://www.budgetbytes.com/wp-content/uploads/2017/07/Chicken-Piccata-PIN1.jpg)
-
-![chicken piccata pin image](https://www.budgetbytes.com/wp-content/uploads/2017/07/Chicken-Piccata-PIN2.jpg)
-
-*This post contains some affiliate links, which means that we make a small commission off items you purchase at no additional cost to you.*
-
-> “This is one of my favorites! I’ve made it twice now – both times it’s been hands down the best chicken I’ve cooked. Will be adding this to my monthly rotation for sure!”
-> 
-> Cassiel
-
-## What is Chicken Piccata?
-
-Chicken Piccata is an Italian dish made with thinly sliced chicken that has been lightly dredged in flour, cooked until golden brown in a skillet, then drenched with a deliciously buttery lemon caper sauce. You can also make piccata with veal, but we’re Budget Bytes, so I think we’ll stick with chicken. ;) Either way, this dish is a simple classic that is sure to impress.
-
-Here’s what you’ll need to make this easy chicken piccata recipe:
-
-- **Boneless, Skinless Chicken Breasts:** The sauce in this recipe is enough for 2-3 chicken breasts (about 2 lbs​【900 g】 total), which have been pounded and THEN sliced in half. This creates 4-6 thinner cutlets that cook quickly and evenly.
-- **Garlic:** You’ll need 3 fresh cloves of garlic, which should be minced finely. I just love the smell of garlic and butter simmering together in a skillet. It’s *so* good. And you already know the sauce will taste even better than it smells!
-- **Flour:** For dredging the chicken before cooking to help create a nice, browned crust.
-- **Olive Oil:** I pan fry the flour-coated chicken pieces in olive oil until golden brown. This not only adds color to the chicken but creates delicious stuck-on bits on the bottom of the pan, which add even more flavor to the sauce.
-- **Butter:** For making the lemon caper sauce. Don’t forget to turn the heat down to medium-low after browning the chicken so you don’t burn the butter and garlic!
-- **Fresh Lemon:** I juice one fresh lemon to give the sauce a bright, tangy flavor.
-- **Chicken Broth:** The sauce in chicken piccata is traditionally made with white wine, but I decided to sub it with chicken broth. The sauce was still so good that I wanted to drink it straight out of the skillet, so I didn’t feel like I was missing out. But if you have wine around, by all means, use it in place of the chicken broth in this dish!
-- **Fresh Italian Parsley:** Adds flavor and color!
-- **Capers:** I love the briny, salty punch that capers add to this dish. But if you’re not a fan, feel free to omit them altogether.
-- **Salt & Pepper:** Sprinkle some salt and pepper over your chicken before pan frying for extra flavor.
-
-## Budget-Saving Tips!
-
-1. **Chicken thighs are often cheaper than chicken breasts at the store, so feel free to use them in this recipe instead!** I’d go for skinless, boneless chicken thighs so you can still pound them thin and get the same results. And because chicken thighs are fattier than chicken breasts, they’re harder to overcook, making them a great option for beginner cooks, too.
-2. **I don’t use any wine in this recipe for chicken piccata, which is a serious money saver.** You can almost always (give or take!) sub chicken broth for white wine in a recipe. But if you DO want to make this recipe using wine, either buy a small bottle or choose a white wine you’d actually drink. That way, you’re not wasting money on a whole bottle of wine you won’t end up using!
-3. **Buying chicken in bulk is also a great budget-friendly option.** Look for family packs or larger packages at the store and freeze the extra chicken for later.
-
-## What to serve with Chicken Piccata
-
-The serving size might seem small (each piece is about the size of a deck of cards), so I suggest bulking out your meal by serving the chicken piccata over plain buttered pasta, or if you want something fancier, try this [lemon parsley pasta](https://www.budgetbytes.com/lemon-parsley-pasta/). I also think the flavors in this dish go beautifully with asparagus, green beans, or broccoli. But whenever I need something quick and easy, I serve it with a green side salad and some [garlic bread](https://www.budgetbytes.com/garlic-bread/) for a classic meal.
-
-![Close up of capers and parsley on top of a piece of Chicken Piccata with lemon garlic sauce.](https://www.budgetbytes.com/wp-content/uploads/2012/01/Chicken-Piccatta-close.jpg)
-
-![chicken piccata pin image](https://www.budgetbytes.com/wp-content/uploads/2017/07/Chicken-Piccata-PIN1.jpg)
-
-![chicken piccata pin image](https://www.budgetbytes.com/wp-content/uploads/2017/07/Chicken-Piccata-PIN2.jpg)
-
-## Delicious Homemade Chicken Piccata
-
-This rich Chicken Piccata in a buttery lemon caper sauce is a fast, easy, and elegant answer to your weeknight dinner with just a few simple ingredients!
-
 ![This rich and tangy Chicken Piccata is a fast, easy, and elegant answer to dinner. With just a few ingredients and a lot of flavor! BudgetBytes.com](https://www.budgetbytes.com/wp-content/uploads/2012/01/Chicken-Piccatta-close-500x500.jpg)
+## What to serve with Chicken Piccata
+Serve with your choice of:
+- Plain buttered pasta
+- Rice
+## Ingredients
 
-Cook ModePrevent your screen from going dark
-
-- 1 fresh lemon ($0.79)
-- 1/4 bunch Italian parsley ($0.25)
-- 3 cloves garlic ($0.24)
+- 1 fresh lemon 
+- 1/4 bunch Italian parsley 
+- 3 cloves garlic 
 - 2-3 boneless, skinless chicken breasts (about 2 lbs)​【900 g】 ($6.25)
 - Pinch salt and pepper ($0.05)
 - 1/2 cup​【118 mL】 flour ($0.03)
