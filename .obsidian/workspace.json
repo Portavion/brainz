@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/A future-proof Node.js express filefolder structure.md",
+                "file": "0-inbox/Homemade Chicken Piccata Recipe - Budget Bytes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A future-proof Node.js express filefolder structure"
+              "title": "Homemade Chicken Piccata Recipe - Budget Bytes"
             }
           }
         ]
@@ -86,7 +86,7 @@
       {
         "id": "6df9dc7a3edfe1e8",
         "type": "tabs",
-        "dimension": 51.18483412322275,
+        "dimension": 51.18483412322276,
         "children": [
           {
             "id": "6f810453a16ca684",
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/A future-proof Node.js express filefolder structure.md"
+                "file": "0-inbox/Homemade Chicken Piccata Recipe - Budget Bytes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of A future-proof Node.js express filefolder structure"
+              "title": "Outline of Homemade Chicken Piccata Recipe - Budget Bytes"
             }
           }
         ],
@@ -152,7 +152,7 @@
       {
         "id": "baa5fd5e0b5bcb3e",
         "type": "tabs",
-        "dimension": 26.85624012638231,
+        "dimension": 26.856240126382307,
         "children": [
           {
             "id": "8edb6a8d642428a5",
@@ -198,10 +198,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "905781d404c68aae",
+  "active": "b4a0aca820114c2f",
   "lastOpenFiles": [
-    "2-areas/Coding/react-project-setup.md",
     "0-inbox/A future-proof Node.js express filefolder structure.md",
+    "0-inbox/Homemade Chicken Piccata Recipe - Budget Bytes.md",
+    "2-areas/Coding/react-project-setup.md",
     "Clippings/A future-proof Node.js express filefolder structure.md",
     "Clippings",
     "0-inbox/Test ssh pull.md",
@@ -235,7 +236,6 @@
     "portablog/First post.md",
     "portablog/Third test blog.md",
     "About.md 12-07-53-200.md",
-    "About.md",
     "Untitled",
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",
