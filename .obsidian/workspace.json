@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-inbox/Chickpea, spinach and egg curry recipe.md",
+                "file": "0-inbox/Perfect pak choi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chickpea, spinach and egg curry recipe"
+              "title": "Perfect pak choi"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-inbox/Chickpea, spinach and egg curry recipe.md"
+                "file": "0-inbox/Perfect pak choi.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chickpea, spinach and egg curry recipe"
+              "title": "Outline of Perfect pak choi"
             }
           }
         ],
@@ -200,9 +200,13 @@
   },
   "active": "b4a0aca820114c2f",
   "lastOpenFiles": [
-    "0-inbox/A future-proof Node.js express filefolder structure.md",
+    "0-inbox/Easy Air Fryer Chicken Thighs  Everyday Family Cooking.md",
+    "4-archives/recipes/Chickpea, spinach and egg curry recipe.md",
+    "4-archives/recipes",
+    "4-archives/weekly-notes/2025-W04.md",
+    "0-inbox/Perfect pak choi.md",
     "4-archives/weekly-notes/2025-W03.md",
-    "0-inbox/Chickpea, spinach and egg curry recipe.md",
+    "0-inbox/A future-proof Node.js express filefolder structure.md",
     "3-resources/cooking/Homemade Chicken Piccata Recipe - Budget Bytes.md",
     "3-resources/cooking/Creamy Dijon Chicken.md",
     "3-resources/cooking/00 index.md",
@@ -229,14 +233,9 @@
     "2-areas/Flexibility/MFTK Pike & H2T Program AYSYIRNV2.pdf",
     "2-areas/Flexibility/pancake.md",
     "3-resources/cooking/W44-recipes.md",
-    "3-resources/templates/Daily notes template.md",
-    "3-resources/templates/blog frontmatter.md",
-    "4-archives/weekly-notes/2024-W49.md",
     "4-archives/weekly-notes",
     "4-archives/daily-notes",
     "3-resources/templates",
-    "portablog/First post.md",
-    "Untitled",
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",
     "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png"
