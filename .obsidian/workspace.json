@@ -36,7 +36,21 @@
             }
           },
           {
-            "id": "f8dd6c008ab631ec",
+            "id": "6f7d34cc745322ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "(@brombonesxo)"
+            }
+          },
+          {
+            "id": "34dd31c0d4a3d432",
             "type": "leaf",
             "state": {
               "type": "FileClassView__leads",
@@ -44,9 +58,23 @@
               "icon": "user",
               "title": "leads"
             }
+          },
+          {
+            "id": "b52f372a0b1945e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/Micron Mastering/Leads/Atze Sit (@atzesit).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Atze Sit (@atzesit)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-archives/classes/leads.md",
+                "file": "2-areas/Micron Mastering/Leads/Atze Sit (@atzesit).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of leads"
+              "title": "Outline of Atze Sit (@atzesit)"
             }
           },
           {
@@ -238,11 +266,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8dd6c008ab631ec",
+  "active": "b52f372a0b1945e5",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/(@krvze_nyc).md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
-    "2-areas/Micron Mastering/CRM.md",
+    "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
     "4-archives/classes/leads.md",
+    "2-areas/Micron Mastering/CRM.md",
     "4-archives/classes",
     "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
     "2-areas/Micron Mastering/Leads/SCOTT MAC (@scottmac_damager).md",
@@ -250,7 +280,6 @@
     "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
     "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
     "2-areas/Micron Mastering/Leads/Sayf (@m21six).md",
-    "2-areas/Micron Mastering/Leads/(@krvze_nyc).md",
     "2-areas/Micron Mastering/Leads/Atze Sit (@atzesit).md",
     "2-areas/Micron Mastering/Leads/Capon (@capon_music).md",
     "2-areas/Micron Mastering/Leads/Elton Gjeta (@gjetaelton).md",
@@ -272,7 +301,6 @@
     "3-resources/attachments/CleanShot 2025-01-23 at 20.19.41@2x.png",
     "3-resources/attachments/CleanShot 2025-01-23 at 20.18.24@2x.png",
     "3-resources/keyboard",
-    "0-inbox/Slow Cooker Chicken Pozole Verde.md",
     "4-archives/recipes",
     "Clippings",
     "3-resources/attachments/creamy-dijon-chicken.png",

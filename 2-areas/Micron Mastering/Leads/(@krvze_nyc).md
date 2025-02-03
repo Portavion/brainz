@@ -1,8 +1,6 @@
 ---
 Date: 2025-02-03T17:17:12+00:00
 Url: https://www.instagram.com/krvze_nyc/
-Cold: false
-Warm: true
 Liked: false
 Followed: true
 DMed: false
@@ -11,6 +9,7 @@ Initial DM: false
 Engaged: false
 Lost: false
 Call Booked: false
+fileClass: leads
 tags:
   - lead
 ---
