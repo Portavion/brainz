@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
-                "mode": "source",
+                "file": "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vex Noir (@youseethesense)"
+              "title": "(@brombonesxo)"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
+                "file": "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vex Noir (@youseethesense)"
+              "title": "Outline of (@brombonesxo)"
             }
           },
           {
@@ -161,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "baa5fd5e0b5bcb3e",
@@ -199,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +214,7 @@
   },
   "active": "6f7d34cc745322ef",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
     "2-areas/Micron Mastering/Leads/UNCLØSD (@unclosdmusic).md",
     "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
     "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
@@ -231,7 +231,6 @@
     "2-areas/Micron Mastering/Leads/(@krvze_nyc).md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "2-areas/Micron Mastering/CRM.md",
-    "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
     "4-archives/classes/leads.md",
     "4-archives/classes",
