@@ -11,18 +11,28 @@
             "id": "6f7d34cc745322ef",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "User Authentication.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "User Authentication"
+            }
+          },
+          {
+            "id": "1e68d2194f95a32d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Chalkr/Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap"
             }
           }
         ]
@@ -145,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "User Authentication.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled Kanban"
+              "title": "Outline of User Authentication"
             }
           },
           {
@@ -219,9 +229,10 @@
   },
   "active": "6f7d34cc745322ef",
   "lastOpenFiles": [
-    "1-projects/Chalkr/Kanban.md",
-    "Untitled Kanban.md",
     "1-projects/Chalkr/Roadmap.md",
+    "User Authentication.md",
+    "1-projects/Chalkr/Chalkr Kanban.md",
+    "1-projects/Chalkr/Kanban.md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Velock",
     "1-projects/Chalkr",
@@ -250,7 +261,6 @@
     "2-areas/Micron Mastering/Leads",
     "2-areas/Micron Mastering/Leads.md",
     "2-areas/Micron Mastering",
-    "0-inbox/Outreach list.md",
     "4-archives/projects",
     "3-resources/attachments/CleanShot 2025-01-23 at 20.19.41@2x.png",
     "3-resources/attachments/CleanShot 2025-01-23 at 20.18.24@2x.png",
