@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Outreach list"
             }
-          },
-          {
-            "id": "f10b24c15497173a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,12 +141,23 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0-inbox/Outreach list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Outreach list"
+            }
+          },
+          {
+            "id": "885f20c717114316",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ],
@@ -214,8 +212,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f10b24c15497173a",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
+    "4-archives/projects",
     "0-inbox/Repiet (@repiett) • Instagram photos and videos.md",
     "0-inbox/Outreach list.md",
     "3-resources/keyboard/Keyboard mapping.md",
@@ -242,7 +241,7 @@
     "3-resources/templates/Weekly notes template.md",
     "3-resources/climbing",
     "3-resources/templates/1734449485-testnewnotenvim.md",
-    "1-projects/salty-lips-mix.md",
+    "4-archives/projects/salty-lips-mix.md",
     "4-archives/weekly-notes/2024-W50.md",
     "0-inbox/test.md",
     "scrtatcg.md",
@@ -250,7 +249,6 @@
     "2-areas/Portavion/inspirations/Gloom-Wirski1991-Mix.md",
     "2-areas/Portavion/inspirations",
     "2-areas/Portavion",
-    "portablog/Creamy Dijon Chicken test resizing.md",
     "1-inbox",
     "2-areas/Flexibility/MFTK Pike & H2T Program AYSYIRNV2.pdf",
     "4-archives/weekly-notes",

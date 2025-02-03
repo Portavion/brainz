@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-text-format",
   "calendar",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-reminder-plugin",
+  "dataview"
 ]
