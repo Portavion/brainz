@@ -1,6 +1,6 @@
 ---
-Date: "2025-02-03T17:20:33+00:00"
-Url: "https://www.instagram.com/brombonesxo/"
+Date: 2025-02-03T17:20:33+00:00
+Url: https://www.instagram.com/brombonesxo/
 Cold: false
 Warm: true
 Liked: false
@@ -12,7 +12,8 @@ Engaged: false
 Lost: false
 Call Booked: false
 tags:
-  - "lead"
+  - lead
+fileClass: leads
 ---
 # Description
 2,067 followers, 1,124 following, 121 posts – @brombonesxo on Instagram: "All the vibess🧪💉💿 Nashville
