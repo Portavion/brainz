@@ -10,9 +10,10 @@ DMed: false
 Form: false
 Initial DM: false
 Engaged: false
-Lead: false
 Lost: false
-Call Booked:
+Call Booked: 
+tags:
+  - lead
 ---
 # Notes
 
