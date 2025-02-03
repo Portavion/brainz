@@ -1,1 +1,4 @@
 - [ ] Save data locally with SQLite
+- [ ] table for users
+- [ ] table for workout
+- [ ] function to save and retrieve locally

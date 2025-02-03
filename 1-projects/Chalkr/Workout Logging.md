@@ -1,3 +1,5 @@
-- [ ] Log boulder and grade
+- [ ] form to log boulder (date, grade, location, picture, tags like overhang slab etc... )
+- [ ] Save to SQLite
+- [ ] Display list of workouts
 - [ ] Ascent timer
 - [ ] Rest timer

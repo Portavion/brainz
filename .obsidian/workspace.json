@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/Offline support.md",
+                "file": "1-projects/Chalkr/Data Syncing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Offline support"
+              "title": "Data Syncing"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "00. Roadmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Chalkr/00. Roadmap.md",
+                "file": "1-projects/Chalkr/Data Syncing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00. Roadmap"
+              "title": "Outline of Data Syncing"
             }
           },
           {
@@ -228,15 +227,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "59a1d1d1500aafd2",
+  "active": "1e68d2194f95a32d",
   "lastOpenFiles": [
-    "1-projects/Chalkr/Offline support.md",
-    "1-projects/Chalkr/00. Chalkr Kanban.md",
-    "1-projects/Chalkr/User Authentication.md",
     "1-projects/Chalkr/00. Roadmap.md",
-    "Basic Climbing Stats.md",
     "1-projects/Chalkr/Data Syncing.md",
+    "1-projects/Chalkr/00. Chalkr Kanban.md",
     "1-projects/Chalkr/Workout Logging.md",
+    "1-projects/Chalkr/Offline support.md",
+    "1-projects/Chalkr/User Authentication.md",
+    "Basic Climbing Stats.md",
     "1-projects/Chalkr/Kanban.md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Velock",

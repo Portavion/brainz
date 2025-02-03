@@ -1,1 +1,6 @@
+- [ ] Create tables and sync like SQLite
+- [ ] Write scripts for database migrations 
+- [ ] Create endpoint for syncing data (/sync/workouts)
+- [ ] Handle conflict resolution (local wins?)
+- [ ] Detech w
 - [ ] Sync local data with backend when online
