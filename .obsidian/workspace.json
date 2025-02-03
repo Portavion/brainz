@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
-                "mode": "source",
+                "file": "2-areas/Micron Mastering/CRM.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PLNTDDY (@plntddy_)"
+              "title": "CRM"
+            }
+          },
+          {
+            "id": "0ec55031a5ae38ea",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__leads",
+              "state": {},
+              "icon": "package",
+              "title": "leads"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PLNTDDY (@plntddy_)"
+              "title": "Outline of CRM"
             }
           },
           {
@@ -212,11 +223,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b4a0aca820114c2f",
+  "active": "0ec55031a5ae38ea",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/SCOTT MAC (@scottmac_damager).md",
-    "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
+    "4-archives/classes/leads.md",
+    "4-archives/classes",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
+    "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
+    "2-areas/Micron Mastering/Leads/SCOTT MAC (@scottmac_damager).md",
     "2-areas/Micron Mastering/Leads/UNCLØSD (@unclosdmusic).md",
     "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
     "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
@@ -245,14 +258,12 @@
     "3-resources/attachments/CleanShot 2025-01-23 at 20.18.24@2x.png",
     "3-resources/keyboard",
     "0-inbox/Slow Cooker Chicken Pozole Verde.md",
-    "0-inbox/Perfect pak choi.md",
     "4-archives/recipes",
     "Clippings",
     "3-resources/attachments/creamy-dijon-chicken.png",
     "3-resources/climbing",
     "2-areas/Portavion/inspirations",
     "2-areas/Portavion",
-    "1-inbox",
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",
     "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png"
