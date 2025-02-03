@@ -1,0 +1,4 @@
+- [ ] Total climbs
+- [ ] Grade distribution
+- [ ] Per grade flash rate
+- [ ] Visualise with charting library

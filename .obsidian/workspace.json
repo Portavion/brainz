@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/Data Syncing.md",
+                "file": "1-projects/Chalkr/Workout Logging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Syncing"
+              "title": "Workout Logging"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Chalkr/Data Syncing.md",
+                "file": "1-projects/Chalkr/Workout Logging.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Syncing"
+              "title": "Outline of Workout Logging"
             }
           },
           {
@@ -229,13 +229,14 @@
   },
   "active": "1e68d2194f95a32d",
   "lastOpenFiles": [
-    "1-projects/Chalkr/00. Roadmap.md",
-    "1-projects/Chalkr/Data Syncing.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
+    "1-projects/Chalkr/00. Roadmap.md",
+    "1-projects/Chalkr/User Authentication 09-02-25.md",
+    "1-projects/Chalkr/Tests.md",
+    "1-projects/Chalkr/Basic Climbing Stats.md",
+    "1-projects/Chalkr/Data Syncing.md",
     "1-projects/Chalkr/Workout Logging.md",
     "1-projects/Chalkr/Offline support.md",
-    "1-projects/Chalkr/User Authentication.md",
-    "Basic Climbing Stats.md",
     "1-projects/Chalkr/Kanban.md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Velock",
@@ -257,7 +258,6 @@
     "2-areas/Micron Mastering/Leads/(@krvze_nyc).md",
     "2-areas/Micron Mastering/CRM.md",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
-    "4-archives/classes/leads.md",
     "4-archives/classes",
     "2-areas/Micron Mastering/Leads",
     "2-areas/Micron Mastering",

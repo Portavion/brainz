@@ -1,0 +1,7 @@
+- **Frontend**:
+    - Improve the UI/UX (e.g., add loading states, error handling).
+    - Write unit and integration tests for components and hooks.
+    - Write E2E tests for critical user flows (e.g., logging a workout, syncing data).
+- **Backend**:
+    - Write unit and integration tests for APIs and database interactions.
+    - Test the backend with tools like Postman or Supertest.

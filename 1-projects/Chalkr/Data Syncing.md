@@ -2,5 +2,5 @@
 - [ ] Write scripts for database migrations 
 - [ ] Create endpoint for syncing data (/sync/workouts)
 - [ ] Handle conflict resolution (local wins?)
-- [ ] Detech w
+- [ ] Detect when user is online
 - [ ] Sync local data with backend when online
