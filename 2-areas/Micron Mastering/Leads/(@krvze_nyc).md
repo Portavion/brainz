@@ -12,6 +12,9 @@ Call Booked: false
 fileClass: leads
 tags:
   - lead
+Last Contact: 
+Lead Type: Warm
+Qualified: 
 ---
 # Description
 1,048 followers, 1,788 following, 0 posts – @krvze_nyc on Instagram: "📸🎬🎶👽🚀♎️🇮🇹🇺🇸

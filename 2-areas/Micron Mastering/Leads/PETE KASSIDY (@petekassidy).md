@@ -1,8 +1,6 @@
 ---
 Date: 2025-02-03T17:17:27+00:00
 Url: https://www.instagram.com/petekassidy/
-Cold: false
-Warm: true
 Liked: false
 Followed: true
 DMed: false
@@ -11,8 +9,12 @@ Initial DM: false
 Engaged: false
 Lost: false
 Call Booked: false
+fileClass: leads
 tags:
   - lead
+Last Contact: 
+Lead Type: 
+Qualified: 
 ---
 # Description
 1,146 followers, 2,663 following, 49 posts – PETE KASSIDY (@petekassidy) on Instagram: "📍 𝑴𝒐𝒏𝒂𝒄𝒐, 𝑴𝑪
