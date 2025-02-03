@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4a0aca820114c2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "CRM"
-            }
-          },
-          {
-            "id": "92329263cc13b9f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-archives/classes/leads.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "leads"
-            }
-          },
-          {
             "id": "6f7d34cc745322ef",
             "type": "leaf",
             "state": {
@@ -47,16 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "(@brombonesxo)"
-            }
-          },
-          {
-            "id": "34dd31c0d4a3d432",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__leads",
-              "state": {},
-              "icon": "user",
-              "title": "leads"
             }
           },
           {
@@ -74,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -268,6 +230,8 @@
   },
   "active": "b52f372a0b1945e5",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
+    "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
     "2-areas/Micron Mastering/Leads/UNCLØSD (@unclosdmusic).md",
     "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
@@ -283,10 +247,8 @@
     "2-areas/Micron Mastering/Leads/Capon (@capon_music).md",
     "2-areas/Micron Mastering/Leads/Atze Sit (@atzesit).md",
     "2-areas/Micron Mastering/Leads/(@krvze_nyc).md",
-    "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
     "4-archives/classes/leads.md",
-    "2-areas/Micron Mastering/CRM.md",
     "4-archives/classes",
     "2-areas/Micron Mastering/Leads/\"Capon (@capon_music) • Instagram photos and videos\".md",
     "2-areas/Micron Mastering/Leads/Capon (@capon_music) • Instagram photos and videossplit\"•\"0.md",
