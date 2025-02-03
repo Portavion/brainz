@@ -1,4 +1,0 @@
-- [ ] Signup
-- [ ] Log in
-- [ ] Forgotten password
-- [ ] Session 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User Authentication.md",
+                "file": "1-projects/Chalkr/User Authentication.md",
                 "mode": "source",
                 "source": false
               },
@@ -25,17 +25,40 @@
             "id": "1e68d2194f95a32d",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "00. Chalkr Kanban"
+            }
+          },
+          {
+            "id": "59a1d1d1500aafd2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/Roadmap.md",
+                "file": "1-projects/Chalkr/00. Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "00. Roadmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User Authentication.md",
+                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of User Authentication"
+              "title": "Outline of 00. Chalkr Kanban"
             }
           },
           {
@@ -227,11 +250,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6f7d34cc745322ef",
+  "active": "1e68d2194f95a32d",
   "lastOpenFiles": [
-    "1-projects/Chalkr/Roadmap.md",
-    "User Authentication.md",
-    "1-projects/Chalkr/Chalkr Kanban.md",
+    "1-projects/Chalkr/00. Roadmap.md",
+    "1-projects/Chalkr/00. Chalkr Kanban.md",
+    "1-projects/Chalkr/Data Syncing.md",
+    "1-projects/Chalkr/Offline support.md",
+    "1-projects/Chalkr/Workout Logging.md",
+    "1-projects/Chalkr/User Authentication.md",
     "1-projects/Chalkr/Kanban.md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Velock",
@@ -256,10 +282,7 @@
     "4-archives/classes/leads.md",
     "4-archives/classes",
     "2-areas/Micron Mastering/Leads/\"Capon (@capon_music) • Instagram photos and videos\".md",
-    "2-areas/Micron Mastering/Leads/Capon (@capon_music) • Instagram photos and videossplit\"•\"0.md",
-    "4-archives/recipes/Easy Air Fryer Chicken Thighs  Everyday Family Cooking.md",
     "2-areas/Micron Mastering/Leads",
-    "2-areas/Micron Mastering/Leads.md",
     "2-areas/Micron Mastering",
     "4-archives/projects",
     "3-resources/attachments/CleanShot 2025-01-23 at 20.19.41@2x.png",

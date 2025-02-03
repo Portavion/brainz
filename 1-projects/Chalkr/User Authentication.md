@@ -1,0 +1,5 @@
+- [ ] Signup
+- [ ] Log in
+- [ ] Forgotten password
+- [ ] Session auth / local storage
+- [ ] Authenticated backend routes
