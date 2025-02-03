@@ -8,39 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f7d34cc745322ef",
+            "id": "1e68d2194f95a32d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/User Authentication.md",
+                "file": "1-projects/Chalkr/Offline support.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User Authentication"
-            }
-          },
-          {
-            "id": "1e68d2194f95a32d",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "00. Chalkr Kanban"
+              "title": "Offline support"
             }
           },
           {
@@ -178,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
+                "file": "1-projects/Chalkr/00. Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00. Chalkr Kanban"
+              "title": "Outline of 00. Roadmap"
             }
           },
           {
@@ -250,14 +228,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1e68d2194f95a32d",
+  "active": "59a1d1d1500aafd2",
   "lastOpenFiles": [
-    "1-projects/Chalkr/00. Roadmap.md",
-    "1-projects/Chalkr/00. Chalkr Kanban.md",
-    "1-projects/Chalkr/Data Syncing.md",
     "1-projects/Chalkr/Offline support.md",
-    "1-projects/Chalkr/Workout Logging.md",
+    "1-projects/Chalkr/00. Chalkr Kanban.md",
     "1-projects/Chalkr/User Authentication.md",
+    "1-projects/Chalkr/00. Roadmap.md",
+    "Basic Climbing Stats.md",
+    "1-projects/Chalkr/Data Syncing.md",
+    "1-projects/Chalkr/Workout Logging.md",
     "1-projects/Chalkr/Kanban.md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Velock",
@@ -281,7 +260,6 @@
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
     "4-archives/classes/leads.md",
     "4-archives/classes",
-    "2-areas/Micron Mastering/Leads/\"Capon (@capon_music) • Instagram photos and videos\".md",
     "2-areas/Micron Mastering/Leads",
     "2-areas/Micron Mastering",
     "4-archives/projects",

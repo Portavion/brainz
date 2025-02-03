@@ -1,0 +1,3 @@
+- [ ] Total climbs
+- [ ] Grade distribution
+- [ ] Per grade flash rate

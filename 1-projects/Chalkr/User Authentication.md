@@ -1,5 +1,6 @@
-- [ ] Signup
-- [ ] Log in
-- [ ] Forgotten password
+- [x] Signup
+- [x] Log in
 - [ ] Session auth / local storage
+- [ ] Forgotten password
 - [ ] Authenticated backend routes
+- [ ] Backend endpoint to verify tokens and manage users
