@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "(@brombonesxo)"
-            }
-          },
-          {
-            "id": "b52f372a0b1945e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2-areas/Micron Mastering/CRM.md",
                 "mode": "source",
                 "source": true
@@ -35,8 +21,7 @@
               "title": "CRM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +213,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b52f372a0b1945e5",
+  "active": "6f7d34cc745322ef",
   "lastOpenFiles": [
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "2-areas/Micron Mastering/CRM.md",
