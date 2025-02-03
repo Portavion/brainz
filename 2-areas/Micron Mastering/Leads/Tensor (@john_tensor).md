@@ -13,8 +13,8 @@ fileClass: leads
 tags:
   - lead
 Last Contact: 
-Lead Type: 
-Qualified: 
+Lead Type: Warm
+Qualified:
 ---
 # Description
 679 followers, 7,175 following, 58 posts – Tensor (@john_tensor) on Instagram: "DJ/Producer/Scientist

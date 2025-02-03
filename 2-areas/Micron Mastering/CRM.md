@@ -6,3 +6,11 @@ table without id
 from #lead and -"Templates"
 ```
 
+```dataviewjs
+const {fieldmodifier: f}=
+this.app.plugins.plugins["metadata-menu"].api;
+
+dv.table
+dv.pages('')
+	.where(p => p.fileClass == 'Lead')
+```

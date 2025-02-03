@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
-                "mode": "preview",
+                "file": "2-areas/Micron Mastering/CRM.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tensor (@john_tensor)"
+              "title": "CRM"
             }
           }
         ],
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tensor (@john_tensor)"
+              "title": "Outline of CRM"
             }
           },
           {
@@ -268,8 +268,10 @@
   },
   "active": "b52f372a0b1945e5",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
+    "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
+    "2-areas/Micron Mastering/Leads/UNCLØSD (@unclosdmusic).md",
     "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
+    "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
     "2-areas/Micron Mastering/Leads/SCOTT MAC (@scottmac_damager).md",
     "2-areas/Micron Mastering/Leads/Sayf (@m21six).md",
     "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
@@ -282,8 +284,6 @@
     "2-areas/Micron Mastering/Leads/Atze Sit (@atzesit).md",
     "2-areas/Micron Mastering/Leads/(@krvze_nyc).md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
-    "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
-    "2-areas/Micron Mastering/Leads/UNCLØSD (@unclosdmusic).md",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
     "4-archives/classes/leads.md",
     "2-areas/Micron Mastering/CRM.md",
