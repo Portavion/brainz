@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
-                "mode": "preview",
+                "file": "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CRM"
+              "title": "Vex Noir (@youseethesense)"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
+                "file": "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CRM"
+              "title": "Outline of Vex Noir (@youseethesense)"
             }
           },
           {
@@ -215,9 +215,6 @@
   },
   "active": "6f7d34cc745322ef",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
-    "2-areas/Micron Mastering/CRM.md",
-    "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "2-areas/Micron Mastering/Leads/UNCLØSD (@unclosdmusic).md",
     "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
     "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
@@ -232,6 +229,9 @@
     "2-areas/Micron Mastering/Leads/Capon (@capon_music).md",
     "2-areas/Micron Mastering/Leads/Atze Sit (@atzesit).md",
     "2-areas/Micron Mastering/Leads/(@krvze_nyc).md",
+    "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
+    "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
     "4-archives/classes/leads.md",
     "4-archives/classes",

@@ -20,5 +20,5 @@ Qualified:
 1,048 followers, 1,788 following, 0 posts – @krvze_nyc on Instagram: "📸🎬🎶👽🚀♎️🇮🇹🇺🇸
 𝔑𝔢𝔳𝔢𝔯𝔪𝔦𝔫𝔡 ℑ’𝔪 𝔒𝔎 𝑰𝑰𝑰……."
 # Notes
-
+- [ ] Send Initial DM (@2025-02-04)
 # DM Feed

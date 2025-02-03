@@ -21,4 +21,5 @@ Qualified:
 Model"
 # Notes
 
+- [ ] Send Initial DM (@2025-02-04)
 # DM Feed
