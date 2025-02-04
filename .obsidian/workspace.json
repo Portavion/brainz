@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/00. Roadmap.md",
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. Roadmap"
+              "title": "CRM"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.5
   },
   "right": {
     "id": "8d17c88403c2623c",
@@ -209,14 +209,14 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "848a39bbb07fbcb7",
   "lastOpenFiles": [
-    "1-projects/Chalkr/Basic Climbing Stats 02-03-25.md",
     "1-projects/Chalkr/00. Roadmap.md",
+    "1-projects/Chalkr/Basic Climbing Stats 02-03-25.md",
     "0-inbox/Slow Cooker Chicken Pozole Verde.md",
     "0-inbox/Perfect pak choi.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
