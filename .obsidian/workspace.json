@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/Basic Climbing Stats 02-03-25.md",
+                "file": "1-projects/Chalkr/00. Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Climbing Stats 02-03-25"
+              "title": "00. Roadmap"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Chalkr/Basic Climbing Stats 02-03-25.md",
+                "file": "1-projects/Chalkr/00. Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Climbing Stats 02-03-25"
+              "title": "Outline of 00. Roadmap"
             }
           },
           {
@@ -215,10 +215,10 @@
   },
   "active": "848a39bbb07fbcb7",
   "lastOpenFiles": [
+    "1-projects/Chalkr/Basic Climbing Stats 02-03-25.md",
     "1-projects/Chalkr/00. Roadmap.md",
     "0-inbox/Slow Cooker Chicken Pozole Verde.md",
     "0-inbox/Perfect pak choi.md",
-    "1-projects/Chalkr/Basic Climbing Stats 02-03-25.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
     "1-projects/Chalkr/Data Syncing 23-03-25.md",
     "1-projects/Chalkr/Offline support 09-02-25.md",
