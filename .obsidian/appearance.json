@@ -2,5 +2,6 @@
   "theme": "obsidian",
   "cssTheme": "Everforest",
   "accentColor": "",
-  "translucency": false
+  "translucency": false,
+  "nativeMenus": false
 }

@@ -22,5 +22,5 @@ Bookings: DM / masmoudi.spotm@gmail.com
 Dj sets & productions 👇🏼"
 # Notes
 
-- [ ] Send Initial DM (@2025-02-04)
+- [ ] Send Initial DM (@2025-02-04 14:31)
 # DM Feed

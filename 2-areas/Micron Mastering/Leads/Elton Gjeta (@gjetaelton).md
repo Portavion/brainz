@@ -22,5 +22,5 @@ Qualified:
 Amsterdam,Tirana,Athens."
 # Notes
 
-- [ ] Send Initial DM (@2025-02-04)
+- [ ] Send Initial DM (@2025-02-04 14:31)
 # DM Feed

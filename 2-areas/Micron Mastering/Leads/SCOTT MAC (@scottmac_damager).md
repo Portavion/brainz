@@ -21,5 +21,5 @@ Qualified:
 LIMIT / ARMADA / OUTBURST /MAELSTROM/ SPINNIN / JINX / TIDY TRAX / MAGIK MUSIC  scottdmcshane@yahoo.co.uk"
 # Notes
 
-- [ ] Send Initial DM (@2025-02-04)
+- [ ] Send Initial DM (@2025-02-04 14:31)
 # DM Feed
