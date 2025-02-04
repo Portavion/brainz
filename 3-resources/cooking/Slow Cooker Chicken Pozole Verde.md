@@ -13,11 +13,9 @@ published: "2022-02-18"
 source: https://www.goodhousekeeping.com/food-recipes/a38869617/pozole-verde-recipe/
 title: Slow Cooker Chicken Pozole Verde
 ---
-
 ## Ingredients
 
 For 4 servings:
-
 - 350ml beer
 - 1 Tbsp chicken stock
 - 2 tsp ground cumin
