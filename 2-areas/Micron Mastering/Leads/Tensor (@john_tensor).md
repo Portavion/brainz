@@ -23,5 +23,5 @@ Resident at Das Booty, Slagland + The Cutting Rooms
 electro, breaks, techno, r&b, garage, hip hop, dnb jungle, 160.."
 # Notes
 
-- [ ] Send Initial DM (@2025-02-04 14:31)
+- [ ] Send Initial DM (@2025-02-05)
 # DM Feed
