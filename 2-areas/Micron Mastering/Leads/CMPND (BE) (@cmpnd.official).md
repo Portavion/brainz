@@ -23,6 +23,6 @@ Qualified:
 🇧🇪 Antwerp"
 # Notes
 
-- [ ] Send Initial DM (@2025-02-05)
+- [ ] Send Initial DM (@2025-02-05 13:16)
 
 # DM Feed
