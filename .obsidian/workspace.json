@@ -11,28 +11,22 @@
             "id": "0b8608fa8fb5a428",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "4-archives/daily-notes/2025-02-05.md",
-                "mode": "source",
-                "source": false
+                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-02-05"
-            }
-          },
-          {
-            "id": "1ff44edb66ba55df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-projects/Chalkr/User Authentication 09-02-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "User Authentication 09-02-25"
+              "icon": "lucide-trello",
+              "title": "00. Chalkr Kanban"
             }
           }
         ]
@@ -157,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-archives/daily-notes/2025-02-05.md",
+                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-05"
+              "title": "Outline of 00. Chalkr Kanban"
             }
           },
           {
@@ -231,10 +225,14 @@
   },
   "active": "0b8608fa8fb5a428",
   "lastOpenFiles": [
-    "4-archives/daily-notes/2025-02-04.md",
-    "4-archives/daily-notes/2025-02-05.md",
+    "1-projects/Chalkr/00. Roadmap.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
-    "1-projects/Chalkr/User Authentication 09-02-25.md",
+    "1-projects/Chalkr/features/Tests.md",
+    "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
+    "1-projects/Chalkr/features",
+    "1-projects/Chalkr/features/User Authentication 09-02-25.md",
+    "4-archives/daily-notes/2025-02-05.md",
+    "4-archives/daily-notes/2025-02-04.md",
     "3-resources/cooking/00 index.md",
     "3-resources/cooking/Perfect pak choi.md",
     "3-resources/cooking/Slow Cooker Chicken Pozole Verde.md",
@@ -242,12 +240,9 @@
     "0-inbox/Untitled.md",
     "4-archives/Outreach list.md",
     "1-projects/Velock/UI design.md",
-    "1-projects/Chalkr/00. Roadmap.md",
-    "1-projects/Chalkr/Basic Climbing Stats 02-03-25.md",
-    "1-projects/Chalkr/Data Syncing 23-03-25.md",
-    "1-projects/Chalkr/Offline support 09-02-25.md",
-    "1-projects/Chalkr/Workout Logging  16-02-25.md",
-    "1-projects/Chalkr/Tests.md",
+    "1-projects/Chalkr/features/Basic Climbing Stats 02-03-25.md",
+    "1-projects/Chalkr/features/Data Syncing 23-03-25.md",
+    "1-projects/Chalkr/features/Offline support 09-02-25.md",
     "1-projects/Chalkr/Kanban.md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Velock",
@@ -258,7 +253,6 @@
     "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
     "2-areas/Micron Mastering/Leads/SCOTT MAC (@scottmac_damager).md",
     "2-areas/Micron Mastering/Leads/Sayf (@m21six).md",
-    "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
     "4-archives/classes",
     "2-areas/Micron Mastering/Leads",
@@ -270,7 +264,6 @@
     "4-archives/recipes",
     "Clippings",
     "3-resources/attachments/creamy-dijon-chicken.png",
-    "3-resources/climbing",
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",
     "3-resources/attachments/CleanShot 2024-12-06 at 22.41.02@2x.png"

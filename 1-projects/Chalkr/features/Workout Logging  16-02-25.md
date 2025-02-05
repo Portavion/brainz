@@ -1,0 +1,7 @@
+- [x] form to log boulder (date, grade, location, picture, tags like overhang slab etc... )
+- [ ] add pic to ui
+- [ ] tests for ui
+- [ ] Save to SQLite
+- [ ] Display list of workouts
+- [x] Ascent timer
+- [x] Rest timer
