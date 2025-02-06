@@ -5,16 +5,16 @@ Liked: false
 Followed: true
 DMed: false
 Form: false
-Initial DM: false
+Initial DM: true
 Engaged: false
 Lost: false
 Call Booked: 
 fileClass: leads
 tags:
   - lead
-Last Contact: 
+Last Contact: 2025-02-06
 Lead Type: Warm
-Qualified:
+Qualified: TBC
 ---
 Description: '1,148 followers, 4,529 following, 65 posts – Seamus Alf Leyla (@alfleyla_seamus) on Instagram: "🏴󠁧󠁢󠁳󠁣󠁴󠁿 Electronic ArtistResident@firsteditionedinburgh @fightnight_gla🆎🐑📍Glasgow"'
 # Notes

@@ -5,16 +5,16 @@ Liked: false
 Followed: true
 DMed: false
 Form: false
-Initial DM: false
+Initial DM: true
 Engaged: false
 Lost: false
 Call Booked: false
 fileClass: leads
 tags:
   - lead
-Last Contact: 
+Last Contact: 2025-02-06
 Lead Type: Warm
-Qualified:
+Qualified: TBC
 ---
 # Description
 679 followers, 7,175 following, 58 posts – Tensor (@john_tensor) on Instagram: "DJ/Producer/Scientist
