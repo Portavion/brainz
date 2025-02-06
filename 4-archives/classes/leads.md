@@ -10,10 +10,10 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - Wjdazp
   - XuF6z9
   - VKqli7
   - ynR6D1
-  - LzOF7X
   - VfNEGn
   - GJVkqJ
   - 3GuaRx
@@ -23,7 +23,7 @@ fieldsOrder:
   - ZdghSe
   - zqfi6W
   - nbjxDa
-version: "2.19"
+version: "2.21"
 fields:
   - name: Url
     type: Input
@@ -78,11 +78,6 @@ fields:
     options: {}
     path: ""
     id: VfNEGn
-  - name: Qualified
-    type: Boolean
-    options: {}
-    path: ""
-    id: LzOF7X
   - name: Lost
     type: Boolean
     options: {}
@@ -102,4 +97,14 @@ fields:
       linkPath: ""
     path: ""
     id: XuF6z9
+  - name: Qualified
+    type: Select
+    options:
+      sourceType: ValuesList
+      valuesList:
+        "1": ""
+        "2": Qualified
+        "3": Not Qualified
+    path: ""
+    id: Wjdazp
 ---

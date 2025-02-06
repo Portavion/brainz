@@ -14,11 +14,11 @@ tags:
 fileClass: leads
 Last Contact: 
 Lead Type: Warm
-Qualified: 
+Qualified: Not Qualified
 ---
 # Description
 2,067 followers, 1,124 following, 121 posts – @brombonesxo on Instagram: "All the vibess🧪💉💿 Nashville
 Band: @lolamontez.subvert"
 # Notes
-- [ ] Send Initial DM (@2025-02-05 13:16)
+- [x] Send Initial DM (@2025-02-05 13:16)
 # DM Feed

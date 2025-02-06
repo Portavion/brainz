@@ -20,8 +20,29 @@
               "icon": "lucide-file",
               "title": "CRM"
             }
+          },
+          {
+            "id": "ad200ddfb6f460ad",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__leads",
+              "state": {},
+              "icon": "user",
+              "title": "leads"
+            }
+          },
+          {
+            "id": "8e1b556e0a434150",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 392.5
   },
   "right": {
     "id": "8d17c88403c2623c",
@@ -144,13 +164,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CRM"
+              "title": "Outline"
             }
           },
           {
@@ -216,9 +235,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0b8608fa8fb5a428",
+  "active": "8e1b556e0a434150",
   "lastOpenFiles": [
     "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Chalkr/00. Roadmap.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
     "4-archives/daily-notes/2025-02-05.md",
@@ -237,7 +257,6 @@
     "1-projects/Chalkr/features/Data Syncing 23-03-25.md",
     "1-projects/Chalkr/features/Offline support 09-02-25.md",
     "1-projects/Chalkr/Kanban.md",
-    "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Velock",
     "1-projects/Chalkr",
     "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
