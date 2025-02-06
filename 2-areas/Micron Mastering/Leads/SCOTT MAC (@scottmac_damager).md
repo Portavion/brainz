@@ -14,7 +14,7 @@ tags:
   - lead
 Last Contact: 
 Lead Type: Warm
-Qualified:
+Qualified: Not Qualified
 ---
 # Description
 1,810 followers, 2,564 following, 4,180 posts – SCOTT MAC (@scottmac_damager) on Instagram: "COMING ON STRONG / DAMAGER / MAC & MAC 
