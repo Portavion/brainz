@@ -21,5 +21,5 @@ Qualified: TBC
 Booking/Inquiries: plntddy@gmail.com or DM"
 # Notes
 
-- [ ] Send Initial DM (@2025-02-05 13:17)
+- [x] Send Initial DM (@2025-02-05 13:17)
 # DM Feed

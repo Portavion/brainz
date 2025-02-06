@@ -14,12 +14,12 @@ tags:
   - lead
 Last Contact: 
 Lead Type: Warm
-Qualified:
+Qualified: Not Qualified
 ---
 # Description
 653 followers, 3,180 following, 29 posts – Vex Noir (@youseethesense) on Instagram: "Industrial techno DJ
 Model"
 # Notes
 
-- [ ] Send Initial DM (@2025-02-05 13:17)
+- [x] Send Initial DM (@2025-02-05 13:17)
 # DM Feed
