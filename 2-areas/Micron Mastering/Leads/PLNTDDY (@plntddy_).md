@@ -5,16 +5,16 @@ Liked: false
 Followed: true
 DMed: false
 Form: false
-Initial DM: false
+Initial DM: true
 Engaged: false
 Lost: false
 Call Booked: false
 fileClass: leads
 tags:
   - lead
-Last Contact: 
+Last Contact: 2025-02-06
 Lead Type: Warm
-Qualified:
+Qualified: TBC
 ---
 # Description
 1,264 followers, 1,352 following, 19 posts – PLNTDDY (@plntddy_) on Instagram: "Dortmund based 
