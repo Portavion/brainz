@@ -14,7 +14,7 @@ tags:
   - lead
 Last Contact: 
 Lead Type: Warm
-Qualified: 
+Qualified: Not Qualified
 ---
 # Description
 1,150 followers, 1,956 following, 135 posts – Capon (@capon_music) on Instagram: "𝐈 𝐦𝐚𝐤𝐞 𝐲𝐨𝐮 𝐜𝐫𝐲 𝐰𝐡𝐢𝐥𝐞 𝐲𝐨𝐮 𝐝𝐚𝐧𝐜𝐞

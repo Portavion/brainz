@@ -14,7 +14,7 @@ tags:
   - lead
 Last Contact: 
 Lead Type: Warm
-Qualified: 
+Qualified: Not Qualified
 ---
 # Description
 806 followers, 2,189 following, 62 posts – Elton Gjeta (@gjetaelton) on Instagram: "producer/dj
@@ -22,5 +22,5 @@ Qualified:
 Amsterdam,Tirana,Athens."
 # Notes
 
-- [ ] Send Initial DM (@2025-02-05 13:17)
+- [x] Send Initial DM (@2025-02-05 13:17)
 # DM Feed

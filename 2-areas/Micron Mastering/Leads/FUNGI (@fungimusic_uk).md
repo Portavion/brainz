@@ -14,12 +14,12 @@ tags:
   - lead
 Last Contact: 
 Lead Type: Warm
-Qualified:
+Qualified: Not Qualified
 ---
 # Description
 1,782 followers, 3,829 following, 12 posts – FUNGI (@fungimusic_uk) on Instagram: "DJ/PRODUCER 
 Fitness, food & Feel Good Vibes🎧"
 # Notes
 
-- [ ] Send Initial DM (@2025-02-05 13:17)
+- [x] Send Initial DM (@2025-02-05 13:17)
 # DM Feed
