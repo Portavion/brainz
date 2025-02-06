@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 275.5
   },
   "right": {
     "id": "8d17c88403c2623c",
@@ -217,7 +217,9 @@
   },
   "active": "0b8608fa8fb5a428",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/Capon (@capon_music).md",
     "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Chalkr/00. Roadmap.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
@@ -244,7 +246,6 @@
     "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
     "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
     "2-areas/Micron Mastering/Leads/SCOTT MAC (@scottmac_damager).md",
-    "2-areas/Micron Mastering/Leads/Sayf (@m21six).md",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
     "4-archives/classes",
     "2-areas/Micron Mastering/Leads",

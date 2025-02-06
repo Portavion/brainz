@@ -23,5 +23,5 @@ Electronic music producer 🌊💣
 DJ for @insta_ond
 capon.contact@gmail.com"
 # Notes
-- [ ] Send Initial DM (@2025-02-05 13:16)
+- [x] Send Initial DM (@2025-02-05 13:16)
 # DM Feed

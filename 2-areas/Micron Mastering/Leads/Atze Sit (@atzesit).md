@@ -20,5 +20,5 @@ Qualified: Not Qualified
 414 followers, 1,938 following, 15 posts – Atze Sit (@atzesit) on Instagram: "Geballte AtzenPower!!!!!
 MiNiMaL-TeChn0"
 # Notes
-- [ ] Send Initial DM (@2025-02-05 13:16)
+- [x] Send Initial DM (@2025-02-05 13:16)
 # DM Feed
