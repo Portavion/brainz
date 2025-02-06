@@ -14,7 +14,7 @@ tags:
   - lead
 Last Contact: 
 Lead Type: Warm
-Qualified: 
+Qualified: Not Qualified
 ---
 # Description
 414 followers, 1,938 following, 15 posts – Atze Sit (@atzesit) on Instagram: "Geballte AtzenPower!!!!!
