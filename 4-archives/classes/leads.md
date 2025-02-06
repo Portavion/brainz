@@ -23,7 +23,7 @@ fieldsOrder:
   - ZdghSe
   - zqfi6W
   - nbjxDa
-version: "2.21"
+version: "2.22"
 fields:
   - name: Url
     type: Input
@@ -102,7 +102,7 @@ fields:
     options:
       sourceType: ValuesList
       valuesList:
-        "1": ""
+        "1": TBC
         "2": Qualified
         "3": Not Qualified
     path: ""
