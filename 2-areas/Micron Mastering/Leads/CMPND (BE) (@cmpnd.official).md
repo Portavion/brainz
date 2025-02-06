@@ -5,7 +5,7 @@ Followed: true
 DMed: false
 Form: false
 Initial DM: true
-Engaged: false
+Engaged: true
 Lost: false
 Call Booked: false
 fileClass: leads
@@ -24,5 +24,6 @@ Qualified: TBC
 # Notes
 
 - [x] Send Initial DM (@2025-02-05 13:16)
+- [ ] Reply (@2025-02-07)
 
 # DM Feed
