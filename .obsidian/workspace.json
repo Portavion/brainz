@@ -13,15 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
+                "file": "0-inbox/A future-proof Node.js express filefolder structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRM"
+              "title": "A future-proof Node.js express filefolder structure"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -143,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
+                "file": "0-inbox/A future-proof Node.js express filefolder structure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CRM"
+              "title": "Outline of A future-proof Node.js express filefolder structure"
             }
           },
           {
@@ -217,8 +218,8 @@
   },
   "active": "e96bef568dd311e2",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
     "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
     "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
     "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
     "2-areas/Coding/Firebase Auth - Google Signup.md",

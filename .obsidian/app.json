@@ -1,10 +1,14 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "3-resources/attachments",
+  "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "mobileQuickRibbonItem": "",
   "vimMode": false,
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0-inbox"
 }
