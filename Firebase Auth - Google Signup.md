@@ -42,7 +42,7 @@ provider.setCustomParameters({
 });
 ```
 ### Authenticate with Firebase using the Google provider object
-To sign in with a pop-up window, call **signInWithPopup**:
+To sign in with a pop-up window, call **`signInWithPopup`**:
 ```js
 import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 
@@ -67,7 +67,36 @@ signInWithPopup(auth, provider)
     // ...
   });
 ```
-To sign in by redirecting to the sign-in page, call **signInWithRedirect**: Follow the [best practices](https://firebase.google.com/docs/auth/web/redirect-best-practices) when using `signInWithRedirect`.
+To sign in by redirecting to the sign-in page, call `signInWithRedirect`: Follow the [best practices](https://firebase.google.com/docs/auth/web/redirect-best-practices) when using `signInWithRedirect`.
 ```js
+import { getAuth, signInWithRedirect } from "firebase/auth";
 
+const auth = getAuth();
+signInWithRedirect(auth, provider);
+```
+Then, you can also retrieve the Google provider's OAuth token by calling `getRedirectResult` when your page loads:
+```js
+import { getAuth, getRedirectResult, GoogleAuthProvider } from "firebase/auth";
+
+const auth = getAuth();
+getRedirectResult(auth)
+  .then((result) => {
+    // This gives you a Google Access Token. You can use it to access Google APIs.
+    const credential = GoogleAuthProvider.credentialFromResult(result);
+    const token = credential.accessToken;
+
+    // The signed-in user info.
+    const user = result.user;
+    // IdP data available using getAdditionalUserInfo(result)
+    // ...
+  }).catch((error) => {
+    // Handle Errors here.
+    const errorCode = error.code;
+    const errorMessage = error.message;
+    // The email of the user's account used.
+    const email = error.customData.email;
+    // The AuthCredential type that was used.
+    const credential = GoogleAuthProvider.credentialFromError(error);
+    // ...
+  });
 ```

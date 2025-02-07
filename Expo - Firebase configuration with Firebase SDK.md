@@ -63,3 +63,4 @@ module.exports = defaultConfig;
 ## Next steps
 [[Firebase Auth - Email and password signup]]
 [[Firebase Auth - Google Signup]]
+[[Authenticate with Firebase in Node.js]]

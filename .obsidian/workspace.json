@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firebase Auth - Google Signup.md",
+                "file": "Authenticate with Firebase in Node.js.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Firebase Auth - Google Signup"
+              "title": "Authenticate with Firebase in Node.js"
+            }
+          },
+          {
+            "id": "a438a31c8d38e436",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firebase Auth - Google Signup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Firebase Auth - Google Signup"
+              "title": "Outline"
             }
           },
           {
@@ -215,8 +225,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "96115e61e7724be9",
+  "active": "a438a31c8d38e436",
   "lastOpenFiles": [
+    "Authenticate with Firebase in Node.js.md",
     "Expo - Firebase configuration with Firebase SDK.md",
     "Firebase Auth - Google Signup.md",
     "Firebase Auth - Email and password signup.md",
@@ -243,7 +254,6 @@
     "3-resources/cooking/Slow Cooker Chicken Pozole Verde.md",
     "0-inbox/Untitled.md",
     "4-archives/Outreach list.md",
-    "1-projects/Velock/UI design.md",
     "1-projects/Velock",
     "1-projects/Chalkr",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
