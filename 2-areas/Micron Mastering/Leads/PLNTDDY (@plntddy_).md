@@ -12,9 +12,9 @@ Call Booked: false
 fileClass: leads
 tags:
   - lead
-Last Contact: 2025-02-06
+Last Contact: 2025-02-07
 Lead Type: Warm
-Qualified: TBC
+Qualified: Qualified
 ---
 # Description
 1,264 followers, 1,352 following, 19 posts – PLNTDDY (@plntddy_) on Instagram: "Dortmund based 
@@ -22,7 +22,7 @@ Booking/Inquiries: plntddy@gmail.com or DM"
 # Notes
 
 - [x] Send Initial DM (@2025-02-05 13:17)
-- [ ] reply (@2025-02-07 15:08)
+- [x] reply (@2025-02-07 15:08)
 # DM Feed
 ### You
 
@@ -31,3 +31,7 @@ Hey man, thanks for the follow. Just checked out your track Virescens, pretty co
 ### PLNTDDY
 
 Hey there, Tysm Yeah I’m only mixing and mastering on my own atm
+
+### You
+
+My pleasure! Any specific reasons for doing everything on your own? Not that you are doing a bad job, just curious haha Working on any cool new track at the moment?
