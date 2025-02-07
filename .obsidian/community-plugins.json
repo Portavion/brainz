@@ -6,5 +6,6 @@
   "obsidian-reminder-plugin",
   "dataview",
   "metadata-menu",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-linter"
 ]
