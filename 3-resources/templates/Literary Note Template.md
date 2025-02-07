@@ -2,7 +2,7 @@
 source: 
 author: 
 created:
-  "{ date }": 
+  {{ date }}
 Note Type: Literary
 category:
   - coding
