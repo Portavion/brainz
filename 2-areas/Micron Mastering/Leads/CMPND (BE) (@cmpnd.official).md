@@ -24,6 +24,8 @@ Qualified: TBC
 # Notes
 
 - [x] Send Initial DM (@2025-02-05 13:16)
-- [ ] Reply (@2025-02-07 15:05)
+- [x] Reply (@2025-02-07 15:05)
 
 # DM Feed
+Sweet, can't wait to hear it.  
+If you ever need a fresh pair of ears for mastering, I’d be stoked to do a free 1-track sample for you. Either way, keep the grooves coming
