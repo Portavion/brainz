@@ -1,9 +1,9 @@
 ---
 source: 
 author: 
-created:
-  {{ date }}
-Note Type: Literary
+created: <% tp.date.now %>
+Note Type:
+  - Literary
 category:
   - coding
 status:
