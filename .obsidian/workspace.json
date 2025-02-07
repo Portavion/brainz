@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/templates/Literary Note Template.md",
+                "file": "Expo - Firebase configuration with Firebase SDK.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Literary Note Template"
+              "title": "Expo - Firebase configuration with Firebase SDK"
             }
           },
           {
@@ -233,10 +233,10 @@
   "active": "3121e22a4359a21a",
   "lastOpenFiles": [
     "Expo - Firebase configuration with Firebase SDK.md",
-    "3-resources/templates/Daily notes template.md",
     "3-resources/templates/Literary Note Template.md",
-    "4-archives/daily-notes/2025-02-07.md",
     "Getting started with Firebase Auth.md",
+    "3-resources/templates/Daily notes template.md",
+    "4-archives/daily-notes/2025-02-07.md",
     "2-areas/Micron Mastering/CRM.md",
     "Firebase auth.md",
     "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
