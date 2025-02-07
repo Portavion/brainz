@@ -21,7 +21,7 @@ dv.pages('')
 	])
 )
 ```
-# All leads
+# All Leads
 ```dataviewjs
 const {fieldModifier: f}=
 this.app.plugins.plugins["metadata-menu"].api;

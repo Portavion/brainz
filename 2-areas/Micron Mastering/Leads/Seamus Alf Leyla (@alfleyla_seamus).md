@@ -6,7 +6,7 @@ Followed: true
 DMed: false
 Form: false
 Initial DM: true
-Engaged: false
+Engaged: true
 Lost: false
 Call Booked: 
 fileClass: leads
@@ -20,4 +20,5 @@ Description: '1,148 followers, 4,529 following, 65 posts – Seamus Alf Leyla (@
 # Notes
 
 - [x] Send Initial DM (@2025-02-05 13:17)
+- [ ] reply (@2025-02-07 14:37)
 # DM Feed

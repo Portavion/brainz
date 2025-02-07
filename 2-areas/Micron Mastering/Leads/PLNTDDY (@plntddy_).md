@@ -22,4 +22,5 @@ Booking/Inquiries: plntddy@gmail.com or DM"
 # Notes
 
 - [x] Send Initial DM (@2025-02-05 13:17)
+- [ ] reply (@2025-02-07 14:38)
 # DM Feed
