@@ -9,6 +9,7 @@ description: "How should we structure folders and files in Node.js? I was unhapp
 tags:
   - "clippings"
 ---
+# A Future-proof Node.js Express Filefolder Structure
 How should we structure folders and files in Node.js? I was unhappy and slightly confused by the MVC approach, and wanted to move to a more colocation/feature-based structure. Here's what I came up with.
 
 This blog post is heavily influenced by a fantastic tutorial by Joshua Comeau about [ReactJS file/directory structures](https://www.joshwcomeau.com/react/file-structure/). It's well worth a read if you use React.
@@ -145,7 +146,7 @@ If you need to move your files or rename `books` to `booksV1`\*, you'll only nee
 
 I'm not saying my approach is *best practice*, or better than MVC - but it works better for me. If you are struggling with the MVC approach, maybe this type of colocation will work better for you too.
 
-## The structure
+## The Structure
 
 Ok, let's take a more detailed look at this alternative folder structure for Node.js and see how it works.
 
