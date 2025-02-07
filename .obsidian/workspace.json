@@ -28,8 +28,8 @@
               "type": "markdown",
               "state": {
                 "file": "Firebase auth.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Firebase auth"
