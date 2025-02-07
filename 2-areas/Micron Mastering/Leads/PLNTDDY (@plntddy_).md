@@ -24,3 +24,10 @@ Booking/Inquiries: plntddy@gmail.com or DM"
 - [x] Send Initial DM (@2025-02-05 13:17)
 - [ ] reply (@2025-02-07 14:38)
 # DM Feed
+### You
+
+Hey man, thanks for the follow. Just checked out your track Virescens, pretty cool deep and gritty lowened on this one! Nice job Did you work on the mix / master yourself?
+
+### PLNTDDY
+
+Hey there, Tysm Yeah I’m only mixing and mastering on my own atm

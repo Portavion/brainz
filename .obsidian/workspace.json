@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
+                "file": "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMPND (BE) (@cmpnd.official)"
+              "title": "PLNTDDY (@plntddy_)"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
+                "file": "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CMPND (BE) (@cmpnd.official)"
+              "title": "Outline of PLNTDDY (@plntddy_)"
             }
           },
           {
@@ -227,6 +227,7 @@
   },
   "active": "e96bef568dd311e2",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
     "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
     "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
@@ -239,7 +240,6 @@
     "4-archives/daily-notes/2025-02-07.md",
     "Firebase auth.md",
     "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
-    "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
     "2-areas/Micron Mastering/Leads/Capon (@capon_music).md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "1-projects/Chalkr/00. Roadmap.md",
