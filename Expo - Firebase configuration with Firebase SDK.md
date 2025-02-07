@@ -61,4 +61,5 @@ module.exports = defaultConfig;
 
 ```
 ## Next steps
-[[Getting started with Firebase Auth]]
+[[Firebase Auth - Email and password signup]]
+[[Firebase Auth - Google Signup]]
