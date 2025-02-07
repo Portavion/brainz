@@ -11,14 +11,14 @@ status:
   - draft
 ---
 # Authenticate with Firebase in Node.js
-## Sign in the user
+## Sign in the User
 Sign in the user with their Google Account and get the user's Google ID token. For example:
 
 If your app has a browser front end, use Google Sign-In as described in the [Handle the sign-in flow manually](https://firebase.google.com/docs/auth/web/google-signin#advanced-handle-the-sign-in-flow-manually) section. Get the Google ID token from the auth response:
 ```js
 const id_token = googleUser.getAuthResponse().id_token
 ```
-## Build a Credential object and sign-in the user with the credential
+## Build a Credential Object and Sign-in the User with the Credential
 ```js
 import { getAuth, signInWithCredential, GoogleAuthProvider } from "firebase/auth";
 

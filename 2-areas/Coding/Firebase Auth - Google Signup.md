@@ -10,23 +10,23 @@ status:
   - draft
 ---
 # Firebase Auth - Google Signup
-## Initial setup
+## Initial Setup
 Enable Google as a sign-in method in the Firebase console:
 1. In the [Firebase console](https://console.firebase.google.com/), open the **Auth** section.
 2. On the **Sign in method** tab, enable the **Google** sign-in method and click **Save**.
-## Handle the sign-in flow with the Firebase SDK
-### Create an instance of the Google provider object:
+## Handle the Sign-in Flow with the Firebase SDK
+### Create an Instance of the Google Provider Object:
 ```js
 import { GoogleAuthProvider } from "firebase/auth";
 
 const provider = new GoogleAuthProvider();
 ```
-### **Optional**: Specify additional OAuth 2.0 scopes that you want to request from the authentication provider
+### **Optional**: Specify Additional OAuth 2.0 Scopes that You want to Request from the Authentication Provider
 To add a scope call:
 ```js
 provider.addScope('https://www.googleapis.com/auth/contacts.readonly');
 ```
-### **Optional**: To localize the provider's OAuth flow to the user's preferred language
+### **Optional**: To Localize the Provider's OAuth Flow to the User's Preferred Language
 ```js
 import { getAuth } from "firebase/auth";
 
@@ -35,13 +35,13 @@ auth.languageCode = 'it';
 // To apply the default browser preference instead of explicitly setting it.
 // auth.useDeviceLanguage();
 ```
-### **Optional**: Specify additional custom OAuth provider parameters that you want to send with the OAuth request
+### **Optional**: Specify Additional Custom OAuth Provider Parameters that You want to Send with the OAuth Request
 ```js
 provider.setCustomParameters({
   'login_hint': 'user@example.com'
 });
 ```
-### Authenticate with Firebase using the Google provider object
+### Authenticate with Firebase Using the Google Provider Object
 To sign in with a pop-up window, call **`signInWithPopup`**:
 ```js
 import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";

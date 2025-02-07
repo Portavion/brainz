@@ -9,7 +9,7 @@ category:
 status:
   - draft
 ---
-# Getting started with Firebase Auth
+# Getting Started with Firebase Auth
 ## Initialise Firebase Auth
 Initialise the Firebase Auth inside firebase.config.js
 ```js
@@ -18,7 +18,7 @@ import { getAuth } from "firebase/auth";
 // Initialize Firebase Authentication and get a reference to the service
 const auth = getAuth(app);
 ```
-## Signup new users
+## Signup New Users
 Create a form that allows users to signup with email and password. When submitted, validate the inputs and pass them to the **createUserWithEmailAndPassword** method:
 ```js
 import { getAuth, createUserWithEmailAndPassword } from "firebase/auth";
@@ -37,7 +37,7 @@ createUserWithEmailAndPassword(auth, email, password)
   });
 ```
 
-## Signup existing users
+## Signup Existing Users
 Create a form that allows existing users to sign in using their email address and password. When a user completes the form, call the **signInWithEmailAndPassword** method:
 ```js
 import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
@@ -54,7 +54,7 @@ signInWithEmailAndPassword(auth, email, password)
     const errorMessage = error.message;
   });
 ```
-## Setup the auth state observer and get user data
+## Setup the Auth State Observer and Get User Data
 For each of your app's pages that need information about the signed-in user, attach an observer to the global authentication object. This observer gets called whenever the user's sign-in state changes.
 
 Attach the observer using the **onAuthStateChanged** method. When a user successfully signs in, you can get information about the user in the observer.

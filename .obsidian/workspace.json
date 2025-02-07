@@ -42,15 +42,14 @@
               "type": "markdown",
               "state": {
                 "file": "2-areas/Coding/Firebase Auth - Google Signup.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Firebase Auth - Google Signup"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Coding/Firebase Auth - Google Signup.md",
+                "file": "2-areas/Coding/Firebase Auth - Authenticate with Firebase in Node.js.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Firebase Auth - Google Signup"
+              "title": "Outline of Firebase Auth - Authenticate with Firebase in Node.js"
             }
           },
           {
@@ -244,7 +243,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "958a1d34b0f58cb8",
+  "active": "96115e61e7724be9",
   "lastOpenFiles": [
     "2-areas/Coding/Firebase Auth - Email and password signup.md",
     "2-areas/Coding/Firebase Auth - Authenticate with Firebase in Node.js.md",
