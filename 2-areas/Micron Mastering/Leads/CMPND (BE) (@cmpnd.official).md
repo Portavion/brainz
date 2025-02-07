@@ -27,11 +27,15 @@ Qualified: TBC
 - [x] Reply (@2025-02-07 15:05)
 
 # DM Feed
-##### You sent
+### You
 
 Hey man, cheers for the follow! Just checked out the bandcamp for Gravitational Forces, you guys are pushing out some nice groovy techno. Really liked that Amine Kohb ep. (your Emerge track is dope too btw) Planning on releasing anything yourself as well?
-##### CMPND (BE)
-And thanks for this great feedback
-##### You sent
 
-Sweet, can't wait to hear it!BTW if you ever need a fresh pair of ears for mastering, I’d be stoked to do a free 1-track sample for you. And either way, keep the grooves coming
+### CMPND (BE)
+
+And thanks for this great feedback
+
+### You
+
+Sweet, can't wait to hear it! BTW if you ever need a fresh pair of ears for mastering, I’d be stoked to do a free 1-track sample for you. And either way, keep the grooves coming
+
