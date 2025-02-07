@@ -1,14 +1,13 @@
 ---
 source: 
+author:
+  - "[[Expo]]"
 created: 2025-02-07
 category:
   - coding
 status:
   - draft
-author: []
 ---
-
-
 
 
 - Location: `source::` name, URL

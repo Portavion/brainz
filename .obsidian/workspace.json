@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firebase auth.md",
-                "mode": "preview",
+                "file": "3-resources/templates/Literary Note Template.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Firebase auth"
+              "title": "Literary Note Template"
             }
           }
         ],
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firebase auth.md",
+                "file": "3-resources/templates/Literary Note Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Firebase auth"
+              "title": "Outline of Literary Note Template"
             }
           },
           {
@@ -232,8 +232,9 @@
   },
   "active": "06ef02e96df01924",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/CRM.md",
     "Firebase auth.md",
+    "3-resources/templates/Literary Note Template.md",
+    "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
     "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
     "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
@@ -260,7 +261,6 @@
     "1-projects/Velock",
     "1-projects/Chalkr",
     "2-areas/Micron Mastering/Leads/Vex Noir (@youseethesense).md",
-    "2-areas/Micron Mastering/Leads/UNCLØSD (@unclosdmusic).md",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
     "4-archives/classes",
     "2-areas/Micron Mastering/Leads",
