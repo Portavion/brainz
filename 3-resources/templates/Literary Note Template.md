@@ -1,7 +1,7 @@
 ---
 source: 
 author: 
-created: <% tp.date.now %>
+created: {{date:YYYY-MM-DD}}
 Note Type:
   - Literary
 category:

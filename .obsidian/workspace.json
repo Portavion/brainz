@@ -8,34 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf87e1b483dc413a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Getting started with Firebase Auth.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Getting started with Firebase Auth"
-            }
-          },
-          {
             "id": "96115e61e7724be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "3-resources/templates/Literary Note Template.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Literary Note Template"
             }
+          },
+          {
+            "id": "3121e22a4359a21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Getting started with Firebase Auth.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Getting started with Firebase Auth"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,12 +230,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bf87e1b483dc413a",
+  "active": "3121e22a4359a21a",
   "lastOpenFiles": [
-    "3-resources/templates/Literary Note Template.md",
-    "Getting started with Firebase Auth.md",
     "Expo - Firebase configuration with Firebase SDK.md",
     "3-resources/templates/Daily notes template.md",
+    "3-resources/templates/Literary Note Template.md",
+    "4-archives/daily-notes/2025-02-07.md",
+    "Getting started with Firebase Auth.md",
     "2-areas/Micron Mastering/CRM.md",
     "Firebase auth.md",
     "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
@@ -257,7 +259,6 @@
     "4-archives/Outreach list.md",
     "1-projects/Velock/UI design.md",
     "1-projects/Chalkr/features/Basic Climbing Stats 02-03-25.md",
-    "1-projects/Chalkr/features/Data Syncing 23-03-25.md",
     "1-projects/Velock",
     "1-projects/Chalkr",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
