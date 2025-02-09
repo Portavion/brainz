@@ -11,22 +11,14 @@
             "id": "e96bef568dd311e2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "4-archives/weekly-notes/2025-W07.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "00. Chalkr Kanban"
+              "icon": "lucide-file",
+              "title": "2025-W07"
             }
           }
         ],
@@ -81,6 +73,22 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e23e479415fadaa8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "885f20c717114316",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ]
@@ -152,27 +160,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
+                "file": "4-archives/weekly-notes/2025-W07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00. Chalkr Kanban"
-            }
-          },
-          {
-            "id": "885f20c717114316",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
+              "title": "Outline of 2025-W07"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "baa5fd5e0b5bcb3e",
@@ -224,10 +222,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "958a1d34b0f58cb8",
+  "active": "905781d404c68aae",
   "lastOpenFiles": [
-    "1-projects/Chalkr/features/User Authentication 09-02-25.md",
+    "0-inbox/Healthy Turkish meatloaf.md",
+    "4-archives/weekly-notes/2025-W07.md",
+    "0-inbox/Jamaican bully beef.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
+    "1-projects/Chalkr/features/User Authentication 09-02-25.md",
     "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
     "1-projects/Chalkr/00. Roadmap.md",
     "0-inbox/A future-proof Node.js express filefolder structure.md",
@@ -250,9 +251,6 @@
     "1-projects/Chalkr/features/Tests.md",
     "1-projects/Chalkr/features",
     "4-archives/daily-notes/2025-02-04.md",
-    "3-resources/cooking/00 index.md",
-    "3-resources/cooking/Perfect pak choi.md",
-    "3-resources/cooking/Slow Cooker Chicken Pozole Verde.md",
     "1-projects/Velock",
     "1-projects/Chalkr",
     "3-resources/attachments/CleanShot 2025-02-03 at 17.29.38@2x.png",
