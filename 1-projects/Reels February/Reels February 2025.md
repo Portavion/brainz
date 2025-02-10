@@ -5,9 +5,11 @@ This master is all about that modern RnB vibe - punchy drums. airy vocal. Starti
 ## Tyler Loyal - Ferrari
 Modern, crisp, airy RnB vocals done right. With this master I wanted to enhance those crystal clear vocals from Tyler using a combination of saturation and EQing to enhance the air and sparkle without introducing harshness for that creamy vocal sound. Shoutout to Kevin McCloskey for the dope mix.
 
-## Mokey - Petty Theft
-
-
-## Soul Baby Dali - 
+## Soul Baby Dali - Pull Out
+For this master, we focused on EQing to clean up the low end / low midrange of the track to open up the vocal getting some of that modern airy vocal sound while tightening up the drums for a pronounced knock. j
 
 ## WSK Breezy - 
+
+
+## Mokey - Petty Theft
+
