@@ -7,5 +7,4 @@ Modern, crisp, airy RnB vocals done right. With this master I wanted to enhance 
 For this master, we focused on EQing to clean up the low end / low midrange of the track to open up the vocal getting some of that modern airy vocal sound while tightening up the drums for a pronounced knock. The result is a polished, radio-ready sound
 ## WSK Breezy -
 This WSK Breezy production featured some crazy deep 808 hits I wanted to enhance in the master. Getting that sub impact that punches you in the guts while cleaning up the midrange to bring out some more definition to the airy vocals. Check it...
-## Mokey - Petty Theft
 
