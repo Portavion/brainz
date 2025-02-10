@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
-                "mode": "preview",
+                "file": "1-projects/Reels February/reels edm examples.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRM"
+              "title": "reels edm examples"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
+                "file": "1-projects/Reels February/reels edm examples.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CRM"
+              "title": "Outline of reels edm examples"
             }
           }
         ],
@@ -224,8 +224,10 @@
   },
   "active": "ce81f6c7668ea529",
   "lastOpenFiles": [
-    "4-archives/classes/leads.md",
     "2-areas/Micron Mastering/CRM.md",
+    "1-projects/Reels February/reels edm examples.md",
+    "1-projects/Reels February",
+    "4-archives/classes/leads.md",
     "4-archives/weekly-notes/2025-W07.md",
     "0-inbox/Healthy Turkish meatloaf.md",
     "0-inbox/Jamaican bully beef.md",
@@ -249,7 +251,6 @@
     "2-areas/Micron Mastering/Leads/Capon (@capon_music).md",
     "2-areas/Micron Mastering/Leads/(@brombonesxo).md",
     "4-archives/daily-notes/2025-02-05.md",
-    "1-projects/Chalkr/features/Tests.md",
     "1-projects/Chalkr/features",
     "1-projects/Velock",
     "1-projects/Chalkr",
@@ -262,7 +263,6 @@
     "3-resources/attachments/CleanShot 2025-01-23 at 20.18.24@2x.png",
     "3-resources/keyboard",
     "4-archives/recipes",
-    "Clippings",
     "3-resources/attachments/creamy-dijon-chicken.png",
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",
