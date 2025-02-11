@@ -4,7 +4,9 @@
 - [ ] tests for ui
 - [ ] Save to SQLite
 	- [ ] new workout on stat
-	- [ ] log 
-- [ ] Display list of workouts
+	- [ ] log attempt and time
+	- [ ] next steps
+- [ ] Display list of workouts on index
+	- [ ] add delete button
 - [x] Ascent timer
 - [x] Rest timer

@@ -11,14 +11,22 @@
             "id": "edc1d477a44b83d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
-                "mode": "source",
-                "source": false
+                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Workout Logging  16-02-25"
+              "icon": "lucide-trello",
+              "title": "00. Chalkr Kanban"
             }
           }
         ],
@@ -160,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
+                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Workout Logging  16-02-25"
+              "title": "Outline of 00. Chalkr Kanban"
             }
           }
         ],
@@ -224,7 +232,9 @@
   },
   "active": "edc1d477a44b83d6",
   "lastOpenFiles": [
+    "1-projects/Chalkr/features/User Authentication 09-02-25.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
+    "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
     "3-resources/templates/Yearly reflection template.md",
     "3-resources/templates/Weekly notes template.md",
     "3-resources/templates/Daily notes template.md",
@@ -239,8 +249,6 @@
     "4-archives/weekly-notes/2025-W07.md",
     "0-inbox/Healthy Turkish meatloaf.md",
     "0-inbox/Jamaican bully beef.md",
-    "1-projects/Chalkr/features/User Authentication 09-02-25.md",
-    "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
     "1-projects/Chalkr/00. Roadmap.md",
     "0-inbox/A future-proof Node.js express filefolder structure.md",
     "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
