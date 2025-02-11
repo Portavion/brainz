@@ -4,6 +4,14 @@ tags:
   - weekly-note
 ---
 # Recipes
+# Data
+## Time Tracking
+
+## Exercising
+
+## Sleep
+
+## Food
 # Reflections
 ## Wins - what Gave Me Energy?
 

@@ -1,16 +1,16 @@
-# What did I change my mind on?
+# What Did I Change My Mind On?
 
-# What create energy?
+# What Create Energy?
 
-# What drained energy?
+# What Drained Energy?
 
-# Who / what dragged me down?
+# Who / what Dragged Me Down?
 
-# What did I not do because of fear?
+# What Did I not Do because of Fear?
 
-# What were my greatest hits and miss?
+# What Were My Greatest Hits and Miss?
 ## Hits
 
 ## Miss
 
-# What did I learn?
+# What Did I Learn?
