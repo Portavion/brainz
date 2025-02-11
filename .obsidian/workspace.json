@@ -160,13 +160,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-archives/daily-notes/2025-02-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-02-10"
+              "title": "Outline"
             }
           }
         ],
@@ -222,10 +221,49 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ce81f6c7668ea529",
+  "floating": {
+    "id": "13cdb5004e1703a3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "29a0dc8e83152cd1",
+        "type": "window",
+        "children": [
+          {
+            "id": "ffaadca1595f7227",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a93985b75f389f7",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://jamiebrynes7.github.io/obsidian-todoist-plugin/docs/query-blocks",
+                    "title": "Query Blocks | Sync with Todoist Plugin",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Query Blocks | Sync with Todoist Plugin"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 10,
+        "y": 54,
+        "width": 2036,
+        "height": 1265,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4a93985b75f389f7",
   "lastOpenFiles": [
-    "1-projects/Reels February/Reels February 2025.md",
     "4-archives/daily-notes/2025-02-10.md",
+    "1-projects/Reels February/Reels February 2025.md",
     "1-projects/Reels February/reels edm examples.md",
     "2-areas/Micron Mastering/CRM.md",
     "1-projects/Reels February",
