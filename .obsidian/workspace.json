@@ -156,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-archives/250211 Reels R&B february/250211 - Reels February 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 250211 - Reels February 2025"
+              "title": "Outline"
             }
           }
         ],
@@ -218,10 +217,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "958a1d34b0f58cb8",
+  "active": "905781d404c68aae",
   "lastOpenFiles": [
-    "4-archives/daily-notes/2025-02-10.md",
     "4-archives/250211 Reels R&B february/250211 - Reels February 2025.md",
+    "4-archives/daily-notes/2025-02-10.md",
     "4-archives/250211 Reels R&B february/reels edm examples.md",
     "2-areas/Micron Mastering/CRM.md",
     "4-archives/250211 Reels R&B february",
