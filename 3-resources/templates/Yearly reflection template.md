@@ -1,3 +1,8 @@
+---
+date: {{date:DD-MM-YYYY}}
+tags:
+  - yearly-note
+---
 # What Did I Change My Mind On?
 
 # What Create Energy?

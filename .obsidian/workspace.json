@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "3-resources/templates/Yearly reflection template.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Yearly reflection template"
