@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2745af6731148790",
+        "id": "8df96d321c3e28d1",
         "type": "tabs",
         "children": [
           {
-            "id": "ce81f6c7668ea529",
+            "id": "edc1d477a44b83d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-archives/daily-notes/2025-02-10.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-02-10"
+              "title": "New tab"
             }
           }
         ],
@@ -160,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "4-archives/250211 Reels R&B february/250211 - Reels February 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 250211 - Reels February 2025"
             }
           }
         ],
@@ -221,52 +218,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "13cdb5004e1703a3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "29a0dc8e83152cd1",
-        "type": "window",
-        "children": [
-          {
-            "id": "ffaadca1595f7227",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4a93985b75f389f7",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://jamiebrynes7.github.io/obsidian-todoist-plugin/docs/query-blocks",
-                    "title": "Query Blocks | Sync with Todoist Plugin",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Query Blocks | Sync with Todoist Plugin"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 10,
-        "y": 54,
-        "width": 2036,
-        "height": 1265,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4a93985b75f389f7",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
     "4-archives/daily-notes/2025-02-10.md",
-    "1-projects/Reels February/Reels February 2025.md",
-    "1-projects/Reels February/reels edm examples.md",
+    "4-archives/250211 Reels R&B february/250211 - Reels February 2025.md",
+    "4-archives/250211 Reels R&B february/reels edm examples.md",
     "2-areas/Micron Mastering/CRM.md",
-    "1-projects/Reels February",
+    "4-archives/250211 Reels R&B february",
     "4-archives/classes/leads.md",
     "4-archives/weekly-notes/2025-W07.md",
     "0-inbox/Healthy Turkish meatloaf.md",
