@@ -5,3 +5,7 @@ tags:
 ---
 # Recipes
 - 
+# Reflections
+## Wins - what gave me energy?
+
+## Losses - what drained energy
