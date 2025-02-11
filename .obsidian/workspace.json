@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/templates/Weekly notes template.md",
+                "file": "3-resources/templates/Monthly reflections template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly notes template"
+              "title": "Monthly reflections template"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/templates/Weekly notes template.md",
+                "file": "3-resources/templates/Monthly reflections template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Weekly notes template"
+              "title": "Outline of Monthly reflections template"
             }
           }
         ],
@@ -224,6 +224,8 @@
   },
   "active": "edc1d477a44b83d6",
   "lastOpenFiles": [
+    "3-resources/templates/Weekly notes template.md",
+    "3-resources/templates/Monthly reflections template.md",
     "4-archives/250211 Reels R&B february/250211 - Reels February 2025.md",
     "4-archives/daily-notes/2025-02-10.md",
     "4-archives/250211 Reels R&B february/reels edm examples.md",
@@ -249,8 +251,6 @@
     "2-areas/Coding/Expo - Firebase configuration with Firebase SDK.md",
     "4-archives/daily-notes/2025-02-07.md",
     "Firebase auth.md",
-    "2-areas/Micron Mastering/Leads/Tensor (@john_tensor).md",
-    "2-areas/Micron Mastering/Leads/Capon (@capon_music).md",
     "1-projects/Chalkr/features",
     "1-projects/Velock",
     "1-projects/Chalkr",

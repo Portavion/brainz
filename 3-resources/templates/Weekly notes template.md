@@ -4,17 +4,14 @@ tags:
   - weekly-note
 ---
 # Recipes
-- 
 # Reflections
-## Wins - what gave me energy?
+## Wins - what Gave Me Energy?
 
-## Losses - what drained energy?
+## Losses - what Drained Energy?
 
-## What should fi say no to?
+## What Should Fi Say no To?
 
-## What will that allow me to say yes to?
+## What Will that Allow Me to Say Yes To?
 
 ## Gratitude:
-- 
-## Goals for the week ahead:
-- 
+## Goals for the Week Ahead:
