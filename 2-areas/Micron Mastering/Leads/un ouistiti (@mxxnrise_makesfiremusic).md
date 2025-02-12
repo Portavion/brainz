@@ -19,5 +19,5 @@ Qualified: "TBC"
 # Description
 78 followers, 3,010 following, 0 posts – un ouistiti (@mxxnrise_makesfiremusic) on Instagram: "@mxxnrise_music"
 # Notes
-- [ ] Send Initial DM (@2025-02-13)
+c
 # DM Feed
