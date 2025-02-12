@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/MASTER - Vee - Didn't love myself.md",
+                "file": "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MASTER - Vee - Didn't love myself"
+              "title": "Matteo (@matteo_bb4)"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/MASTER - Vee - Didn't love myself.md",
+                "file": "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MASTER - Vee - Didn't love myself"
+              "title": "Outline of Matteo (@matteo_bb4)"
             }
           }
         ],
@@ -224,8 +224,9 @@
   },
   "active": "edc1d477a44b83d6",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
     "1-projects/MASTER - Vee - Didn't love myself.md",
+    "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
+    "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
     "2-areas/Micron Mastering/Leads/un ouistiti (@mxxnrise_makesfiremusic).md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
     "1-projects/Chalkr/features/User Authentication 09-02-25.md",
@@ -251,7 +252,6 @@
     "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
     "2-areas/Coding/Firebase Auth - Google Signup.md",
     "2-areas/Coding/Firebase Auth - Email and password signup.md",
-    "2-areas/Coding/Firebase Auth - Authenticate with Firebase in Node.js.md",
     "1-projects/Chalkr/features",
     "1-projects/Velock",
     "1-projects/Chalkr",
