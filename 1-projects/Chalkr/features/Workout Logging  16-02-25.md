@@ -6,8 +6,8 @@
 	- [x] new workout on stat
 	- [x] log attempt and time
 	- [x] next steps
-- [ ] Display list of workouts on index
-	- [ ] add list to index
-	- [ ] add delete button
+- [x] Display list of workouts on index
+	- [x] add list to index
+	- [x] add delete button
 - [x] Ascent timer
 - [x] Rest timer
