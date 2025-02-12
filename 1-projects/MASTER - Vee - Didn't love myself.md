@@ -11,3 +11,5 @@
 	- crackle at 3:22
 - reduced mouth click at 3:30 (can't eliminate but its a bit less distracting now)
 - 3:44 is something to do with the tuning unfortunately I cant do much
+
+In general spent a bunch of time hunting mouth clicks and smacks (especially in the qu)
