@@ -9,7 +9,9 @@
 - fixed clicks at:
 	- around 3min
 	- crackle at 3:22
-- reduced mouth click at 3:30 (can't eliminate but its a bit less distracting now)
-- 3:44 is something to do with the tuning unfortunately I cant do much
+- 3:44 is something to do with the vocal tuning going a little off on a note and unfortunately I cant do anything about that. I don't think it is too noticeable unless you really focus on it (i missed it on my first general listen for example)
 
-In general spent a bunch of time hunting mouth clicks and smacks (especially in the qu)
+In general spent a bunch of time hunting mouth clicks and smacks which were a little distracting (especially in the quieter sections) It's usually not an easy but with a ballad like this where there isn't much instrumentation going on it can really be noticeable. Mostly on the tail of each phrases. I managed to erase the worse ones and tame the rest.
+## Mastering
+
+
