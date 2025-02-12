@@ -13,5 +13,5 @@
 
 In general spent a bunch of time hunting mouth clicks and smacks which were a little distracting (especially in the quieter sections) It's usually not an easy but with a ballad like this where there isn't much instrumentation going on it can really be noticeable. Mostly on the tail of each phrases. I managed to erase the worse ones and tame the rest.
 ## Mastering
-
+Not much here, I like the balanced you guys achieved in the mix
 
