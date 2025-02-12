@@ -11,22 +11,14 @@
             "id": "edc1d477a44b83d6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "00. Chalkr Kanban"
+              "icon": "lucide-file",
+              "title": "BJØRN (@bjornbeat)"
             }
           }
         ],
@@ -168,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
+                "file": "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00. Chalkr Kanban"
+              "title": "Outline of BJØRN (@bjornbeat)"
             }
           }
         ],
@@ -232,8 +224,10 @@
   },
   "active": "edc1d477a44b83d6",
   "lastOpenFiles": [
-    "1-projects/Chalkr/features/User Authentication 09-02-25.md",
+    "2-areas/Micron Mastering/Leads/un ouistiti (@mxxnrise_makesfiremusic).md",
+    "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
+    "1-projects/Chalkr/features/User Authentication 09-02-25.md",
     "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
     "3-resources/templates/Yearly reflection template.md",
     "3-resources/templates/Weekly notes template.md",
@@ -258,8 +252,6 @@
     "2-areas/Coding/Firebase Auth - Email and password signup.md",
     "2-areas/Coding/Firebase Auth - Authenticate with Firebase in Node.js.md",
     "3-resources/templates/Literary Note Template.md",
-    "2-areas/Coding/Expo - Firebase configuration with Firebase SDK.md",
-    "4-archives/daily-notes/2025-02-07.md",
     "1-projects/Chalkr/features",
     "1-projects/Velock",
     "1-projects/Chalkr",
