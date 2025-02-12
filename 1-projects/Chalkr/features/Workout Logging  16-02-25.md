@@ -2,11 +2,12 @@
 - [x] form to log boulder (date, grade, location, picture, tags like overhang slab etc... )
 - [ ] add pic to ui
 - [ ] tests for ui
-- [ ] Save to SQLite
-	- [ ] new workout on stat
-	- [ ] log attempt and time
-	- [ ] next steps
+- [x] Save to SQLite
+	- [x] new workout on stat
+	- [x] log attempt and time
+	- [x] next steps
 - [ ] Display list of workouts on index
+	- [ ] add list to index
 	- [ ] add delete button
 - [x] Ascent timer
 - [x] Rest timer

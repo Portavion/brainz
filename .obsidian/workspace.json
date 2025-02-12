@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
-                "mode": "source",
+                "file": "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matteo (@matteo_bb4)"
+              "title": "Workout Logging  16-02-25"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
+                "file": "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Matteo (@matteo_bb4)"
+              "title": "Outline of Workout Logging  16-02-25"
             }
           }
         ],
@@ -224,11 +224,11 @@
   },
   "active": "edc1d477a44b83d6",
   "lastOpenFiles": [
+    "1-projects/Chalkr/00. Chalkr Kanban.md",
     "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
     "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
     "2-areas/Micron Mastering/Leads/un ouistiti (@mxxnrise_makesfiremusic).md",
     "1-projects/MASTER - Vee - Didn't love myself.md",
-    "1-projects/Chalkr/00. Chalkr Kanban.md",
     "1-projects/Chalkr/features/User Authentication 09-02-25.md",
     "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
     "3-resources/templates/Yearly reflection template.md",
