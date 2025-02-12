@@ -23,3 +23,4 @@ Qualified: "TBC"
 # Notes
 - [ ] Send Initial DM (@2025-02-13)
 # DM Feed
+Salut, j'espère que ça ne te dérange pas que je te contacte. Je viens de jeter un coup d'œil rapide à ta page Spotify. Des trucs vraiment sympas, c'est bien produit mec ! Est-ce que tu t'occupes aussi du mixage et du mastering toi-même ?

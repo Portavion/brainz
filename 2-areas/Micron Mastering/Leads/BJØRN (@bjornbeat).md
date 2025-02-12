@@ -5,7 +5,7 @@ Liked: false
 Followed: true
 DMed: false
 Form: false
-Initial DM: false
+Initial DM: true
 Engaged: false
 Lost: false
 Call Booked: false
@@ -20,5 +20,5 @@ Qualified: TBC
 68 followers, 277 following, 4 posts – BJØRN (@bjornbeat) on Instagram: "Bass enthusiast
 "Cell" is OUT NOW!! 🔗👇"
 # Notes
-- [ ] Send Initial DM (@2025-02-13)
+- [x] Send Initial DM (@2025-02-13)
 # DM Feed
