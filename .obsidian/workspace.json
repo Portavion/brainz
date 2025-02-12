@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
+                "file": "4-archives/daily-notes/2025-02-12.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workout Logging  16-02-25"
+              "title": "2025-02-12"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
+                "file": "4-archives/daily-notes/2025-02-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Workout Logging  16-02-25"
+              "title": "Outline of 2025-02-12"
             }
           }
         ],
@@ -225,12 +225,14 @@
   "active": "edc1d477a44b83d6",
   "lastOpenFiles": [
     "1-projects/Chalkr/00. Chalkr Kanban.md",
+    "4-archives/daily-notes/2025-02-12.md",
+    "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
+    "1-projects/Chalkr/features/Offline support 09-02-25.md",
     "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
     "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
     "2-areas/Micron Mastering/Leads/un ouistiti (@mxxnrise_makesfiremusic).md",
     "1-projects/MASTER - Vee - Didn't love myself.md",
     "1-projects/Chalkr/features/User Authentication 09-02-25.md",
-    "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
     "3-resources/templates/Yearly reflection template.md",
     "3-resources/templates/Weekly notes template.md",
     "3-resources/templates/Daily notes template.md",
@@ -250,8 +252,6 @@
     "2-areas/Micron Mastering/Leads/Seamus Alf Leyla (@alfleyla_seamus).md",
     "2-areas/Micron Mastering/Leads/PLNTDDY (@plntddy_).md",
     "2-areas/Micron Mastering/Leads/CMPND (BE) (@cmpnd.official).md",
-    "2-areas/Coding/Firebase Auth - Google Signup.md",
-    "2-areas/Coding/Firebase Auth - Email and password signup.md",
     "1-projects/Chalkr/features",
     "1-projects/Velock",
     "1-projects/Chalkr",
