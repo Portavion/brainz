@@ -13,5 +13,5 @@
 
 In general spent a bunch of time hunting mouth clicks and smacks which were a little distracting (especially in the quieter sections) It's usually not an easy but with a ballad like this where there isn't much instrumentation going on it can really be noticeable. Mostly on the tail of each phrases. I managed to erase the worse ones and tame the rest.
 ## Mastering
-Not much here, I like the balanced you guys achieved in the mix. I just did a touch of tape saturation to smooth the top end and then some mid/side EQ to bring a little more body to the vocal. Finally did a touch of cleaning up in the high mids to remove a little bit of harshness effect. 
+Not much here, I like the balanced you guys achieved in the mix. I just did a touch of tape saturation to smooth the top end and then some mid/side EQ to bring a little more body to the vocal. Finally did a touch of cleaning up in the high mids to remove a little bit of harshness effect. Then a touch of sculpting of the high end to bring some air and clarity
 
