@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-archives/2025/Outreach list.md",
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outreach list"
+              "title": "CRM"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-archives/2025/Outreach list.md",
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Outreach list"
+              "title": "Outline of CRM"
             }
           }
         ],
@@ -222,8 +222,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "958a1d34b0f58cb8",
+  "active": "191ae7dd141842cd",
   "lastOpenFiles": [
+    "4-archives/2025/Outreach list.md",
     "4-archives/2025",
     "2-areas/Micron Mastering/CRM.md",
     "4-archives/classes/leads.md",
@@ -263,7 +264,6 @@
     "3-resources/attachments/CleanShot 2025-01-23 at 20.19.41@2x.png",
     "3-resources/attachments/CleanShot 2025-01-23 at 20.18.24@2x.png",
     "3-resources/keyboard",
-    "4-archives/recipes",
     "3-resources/attachments/creamy-dijon-chicken.png",
     "3-resources/attachments/whatis.png",
     "3-resources/attachments/test.png",
