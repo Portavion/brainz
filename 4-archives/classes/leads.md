@@ -14,16 +14,17 @@ fieldsOrder:
   - XuF6z9
   - VKqli7
   - ynR6D1
-  - VfNEGn
-  - GJVkqJ
-  - 3GuaRx
-  - 4Mm7Ng
-  - axMwbb
   - SUcLWH
+  - ytHxyy
+  - 3GuaRx
+  - axMwbb
+  - 4Mm7Ng
+  - GJVkqJ
+  - VfNEGn
   - ZdghSe
   - zqfi6W
   - nbjxDa
-version: "2.22"
+version: "2.51"
 fields:
   - name: Url
     type: Input
@@ -107,5 +108,10 @@ fields:
         "3": Not Qualified
     path: ""
     id: Wjdazp
+  - name: Comment
+    type: Boolean
+    options: {}
+    path: ""
+    id: ytHxyy
 ---
 # Leads

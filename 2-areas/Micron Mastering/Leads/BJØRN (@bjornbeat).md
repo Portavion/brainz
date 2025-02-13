@@ -11,8 +11,8 @@ Lost: false
 Call Booked: false
 tags:
   - lead
-Lead Tpe: Warm
-Last Contact: 
+Lead Type: Warm
+Last Contact: 2025-02-12
 fileClass: leads
 Qualified: TBC
 ---

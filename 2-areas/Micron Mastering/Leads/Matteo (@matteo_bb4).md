@@ -6,13 +6,13 @@ Followed: false
 DMed: false
 Form: false
 Initial DM: true
-Engaged: false
+Engaged: true
 Lost: false
 Call Booked: false
 tags:
   - lead
-Lead Tpe: Warm
-Last Contact: 
+Lead Type: Warm
+Last Contact: 2025-02-13
 fileClass: leads
 Qualified: TBC
 ---
