@@ -11,10 +11,19 @@
             "id": "a18ef80c3eb15313",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "00. Chalkr Kanban"
             }
           }
         ],
@@ -71,8 +80,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "e23e479415fadaa8",
@@ -157,12 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1-projects/Chalkr/00. Chalkr Kanban.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 00. Chalkr Kanban"
             }
           }
         ],
@@ -220,6 +229,10 @@
   },
   "active": "a18ef80c3eb15313",
   "lastOpenFiles": [
+    "1-projects/Chalkr/features/User Authentication 09-02-25.md",
+    "1-projects/Chalkr/00. Chalkr Kanban.md",
+    "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
+    "1-projects/Chalkr/features/Basic Climbing Stats 02-03-25.md",
     "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
     "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
@@ -237,17 +250,13 @@
     "4-archives/classes/leads.md",
     "2-areas/Micron Mastering/Leads/un ouistiti (@mxxnrise_makesfiremusic).md",
     "4-archives/daily-notes/2025-02-12.md",
-    "1-projects/Chalkr/00. Chalkr Kanban.md",
-    "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
     "1-projects/Chalkr/features/Offline support 09-02-25.md",
     "4-archives/2025/MASTER - Vee - Didn't love myself.md",
-    "1-projects/Chalkr/features/User Authentication 09-02-25.md",
     "3-resources/templates/Yearly reflection template.md",
     "3-resources/templates/Weekly notes template.md",
     "3-resources/templates/Daily notes template.md",
     "3-resources/templates/Monthly reflections template.md",
     "3-resources/templates/time audit example.png",
-    "4-archives/2025/250211 Reels R&B february/250211 - Reels February 2025.md",
     "4-archives/2025/250211 Reels R&B february",
     "1-projects/Chalkr/features",
     "1-projects/Velock",
