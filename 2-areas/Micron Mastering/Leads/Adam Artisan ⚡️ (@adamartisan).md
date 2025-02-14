@@ -5,19 +5,19 @@ Liked: false
 Followed: true
 DMed: false
 Form: false
-Initial DM: false
+Initial DM: true
 Engaged: false
 Lost: false
 Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 
+Last Contact: 2025-02-14
 fileClass: leads
 Qualified: TBC
 ---
 # Description
 917 followers, 4,816 following, 38 posts – Adam Artisan ⚡️ (@adamartisan) on Instagram: "Brisbane AUS"
 # Notes
-- [ ] Send Initial DM (@2025-02-14 15:09)
+- [x] Send Initial DM (@2025-02-14 15:09)
 # DM Feed

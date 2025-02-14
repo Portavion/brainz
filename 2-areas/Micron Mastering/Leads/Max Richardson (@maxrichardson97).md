@@ -15,12 +15,12 @@ Lead Type: Warm
 Last Contact: 
 fileClass: leads
 Comment: true
-Qualified: TBC
+Qualified: Not Qualified
 ---
 # Description
 530 followers, 513 following, 269 posts – Max Richardson (@maxrichardson97) on Instagram: "Music Producer & Audio Engineer 🎧
 Previously part of the music team for @hollyoaksofficial. 
 If you can't tell, I like music. All views my own!"
 # Notes
-- [ ] Send Initial DM ask about apple digital master (@2025-02-14 15:09) 
+- [x] Send Initial DM ask about apple digital master (@2025-02-14 15:09) 
 # DM Feed
