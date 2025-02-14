@@ -22,5 +22,5 @@ Qualified: TBC
 Previously part of the music team for @hollyoaksofficial. 
 If you can't tell, I like music. All views my own!"
 # Notes
-- [ ] Send Initial DM ask about apple digital master (@2025-02-14 11:52) 
+- [ ] Send Initial DM ask about apple digital master (@2025-02-14 14:38) 
 # DM Feed

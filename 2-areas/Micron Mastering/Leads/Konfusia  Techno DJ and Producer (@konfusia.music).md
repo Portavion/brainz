@@ -20,5 +20,5 @@ Qualified: "TBC"
 13K followers, 2,625 following, 258 posts – Konfusia | Techno DJ and Producer (@konfusia.music) on Instagram: "• Booking: isabel@stilvortalent.de
 - Alula Tunes | MS Treue | HH/HB"
 # Notes
-- [ ] Send Initial DM (@2025-02-14 11:52)
+- [ ] Send Initial DM (@2025-02-14 14:38)
 # DM Feed
