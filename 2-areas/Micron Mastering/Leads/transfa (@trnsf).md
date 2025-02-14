@@ -5,19 +5,19 @@ Liked: false
 Followed: true
 DMed: false
 Form: false
-Initial DM: false
+Initial DM: true
 Engaged: false
 Lost: false
 Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 
+Last Contact: 2025-02-14
 fileClass: leads
 Qualified: TBC
 ---
 # Description
 121 followers, 590 following, 24 posts – transfa (@trnsf) on Instagram: "Producer - Songwriter - Beatmaker - Guitarist"
 # Notes
-- [ ] Send Initial DM (@2025-02-14 14:38)
+- [x] Send Initial DM (@2025-02-14 15:09)
 # DM Feed
