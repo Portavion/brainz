@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "660a4008b0678b55",
+        "id": "3e117ca4d5e55f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "fc467a76902fa7b8",
+            "id": "a18ef80c3eb15313",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CRM"
+              "title": "New tab"
             }
           }
         ],
@@ -75,7 +71,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e23e479415fadaa8",
@@ -160,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CRM"
+              "title": "Outline"
             }
           }
         ],
@@ -222,10 +218,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fc467a76902fa7b8",
+  "active": "a18ef80c3eb15313",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
     "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
+    "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
     "2-areas/Micron Mastering/Leads/Max Richardson (@maxrichardson97).md",
     "2-areas/Micron Mastering/Leads/Adam Artisan ⚡️ (@adamartisan).md",
     "2-areas/Micron Mastering/Leads/Konfusia  Techno DJ and Producer (@konfusia.music).md",
@@ -238,7 +235,6 @@
     "4-archives/2025/Outreach list.md",
     "4-archives/2025",
     "4-archives/classes/leads.md",
-    "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
     "2-areas/Micron Mastering/Leads/un ouistiti (@mxxnrise_makesfiremusic).md",
     "4-archives/daily-notes/2025-02-12.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
