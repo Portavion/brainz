@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
-                "mode": "preview",
+                "file": "2-areas/Micron Mastering/Leads/JOKA 🇬🇫 (@jkr_timal).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CRM"
+              "title": "JOKA 🇬🇫 (@jkr_timal)"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/CRM.md",
+                "file": "2-areas/Micron Mastering/Leads/JOKA 🇬🇫 (@jkr_timal).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CRM"
+              "title": "Outline of JOKA 🇬🇫 (@jkr_timal)"
             }
           }
         ],
@@ -224,9 +224,11 @@
   },
   "active": "191ae7dd141842cd",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/JOKA 🇬🇫 (@jkr_timal).md",
+    "2-areas/Micron Mastering/Leads/Matt 'Matiiik' Black (@automatikpro).md",
     "4-archives/2025/Outreach list.md",
     "4-archives/2025",
-    "2-areas/Micron Mastering/CRM.md",
     "4-archives/classes/leads.md",
     "2-areas/Micron Mastering/Leads/Adam Artisan ⚡️ (@adamartisan).md",
     "2-areas/Micron Mastering/Leads/transfa (@trnsf).md",
@@ -251,8 +253,6 @@
     "4-archives/daily-notes/2025-02-10.md",
     "4-archives/2025/250211 Reels R&B february/reels edm examples.md",
     "4-archives/2025/250211 Reels R&B february",
-    "4-archives/weekly-notes/2025-W07.md",
-    "0-inbox/Healthy Turkish meatloaf.md",
     "1-projects/Chalkr/features",
     "1-projects/Velock",
     "1-projects/Chalkr",
