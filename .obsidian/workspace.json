@@ -11,10 +11,14 @@
             "id": "fc467a76902fa7b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/Micron Mastering/CRM.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CRM"
             }
           }
         ],
@@ -156,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CRM"
             }
           }
         ],
@@ -219,6 +224,8 @@
   },
   "active": "fc467a76902fa7b8",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
+    "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/Max Richardson (@maxrichardson97).md",
     "2-areas/Micron Mastering/Leads/Adam Artisan ⚡️ (@adamartisan).md",
     "2-areas/Micron Mastering/Leads/Konfusia  Techno DJ and Producer (@konfusia.music).md",
@@ -227,13 +234,11 @@
     "2-areas/Micron Mastering/Leads/(@ronaowna2021).md",
     "2-areas/Micron Mastering/Leads/Dj Trækup (@dj_traekup).md",
     "2-areas/Micron Mastering/Leads/JOKA 🇬🇫 (@jkr_timal).md",
-    "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/Matt 'Matiiik' Black (@automatikpro).md",
     "4-archives/2025/Outreach list.md",
     "4-archives/2025",
     "4-archives/classes/leads.md",
     "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
-    "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
     "2-areas/Micron Mastering/Leads/un ouistiti (@mxxnrise_makesfiremusic).md",
     "4-archives/daily-notes/2025-02-12.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
