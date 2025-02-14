@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "26ddb644cf74e58b",
+        "id": "9e82c15976c26aa9",
         "type": "tabs",
         "children": [
           {
-            "id": "191ae7dd141842cd",
+            "id": "5e4b0b829306cfb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/Micron Mastering/Leads/JOKA 🇬🇫 (@jkr_timal).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "JOKA 🇬🇫 (@jkr_timal)"
+              "title": "New tab"
             }
           }
         ],
@@ -222,7 +218,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "191ae7dd141842cd",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
     "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/JOKA 🇬🇫 (@jkr_timal).md",
