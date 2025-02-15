@@ -24,5 +24,5 @@ Qualified: "TBC"
 💿 🎤Matieuwhite, Slick Naim, Youka, Jahsik, Maïzy,….
 📍🇬🇫 / 🇫🇷"
 # Notes
-- [ ] Send Initial DM (@2025-02-15)
+- [ ] Send Initial DM (@2025-02-15 13:14)
 # DM Feed
