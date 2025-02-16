@@ -1,8 +1,8 @@
 ---
-Date: "2025-02-14T22:15:13+00:00"
-Url: "https://www.instagram.com/itspafrompa/"
-Liked: true
-Followed: false
+Date: "2025-02-16T08:53:59+00:00"
+Url: "https://www.instagram.com/imtonyviews/"
+Liked: false
+Followed: true
 DMed: false
 Comment: false
 Form: false
@@ -18,8 +18,8 @@ fileClass: "leads"
 Qualified: "TBC"
 ---
 # Description
-13K followers, 2,772 following, 16 posts – PRIN$E ALEXANDER (@itspafrompa) on Instagram: "NEW MUSIC 👇🏽
-“SOMETHING” out now 🕺"
+678 followers, 1,295 following, 29 posts – Tony Views (@imtonyviews) on Instagram: "Multi Talented Artist & Producer 
+From Lynn, Mass"
 # Notes
 - [ ] Send Initial DM (@2025-02-17)
 # DM Feed

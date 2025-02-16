@@ -1,8 +1,8 @@
 ---
-Date: "2025-02-14T22:15:13+00:00"
-Url: "https://www.instagram.com/itspafrompa/"
+Date: "2025-02-16T08:53:32+00:00"
+Url: "https://www.instagram.com/darksidesbeat/"
 Liked: true
-Followed: false
+Followed: true
 DMed: false
 Comment: false
 Form: false
@@ -18,8 +18,7 @@ fileClass: "leads"
 Qualified: "TBC"
 ---
 # Description
-13K followers, 2,772 following, 16 posts – PRIN$E ALEXANDER (@itspafrompa) on Instagram: "NEW MUSIC 👇🏽
-“SOMETHING” out now 🕺"
+602 followers, 1,554 following, 11 posts – Eli Kagayano (@darksidesbeat) on Instagram: "Music producer 🎶🇨🇩."
 # Notes
 - [ ] Send Initial DM (@2025-02-17)
 # DM Feed
