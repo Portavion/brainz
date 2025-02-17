@@ -6,7 +6,7 @@ Followed: true
 DMed: false
 Comment: false
 Form: false
-Initial DM: false
+Initial DM: true
 Engaged: false
 Lost: false
 Call Booked: false
@@ -21,5 +21,5 @@ Qualified: "TBC"
 678 followers, 1,295 following, 29 posts – Tony Views (@imtonyviews) on Instagram: "Multi Talented Artist & Producer 
 From Lynn, Mass"
 # Notes
-- [ ] Send Initial DM (@2025-02-17 18:25)
+- [x] Send Initial DM (@2025-02-17 18:25)
 # DM Feed
