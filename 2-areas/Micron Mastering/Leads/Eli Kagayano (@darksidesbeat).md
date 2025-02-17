@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 602 followers, 1,554 following, 11 posts – Eli Kagayano (@darksidesbeat) on Instagram: "Music producer 🎶🇨🇩."
 # Notes
-- [ ] Send Initial DM (@2025-02-17 18:25)
+- [x] Send Initial DM (@2025-02-17 18:25)
 # DM Feed
