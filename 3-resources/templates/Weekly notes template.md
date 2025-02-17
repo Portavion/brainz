@@ -19,7 +19,7 @@ tags:
 
 ## What Should Fi Say no To?
 
-## What Will that Allow Me to Say Yes To?
+## What Will I Do that Allow Me to Say Yes To?
 
 ## Gratitude:
 ## Goals for the Week Ahead:
