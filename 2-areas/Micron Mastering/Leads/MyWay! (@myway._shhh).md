@@ -24,5 +24,5 @@ Label: @racks.records_official
 myway.mngmt@gmail.com for inquiries
 !!!Feb 5th Fucked Up ft.Bossa !!!"
 # Notes
-- [ ] Send Initial DM (@2025-02-17 08:55)
+- [ ] Send Initial DM (@2025-02-17 10:26)
 # DM Feed
