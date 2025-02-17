@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,338 followers, 1,403 following, 68 posts – Matt 'Matiiik' Black (@automatikpro) on Instagram: "Brit Certified Silver Recording & Mix Engineer. A&R for @the_plush_house"
 # Notes
-- [ ] Send Initial DM (@2025-02-17 18:25)
+- [x] Send Initial DM (@2025-02-17 18:25)
 # DM Feed
