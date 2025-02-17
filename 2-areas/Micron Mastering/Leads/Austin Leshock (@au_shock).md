@@ -23,6 +23,6 @@ Media Composer/Arranger 🎼 📝 🎞 🎮
 Multi-Instrumentalist 🎷🎺🎹
 Audio Engineer @themixloftstudio"
 # Notes
-- [ ] Send Initial DM (@2025-02-17)
+- [ ] Send Initial DM (@2025-02-17 08:55)
 # DM Feed
 eventually over to pickup mastering overflow from his studio

@@ -20,5 +20,5 @@ Qualified: TBC
 # Description
 601 followers, 801 following, 0 posts – JOKA 🇬🇫 (@jkr_timal) on Instagram: "Inge Mixer/Producer™ 🎚️🎙️"
 # Notes
-- [ ] Send Initial DM (@2025-02-17)
+- [ ] Send Initial DM (@2025-02-17 08:55)
 # DM Feed
