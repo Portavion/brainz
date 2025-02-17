@@ -3,7 +3,7 @@
 const {fieldModifier: f}=
 this.app.plugins.plugins["metadata-menu"].api;
 
-dv.table(['Name','Url', 'Type', 'Initial DM', 'Engaged', 'Qualified', 'Lost', 'Call Booked', 'Last Contact'],
+dv.table(['Name','Url', 'Type', 'Initial DM', 'Engaged', 'Qualified', 'Lost', 'Call Booked', 'Last Contact', 'Date Added'],
 dv.pages('')
 	.where(p => p.fileClass == 'leads')
 	.filter(p => !p.file.path.includes('classes'))
@@ -17,7 +17,9 @@ dv.pages('')
 		  f(dv, p, 'Qualified'),
 		  f(dv, p, 'Lost'),
 		  f(dv, p, 'Call Booked'),
-		  f(dv, p, 'Last Contact')
+		  f(dv, p, 'Last Contact'),
+		  f(dv, p, 'Date')
+		  
 	])
 )
 ```
