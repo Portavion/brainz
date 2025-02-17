@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/yay flipper (@kopay2).md",
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "yay flipper (@kopay2)"
+              "title": "CRM"
             }
           }
         ],
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "e23e479415fadaa8",
@@ -160,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/yay flipper (@kopay2).md",
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of yay flipper (@kopay2)"
+              "title": "Outline of CRM"
             }
           }
         ],
@@ -224,8 +225,13 @@
   },
   "active": "a18ef80c3eb15313",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/NoLaccin' Audio Enigneer Recording & Mixing (@hippychef_).md",
+    "2-areas/Micron Mastering/Leads/Vega5200 + Business Man + Ol' black eye's (@jamondru).md",
+    "2-areas/Micron Mastering/Leads/Thoma$ (@thomaswithdollars).md",
+    "2-areas/Micron Mastering/Leads/Daniel Han 한석진 (@dan_h_98).md",
+    "2-areas/Micron Mastering/Leads/Dono Gilliam (@donodadeal).md",
+    "2-areas/Micron Mastering/Leads/ABBI🛸 (@abbiyouknow).md",
     "2-areas/Micron Mastering/Leads/yay flipper (@kopay2).md",
+    "2-areas/Micron Mastering/Leads/NoLaccin' Audio Enigneer Recording & Mixing (@hippychef_).md",
     "2-areas/Micron Mastering/Leads/Nathan Cable (@nathanuelcable).md",
     "4-archives/weekly-notes/2025-W08.md",
     "0-inbox/Melting Cabbage.md",
@@ -251,11 +257,6 @@
     "1-projects/Chalkr/00. Chalkr Kanban.md",
     "1-projects/Chalkr/features/User Authentication 09-02-25.md",
     "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
-    "1-projects/Chalkr/features/Basic Climbing Stats 02-03-25.md",
-    "2-areas/Micron Mastering/CRM.md",
-    "2-areas/Micron Mastering/Leads/Matteo (@matteo_bb4).md",
-    "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
-    "2-areas/Micron Mastering/Leads/Max Richardson (@maxrichardson97).md",
     "4-archives/2025",
     "4-archives/2025/250211 Reels R&B february",
     "1-projects/Chalkr/features",
