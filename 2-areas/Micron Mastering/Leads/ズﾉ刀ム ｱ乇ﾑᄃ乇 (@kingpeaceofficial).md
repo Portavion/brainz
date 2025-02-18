@@ -13,7 +13,7 @@ Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-02-17
+Last Contact: 2025-02-18
 fileClass: leads
 Qualified: Qualified
 ---
@@ -25,4 +25,5 @@ Singer, Songwriter
 🏢 founder @migentertainment_"
 # Notes
 - [x] Send Initial DM (@2025-02-17 14:58)
+- [ ] Follow up on current projects (@2025-02-25)
 # DM Feed
