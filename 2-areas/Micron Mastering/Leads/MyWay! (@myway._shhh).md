@@ -15,7 +15,7 @@ tags:
 Lead Type: Warm
 Last Contact: 2025-02-17
 fileClass: leads
-Qualified: TBC
+Qualified: Not Qualified
 ---
 # Description
 4,014 followers, 2,044 following, 8 posts – MyWay! (@myway._shhh) on Instagram: "Producer & Engineer

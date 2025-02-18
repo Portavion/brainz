@@ -9,4 +9,5 @@ description: "Say you want to build a simple timer in React Native and you’ve 
 tags:
   - "clippings"
 ---
+# How to Build a Background Timer in ExpoReact Native without Ejecting
 @react-native-community/async-storage
