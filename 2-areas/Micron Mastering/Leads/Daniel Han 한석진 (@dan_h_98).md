@@ -15,12 +15,12 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 549 followers, 3,881 following, 11 posts – Daniel Han 한석진 (@dan_h_98) on Instagram: "Bee See Sea Music AFA
 <https://soundcloud.com/d-han-music>
 Powerlifting: @dhan__himiseda"
 # Notes
-- [ ] Send Initial DM (@2025-02-18)
+- [x] Send Initial DM (@2025-02-18)
 # DM Feed
