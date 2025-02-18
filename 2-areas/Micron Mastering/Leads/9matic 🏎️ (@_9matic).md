@@ -1,0 +1,24 @@
+---
+Date: "2025-02-18T19:35:05+00:00"
+Url: "https://www.instagram.com/_9matic/"
+Liked: false
+Followed: true
+DMed: false
+Comment: false
+Form: false
+Initial DM: false
+Engaged: false
+Lost: false
+Call Booked: false
+tags:
+  - "lead"
+Lead Type: "Warm"
+Last Contact:
+fileClass: "leads"
+Qualified: "TBC"
+---
+# Description
+2,075 followers, 560 following, 18 posts – 9matic 🏎️ (@_9matic) on Instagram: "« LUXURE » DISPONIBLE PARTOUT 💖"
+# Notes
+- [ ] Send Initial DM (@2025-02-19)
+# DM Feed
