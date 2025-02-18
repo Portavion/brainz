@@ -8,6 +8,7 @@ description:
 tags:
   - "clippings"
 ---
+# News from The Time Freedom Coach
 In this example for ease of understanding no new tasks are added while working on the list. This of course is unlikely in real life.
 
 Your initial list of tasks:

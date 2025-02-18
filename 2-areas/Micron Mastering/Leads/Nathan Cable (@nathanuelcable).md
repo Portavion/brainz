@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 129 followers, 426 following, 49 posts – Nathan Cable (@nathanuelcable) on Instagram: "Folkestone based artist. produced and mixed records."
 # Notes
-- [ ] Send Initial DM (@2025-02-18)
+- [ ] Send Initial DM (@2025-02-18 11:32)
 # DM Feed
