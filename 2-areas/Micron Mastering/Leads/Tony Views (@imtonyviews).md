@@ -13,9 +13,9 @@ Call Booked: false
 tags:
   - "lead"
 Lead Type: "Warm"
-Last Contact: 2025-02-18
-fileClass: "leads"
-Qualified: "TBC"
+Last Contact: 2025-02-19
+fileClass: leads
+Qualified: Qualified
 ---
 # Description
 678 followers, 1,295 following, 29 posts – Tony Views (@imtonyviews) on Instagram: "Multi Talented Artist & Producer 

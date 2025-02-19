@@ -15,10 +15,10 @@ tags:
 Lead Type: Warm
 Last Contact: 
 fileClass: leads
-Qualified: TBC
+Qualified: Not Qualified
 ---
 # Description
 601 followers, 801 following, 0 posts – JOKA 🇬🇫 (@jkr_timal) on Instagram: "Inge Mixer/Producer™ 🎚️🎙️"
 # Notes
-- [ ] Send Initial DM if accepted follow request (@2025-02-19 18:25)
+- [x] Send Initial DM if accepted follow request (@2025-02-19 18:25)
 # DM Feed

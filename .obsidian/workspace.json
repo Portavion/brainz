@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0d543e8d65671ee8",
+        "id": "0d184dda3b64e1e5",
         "type": "tabs",
         "children": [
           {
-            "id": "2723cc5b89d6d74c",
+            "id": "18f916a61f6f9bfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-inbox/How to build a background timer in ExpoReact Native without ejecting.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "How to build a background timer in ExpoReact Native without ejecting"
-            }
-          },
-          {
-            "id": "13ef945d3d4701dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/Micron Mastering/Leads/9matic 🏎️ (@_9matic).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9matic 🏎️ (@_9matic)"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -175,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/9matic 🏎️ (@_9matic).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9matic 🏎️ (@_9matic)"
+              "title": "Outline"
             }
           }
         ],
@@ -237,8 +217,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "13ef945d3d4701dd",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/JOKA 🇬🇫 (@jkr_timal).md",
+    "2-areas/Micron Mastering/Leads/ズﾉ刀ム ｱ乇ﾑᄃ乇 (@kingpeaceofficial).md",
+    "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/Topside CP (@topsidecp).md",
+    "2-areas/Micron Mastering/Leads/Phily Phil (@keepitphily).md",
     "2-areas/Micron Mastering/Leads/9matic 🏎️ (@_9matic).md",
     "0-inbox/News from The Time Freedom Coach.md",
     "0-inbox/Melting Cabbage.md",
@@ -250,21 +235,16 @@
     "2-areas/Micron Mastering/Leads/ABBI🛸 (@abbiyouknow).md",
     "2-areas/Micron Mastering/Leads/yay flipper (@kopay2).md",
     "2-areas/Micron Mastering/Leads/NoLaccin' Audio Enigneer Recording & Mixing (@hippychef_).md",
-    "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/(@9.9kilobeatrecords).md",
     "2-areas/Micron Mastering/Leads/Majeed - Professional Speakers.md",
-    "2-areas/Micron Mastering/Leads/ズﾉ刀ム ｱ乇ﾑᄃ乇 (@kingpeaceofficial).md",
     "2-areas/Micron Mastering/Leads/Adelaid Wala.md",
     "0-inbox/How to build a background timer in ExpoReact Native without ejecting.md",
     "2-areas/Micron Mastering/Leads/Tony Views (@imtonyviews).md",
     "2-areas/Micron Mastering/Leads/Eli Kagayano (@darksidesbeat).md",
-    "2-areas/Micron Mastering/Leads/JOKA 🇬🇫 (@jkr_timal).md",
     "2-areas/Micron Mastering/Leads/Matt 'Matiiik' Black (@automatikpro).md",
     "2-areas/Micron Mastering/Leads/MyWay! (@myway._shhh).md",
     "2-areas/Micron Mastering/Leads/Dj Trækup (@dj_traekup).md",
     "2-areas/Micron Mastering/Leads/Austin Leshock (@au_shock).md",
-    "2-areas/Micron Mastering/Leads/PRIN$E ALEXANDER (@itspafrompa).md",
-    "4-archives/weekly-notes/2025-W08.md",
     "3-resources/templates/time audit example.png",
     "4-archives/weekly-notes/CleanShot 2025-02-17 at 08.32.24@2x.png",
     "4-archives/weekly-notes/CleanShot 2025-02-17 at 08.30.38@2x.png",
