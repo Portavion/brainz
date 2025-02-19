@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d184dda3b64e1e5",
+        "id": "d0b38004c287a4d6",
         "type": "tabs",
         "children": [
           {
-            "id": "18f916a61f6f9bfa",
+            "id": "083fab9429fc8d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Chalkr/00. Roadmap.md",
+                "file": "2-areas/Micron Mastering/Leads/9matic 🏎️ (@_9matic).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. Roadmap"
+              "title": "9matic 🏎️ (@_9matic)"
             }
           }
         ],
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Chalkr/00. Roadmap.md",
+                "file": "2-areas/Micron Mastering/Leads/9matic 🏎️ (@_9matic).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00. Roadmap"
+              "title": "Outline of 9matic 🏎️ (@_9matic)"
             }
           }
         ],
@@ -222,9 +222,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "18f916a61f6f9bfa",
+  "active": "083fab9429fc8d7f",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/Adelaid Wala.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
+    "1-projects/Chalkr/00. Roadmap.md",
     "1-projects/Chalkr/features/Data Syncing 23-03-25.md",
     "1-projects/Chalkr/features/Basic Climbing Stats 02-03-25.md",
     "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
@@ -246,10 +248,8 @@
     "2-areas/Micron Mastering/Leads/NoLaccin' Audio Enigneer Recording & Mixing (@hippychef_).md",
     "2-areas/Micron Mastering/Leads/(@9.9kilobeatrecords).md",
     "2-areas/Micron Mastering/Leads/Majeed - Professional Speakers.md",
-    "2-areas/Micron Mastering/Leads/Adelaid Wala.md",
     "0-inbox/How to build a background timer in ExpoReact Native without ejecting.md",
     "2-areas/Micron Mastering/Leads/Tony Views (@imtonyviews).md",
-    "2-areas/Micron Mastering/Leads/Eli Kagayano (@darksidesbeat).md",
     "3-resources/templates/time audit example.png",
     "4-archives/weekly-notes/CleanShot 2025-02-17 at 08.32.24@2x.png",
     "4-archives/weekly-notes/CleanShot 2025-02-17 at 08.30.38@2x.png",

@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 
 # Notes
-- [ ] Send Initial DM (@2025-02-19)
+- [x] Send Initial DM (@2025-02-19)
 # DM Feed
