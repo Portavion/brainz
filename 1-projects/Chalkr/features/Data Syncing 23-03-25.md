@@ -1,3 +1,4 @@
+# Data Syncing 23-03-25
 - [ ] Create tables and sync like SQLite
 - [ ] Write scripts for database migrations 
 - [ ] Create endpoint for syncing data (/sync/workouts)
