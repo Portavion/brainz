@@ -9,16 +9,17 @@ description: "The library for web and native user interfaces"
 tags:
   - "clippings"
 ---
+# Reusing Logic with Custom Hooks – React
 React comes with several built-in Hooks like `useState`, `useContext`, and `useEffect`. Sometimes, you’ll wish that there was a Hook for some more specific purpose: for example, to fetch data, to keep track of whether the user is online, or to connect to a chat room. You might not find these Hooks in React, but you can create your own Hooks for your application’s needs.
 
-### You will learn
+### You Will Learn
 
 - What custom Hooks are, and how to write your own
 - How to reuse logic between components
 - How to name and structure your custom Hooks
 - When and why to extract custom Hooks
 
-## Custom Hooks: Sharing logic between components
+## Custom Hooks: Sharing Logic between Components
 
 Imagine you’re developing an app that heavily relies on the network (as most apps do). You want to warn the user if their network connection has accidentally gone off while they were using your app. How would you go about it? It seems like you’ll need two things in your component:
 
@@ -120,7 +121,7 @@ Now your components don’t have as much repetitive logic. **More importantly, t
 
 When you extract logic into custom Hooks, you can hide the gnarly details of how you deal with some external system or a browser API. The code of your components expresses your intent, not the implementation.
 
-### Hook names always start with `use`React applications are built from components. Components are built from Hooks, whether built-in or custom. You’ll likely often use custom Hooks created by others, but occasionally you might write one yourself!
+### Hook Names Always Start with `use`React Applications Are Built from Components. Components Are Built from Hooks, whether Built-in or Custom. You’ll Likely Often Use Custom Hooks Created by Others, but Occasionally You Might Write One Yourself!
 
 You must follow these naming conventions:
 
@@ -135,7 +136,7 @@ If your linter is [configured for React,](https://react.dev/learn/editor-setup#l
 
 ##### Deep Dive
 
-#### Should all functions called during rendering start with the use prefix?
+#### Should All Functions Called during Rendering Start with the Use Prefix?
 
 No. Functions that don’t *call* Hooks don’t need to *be* Hooks.
 
@@ -298,7 +299,7 @@ This is why it works like declaring two separate state variables!
 
 When you need to share the state itself between multiple components, [lift it up and pass it down](https://react.dev/learn/sharing-state-between-components) instead.
 
-## Passing reactive values between Hooks
+## Passing Reactive Values between Hooks
 
 The code inside your custom Hooks will re-run during every re-render of your component. This is why, like components, custom Hooks [need to be pure.](https://react.dev/learn/keeping-components-pure) Think of custom Hooks’ code as part of your component’s body!
 
@@ -433,7 +434,7 @@ serverUrl: serverUrl
 
 Every time your `ChatRoom` component re-renders, it passes the latest `roomId` and `serverUrl` to your Hook. This is why your Effect re-connects to the chat whenever their values are different after a re-render. (If you ever worked with audio or video processing software, chaining Hooks like this might remind you of chaining visual or audio effects. It’s as if the output of `useState` “feeds into” the input of the `useChatRoom`.)
 
-### Passing event handlers to custom Hooks
+### Passing Event Handlers to Custom Hooks
 
 ### Under Construction
 
@@ -548,7 +549,7 @@ export default function ChatRoom({ roomId }) {
 
 Notice how you no longer need to know *how* `useChatRoom` works in order to use it. You could add it to any other component, pass any other options, and it would work the same way. That’s the power of custom Hooks.
 
-## When to use custom Hooks
+## When to Use Custom Hooks
 
 You don’t need to extract a custom Hook for every little duplicated bit of code. Some duplication is fine. For example, extracting a `useFormInput` Hook to wrap a single `useState` call like earlier is probably unnecessary.
 
@@ -632,7 +633,7 @@ Extracting a custom Hook makes the data flow explicit. You feed the `url` in and
 
 ##### Deep Dive
 
-#### Keep your custom Hooks focused on concrete high-level use cases
+#### Keep Your Custom Hooks Focused on Concrete High-level Use Cases
 
 Start by choosing your custom Hook’s name. If you struggle to pick a clear name, it might mean that your Effect is too coupled to the rest of your component’s logic, and is not yet ready to be extracted.
 
@@ -709,7 +710,7 @@ useImpressionLog('visit_chat', { roomId });
 
 **A good custom Hook makes the calling code more declarative by constraining what it does.** For example, `useChatRoom(options)` can only connect to the chat room, while `useImpressionLog(eventName, extraData)` can only send an impression log to the analytics. If your custom Hook API doesn’t constrain the use cases and is very abstract, in the long run it’s likely to introduce more problems than it solves.
 
-### Custom Hooks help you migrate to better patterns
+### Custom Hooks Help You Migrate to Better Patterns
 
 Effects are an [“escape hatch”](https://react.dev/learn/escape-hatches): you use them when you need to “step outside React” and when there is no better built-in solution for your use case. With time, the React team’s goal is to reduce the number of the Effects in your app to the minimum by providing more specific solutions to more specific problems. Wrapping your Effects in custom Hooks makes it easier to upgrade your code when these solutions become available.
 
@@ -786,7 +787,7 @@ Similar to a [design system,](https://uxdesign.cc/everything-you-need-to-know-ab
 
 ##### Deep Dive
 
-#### Will React provide any built-in solution for data fetching?
+#### Will React provide Any Built-in Solution for Data Fetching?
 
 We’re still working out the details, but we expect that in the future, you’ll write data fetching like this:
 
@@ -801,7 +802,7 @@ const areas = city ? use(fetch(\`/api/areas?city=${city}\`)) : null;
 
 If you use custom Hooks like `useData` above in your app, it will require fewer changes to migrate to the eventually recommended approach than if you write raw Effects in every component manually. However, the old approach will still work fine, so if you feel happy writing raw Effects, you can continue to do that.
 
-### There is more than one way to do it
+### There is More than One way to Do it
 
 Let’s say you want to implement a fade-in animation *from scratch* using the browser [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame) API. You might start with an Effect that sets up an animation loop. During each frame of the animation, you could change the opacity of the DOM node you [hold in a ref](https://react.dev/learn/manipulating-the-dom-with-refs) until it reaches `1`. Your code might start like this:
 
@@ -962,7 +963,7 @@ Sometimes, you don’t even need a Hook!
 - Don’t create custom Hooks like `useMount`. Keep their purpose specific.
 - It’s up to you how and where to choose the boundaries of your code.
 
-## Try out some challenges
+## Try out Some Challenges
 
 This component uses a state variable and an Effect to display a number that increments every second. Extract this logic into a custom Hook called `useCounter`. Your goal is to make the `Counter` component implementation look exactly like this:
 

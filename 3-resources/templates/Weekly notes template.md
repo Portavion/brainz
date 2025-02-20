@@ -5,6 +5,7 @@ tags:
 ---
 # Recipes
 # Data
+Time value: 50/25£ph
 ## Time Tracking
 
 ## Exercising
