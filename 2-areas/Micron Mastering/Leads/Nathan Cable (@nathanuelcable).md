@@ -13,9 +13,9 @@ Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-02-19
+Last Contact: 2025-02-20
 fileClass: leads
-Qualified: TBC
+Qualified: Qualified
 ---
 # Description
 129 followers, 426 following, 49 posts – Nathan Cable (@nathanuelcable) on Instagram: "Folkestone based artist. produced and mixed records."

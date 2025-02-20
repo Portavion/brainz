@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b2bae30b44e976bb",
+        "id": "ff7b6a2105e41759",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a897821291d2f7",
+            "id": "a5e6608aff03c85a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0-inbox/Reusing Logic with Custom Hooks – React.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Reusing Logic with Custom Hooks – React"
             }
           }
         ],
@@ -156,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0-inbox/Reusing Logic with Custom Hooks – React.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Reusing Logic with Custom Hooks – React"
             }
           }
         ],
@@ -217,8 +222,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b9a897821291d2f7",
+  "active": "a5e6608aff03c85a",
   "lastOpenFiles": [
+    "0-inbox/Reusing Logic with Custom Hooks – React.md",
+    "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/Tony Views (@imtonyviews).md",
+    "2-areas/Micron Mastering/Leads/i am prosperous and successful (@transporterz).md",
+    "2-areas/Micron Mastering/Leads/L.G HOTTHANDZ (@lg_hotthandz).md",
+    "2-areas/Micron Mastering/Leads/King Burns🇿🇦🏴󠁧󠁢󠁳󠁣󠁴󠁿 (@king_burns_official).md",
+    "2-areas/Micron Mastering/Leads/atn soul 🧛🏼 (@atnsoul).md",
     "2-areas/Micron Mastering/Leads/9matic 🏎️ (@_9matic).md",
     "2-areas/Micron Mastering/Leads/Adelaid Wala.md",
     "1-projects/Chalkr/00. Chalkr Kanban.md",
@@ -228,7 +240,6 @@
     "1-projects/Chalkr/features/Workout Logging  16-02-25.md",
     "2-areas/Micron Mastering/Leads/JOKA 🇬🇫 (@jkr_timal).md",
     "2-areas/Micron Mastering/Leads/ズﾉ刀ム ｱ乇ﾑᄃ乇 (@kingpeaceofficial).md",
-    "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/Topside CP (@topsidecp).md",
     "2-areas/Micron Mastering/Leads/Phily Phil (@keepitphily).md",
     "0-inbox/News from The Time Freedom Coach.md",
@@ -239,12 +250,6 @@
     "2-areas/Micron Mastering/Leads/Daniel Han 한석진 (@dan_h_98).md",
     "2-areas/Micron Mastering/Leads/Dono Gilliam (@donodadeal).md",
     "2-areas/Micron Mastering/Leads/ABBI🛸 (@abbiyouknow).md",
-    "2-areas/Micron Mastering/Leads/yay flipper (@kopay2).md",
-    "2-areas/Micron Mastering/Leads/NoLaccin' Audio Enigneer Recording & Mixing (@hippychef_).md",
-    "2-areas/Micron Mastering/Leads/(@9.9kilobeatrecords).md",
-    "2-areas/Micron Mastering/Leads/Majeed - Professional Speakers.md",
-    "0-inbox/How to build a background timer in ExpoReact Native without ejecting.md",
-    "2-areas/Micron Mastering/Leads/Tony Views (@imtonyviews).md",
     "3-resources/templates/time audit example.png",
     "4-archives/weekly-notes/CleanShot 2025-02-17 at 08.32.24@2x.png",
     "4-archives/weekly-notes/CleanShot 2025-02-17 at 08.30.38@2x.png",

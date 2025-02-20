@@ -13,7 +13,7 @@ Call Booked: false
 tags:
   - "lead"
 Lead Type: "Warm"
-Last Contact: 2025-02-19
+Last Contact: 2025-02-20
 fileClass: leads
 Qualified: Qualified
 ---
@@ -22,4 +22,5 @@ Qualified: Qualified
 From Lynn, Mass"
 # Notes
 - [x] Send Initial DM (@2025-02-17 18:25)
+- [ ] follow up for free master (@2025-02-24)
 # DM Feed

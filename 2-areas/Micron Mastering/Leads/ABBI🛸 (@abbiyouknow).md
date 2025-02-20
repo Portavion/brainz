@@ -13,9 +13,9 @@ Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-02-19
+Last Contact: 2025-02-20
 fileClass: leads
-Qualified: TBC
+Qualified: Qualified
 ---
 # Description
 12K followers, 333 following, 29 posts – ABBI🛸 (@abbiyouknow) on Instagram: "🇮🇳x🇬🇧 

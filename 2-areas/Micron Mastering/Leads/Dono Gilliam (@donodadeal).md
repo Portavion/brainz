@@ -13,9 +13,9 @@ Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-02-19
+Last Contact: 2025-02-20
 fileClass: leads
-Qualified: TBC
+Qualified: Not Qualified
 ---
 # Description
 1,289 followers, 1,087 following, 48 posts – Dono Gilliam (@donodadeal) on Instagram: "Mixing/Recording Engineer
