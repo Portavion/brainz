@@ -15,13 +15,13 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 832 followers, 2,526 following, 22 posts – Phily Phil (@keepitphily) on Instagram: "Artist | Producer | Mix Engineer
 Founder & C.E.O 
 @Semantix Media"
 # Notes
-- [ ] Send Initial DM (@2025-02-20)
+- [x] Send Initial DM (@2025-02-20)
 # DM Feed
 liked all my reels

@@ -15,7 +15,7 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,992 followers, 1,540 following, 257 posts – Topside CP (@topsidecp) on Instagram: "✞
@@ -23,5 +23,5 @@ Pro Audio Engineer
 Chicago➡️Los Angeles🎶🌴🌊☀️😎                        
 @lockwoodstudiosla @topsideent"
 # Notes
-- [ ] Send Initial DM (@2025-02-20)
+- [x] Send Initial DM (@2025-02-20)
 # DM Feed
