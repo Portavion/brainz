@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21f2a3bede561417",
+        "id": "835707e7ec1c98d6",
         "type": "tabs",
         "children": [
           {
-            "id": "77852a0f1c793850",
+            "id": "75cb5b0bd0e002d7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CRM"
             }
           }
         ],
@@ -217,7 +218,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "77852a0f1c793850",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
     "3-resources/templates/Weekly notes template.md",
     "4-archives/weekly-notes/2025-W07.md",
