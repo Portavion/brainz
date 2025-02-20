@@ -7,6 +7,11 @@ tags:
 # Data
 Time value: 50/25£ph
 ## Time Tracking
+- Social Media: £ - £ per day ( hours)
+- Side Project: £ - £ per day ( hours)
+- Food: £ ( minutes)
+- Chores: £ ( hours per week)
+- Transportation: £ ( hours per week)
 
 ## Exercising
 
