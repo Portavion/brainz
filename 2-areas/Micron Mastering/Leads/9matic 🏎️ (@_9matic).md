@@ -13,7 +13,7 @@ Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 
+Last Contact: 2025-02-21
 fileClass: leads
 Qualified: TBC
 ---

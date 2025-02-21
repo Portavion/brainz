@@ -15,10 +15,11 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Qualified
 ---
 # Description
 1,537 followers, 2,979 following, 183 posts – Jim Janco (@peopledrift) on Instagram: ""
 # Notes
-- [ ] Send Initial DM (@2025-02-22)
+- [x] Send Initial DM (@2025-02-22)
+- [ ] follow up on playlist (@2025-02-25)
 # DM Feed
