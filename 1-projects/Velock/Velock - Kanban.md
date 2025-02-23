@@ -14,6 +14,8 @@ kanban-plugin: board
 - [ ] Custom hooks refactor
 - [ ] Test db
 - [ ] [[Refactor workers - services]]
+- [ ] [[Refactor tfl update method]]
+- [ ] Refresh tfl data on asking
 
 
 ## Todo
