@@ -5,6 +5,7 @@ draft: false
 tags:
   - tag1
 ---
+# Gloom-Wirski1991-Mix
 It is crazy how quick I can forget about tracks and find gems in shuffling my library.
 
 This could be a good foundation for my track ideas. Similar structure which means the drums would be quick and easy to make on the M8 (I could also add some breakbeats). 
