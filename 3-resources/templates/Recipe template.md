@@ -3,6 +3,4 @@
 - Serving Size:
 - Calories: 
 ## Ingredients
-- 
 ## Instructions
-1. 
