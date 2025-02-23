@@ -9,56 +9,35 @@ description: "We gave Marry Me Chicken a vegetarian twist by replacing the tradi
 tags:
   - "clippings"
 ---
-# Marry Me Melting Cabbage Is So Tender, You Can Cut It with a Spoon
-We gave Marry Me Chicken a vegetarian twist by replacing the traditional chicken with tender cabbage wedges, all coated in a rich and flavorful sun-dried tomato cream sauce. Sop up every last bit of sauce with a crusty hunk of whole-grain bread, or make it a main dish and serve it over brown rice or whole-wheat pasta.
-
-Published on January 24, 2025
-
-And it still has that gourmet twist.
-
-0 of 40 secondsVolume 0%
-
-Photographer: Robby Lozano, Food Stylist: Amanda Hostein, Prop Stylist: Keoshia McGhee
-
-Cook Mode (Keep screen awake)
-
+# Melting Cabbage
 ## Ingredients
 
-- 1 small head green cabbage (2¼ pounds​【1 kg】), outermost leaves removed
-- ½ cup​【118 mL】 coarsely chopped drained julienne-cut sun-dried tomatoes in oil, plus 3 tablespoons oil from jar, divided
-- 2¼ cups​【532 mL】 no-salt-added vegetable broth
-- ¼ cup​【59 mL】 heavy cream
+- 1 small head green cabbage (1 kg), outermost leaves removed
+- ½ cup coarsely chopped drained julienne-cut sun-dried tomatoes in oil, plus 3 tablespoons oil from jar, divided
+- 500ml no-salt-added vegetable broth
+- ¼ cup​ heavy cream
 - 1 tablespoon tomato paste
 - 1½ teaspoons Italian seasoning
 - ¼ teaspoon crushed red pepper
 - 3 cloves garlic, minced
-- ¼ cup​【59 mL】 reduced-fat cream cheese, cubed and softened
+- ¼ cup reduced-fat cream cheese, cubed and softened
 - ½ teaspoon salt, divided
 - 2 teaspoons cornstarch
 - 2 teaspoons water
-- ½ cup​【118 mL】 grated Parmesan cheese plus 1 tablespoon, divided
+- ½ cup​ grated Parmesan cheese plus 1 tablespoon, divided
 - ¼ teaspoon ground pepper
 - Chopped fresh basil for garnish (optional)
 
 ## Directions
 
-1. Preheat oven to 350°F​【177°C】. Slice cabbage in half through the root. Cut each half into 4 (about 2-inch-​【5 cm】thick) wedges, keeping core intact. Heat 1 tablespoon sun-dried tomato oil in a large, enamel-coated cast-iron or stainless-steel skillet over medium-high heat. Add 4 cabbage wedges; cook until deeply browned on both sides, 3 to 4 minutes per side; transfer to a large rimmed baking sheet. Repeat with 1 tablespoon oil and the remaining 4 cabbage wedges. Do not wipe the skillet clean.
-
-Photographer: Robby Lozano, Food Stylist: Amanda Hostein, Prop Stylist: Keoshia McGhee
-2. Add ½ cup​【118 mL】 sun-dried tomatoes, 2¼ cups​【532 mL】 broth, ¼ cup cream, 1 tablespoon tomato paste, 1½ teaspoons Italian seasoning, ¼ teaspoon crushed red pepper, the minced garlic, the softened cream cheese, ¼ teaspoon salt and the remaining 1 tablespoon oil to the skillet; cook over medium heat, whisking constantly, until well combined and boiling, about 2 minutes.
-
-Photographer: Robby Lozano, Food Stylist: Amanda Hostein, Prop Stylist: Keoshia McGhee
-3. Stir 2 teaspoons cornstarch and 2 teaspoons water together in a small bowl until fully combined. Whisk into the mixture in the skillet; remove from heat. Whisk in ½ cup​【118 mL】 Parmesan until melted, about 1 minute.
+1. Preheat oven to 180°C. Slice cabbage in half through the root. Cut each half into 4 wedges, keeping core intact. Heat 1 tablespoon sun-dried tomato oil in a large, enamel-coated cast-iron or stainless-steel skillet over medium-high heat. Add 4 cabbage wedges; cook until deeply browned on both sides, 3 to 4 minutes per side; transfer to a large rimmed baking sheet. Repeat with 1 tablespoon oil and the remaining 4 cabbage wedges. Do not wipe the skillet clean.
+2. Add sun-dried tomatoes, broth, cream, tomato paste, Italian seasoning, crushed red pepper, the minced garlic, the softened cream cheese, ¼ teaspoon salt and the remaining 1 tablespoon oil to the skillet; cook over medium heat, whisking constantly, until well combined and boiling, about 2 minutes.
+3. Stir 2 teaspoons cornstarch and 2 teaspoons water together in a small bowl until fully combined. Whisk into the mixture in the skillet; remove from heat. Whisk in Parmesan until melted, about 1 minute.
 4. Sprinkle the tops of the cabbage wedges with ¼ teaspoon pepper and the remaining ¼ teaspoon salt; nestle the wedges into the skillet, overlapping just slightly if needed to fit in a single layer.
-
-Photographer: Robby Lozano, Food Stylist: Amanda Hostein, Prop Stylist: Keoshia McGhee
 5. Bake until the cabbage is fork-tender and the sauce has slightly thickened, 50 minutes to 1 hour, flipping the cabbage halfway through. Sprinkle the cabbage with the remaining 1 tablespoon Parmesan. Garnish with basil, if desired.
-
-Photographer: Robby Lozano, Food Stylist: Amanda Hostein, Prop Stylist: Keoshia McGhee
-
 ### Nutrition Information
 
-Serving Size: 1 cabbage wedge & about 2 Tbsp. sauce
+Serving Size: 2 cabbage wedge & about 2 Tbsp. sauce
 
 Calories 181, Fat 12g, Saturated Fat 4g, Cholesterol 18mg, Carbohydrates 14g, Total Sugars 5g, Added Sugars 0g, Protein 4g, Fiber 3g, Sodium 345mg, Potassium 436mg
 
