@@ -11,21 +11,14 @@
             "id": "ccb8b5696216d5d5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "1-projects/Velock/Velock - Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "4-archives/weekly-notes/2025-W09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Velock - Kanban"
+              "icon": "lucide-file",
+              "title": "2025-W09"
             }
           }
         ],
@@ -241,10 +234,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "958a1d34b0f58cb8",
+  "active": "ccb8b5696216d5d5",
   "lastOpenFiles": [
-    "1-projects/Velock/Refactor tfl update method.md",
+    "0-inbox/Speedy Keto Shepherd's Pie -- Very Easy Recipe.md",
+    "4-archives/weekly-notes/2025-W09.md",
     "1-projects/Velock/Velock - Kanban.md",
+    "1-projects/Velock/Refactor tfl update method.md",
     "1-projects/Velock/Refactor workers - services.md",
     "1-projects/Velock/Map View.md",
     "1-projects/Velock/UI design.md",
@@ -270,8 +265,6 @@
     "3-resources/templates/Monthly reflections template.md",
     "3-resources/cooking/Slow Cooker Chicken Pozole Verde.md",
     "3-resources/cooking/Melting Cabbage.md",
-    "3-resources/cooking/Homemade Chicken Piccata Recipe - Budget Bytes.md",
-    "3-resources/cooking/Creamy Dijon Chicken.md",
     "3-resources/templates/time audit example.png",
     "4-archives/weekly-notes/CleanShot 2025-02-17 at 08.32.24@2x.png",
     "4-archives/weekly-notes/CleanShot 2025-02-17 at 08.30.38@2x.png",
