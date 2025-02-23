@@ -9,6 +9,7 @@ description: "Enjoy oven-baked pork chops cooked in a honey and wholegrain musta
 tags:
   - "clippings"
 ---
+# Oven-baked Pork Chops
 - [Home](https://www.bbcgoodfood.com/)
 - [Recipes](https://www.bbcgoodfood.com/recipes)
 - Oven-baked pork chops
