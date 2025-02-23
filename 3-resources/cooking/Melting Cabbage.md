@@ -28,7 +28,7 @@ tags:
 - ¼ teaspoon ground pepper
 - Chopped fresh basil for garnish (optional)
 
-## Directions
+## Instructions
 
 1. Preheat oven to 180°C. Slice cabbage in half through the root. Cut each half into 4 wedges, keeping core intact. Heat 1 tablespoon sun-dried tomato oil in a large, enamel-coated cast-iron or stainless-steel skillet over medium-high heat. Add 4 cabbage wedges; cook until deeply browned on both sides, 3 to 4 minutes per side; transfer to a large rimmed baking sheet. Repeat with 1 tablespoon oil and the remaining 4 cabbage wedges. Do not wipe the skillet clean.
 2. Add sun-dried tomatoes, broth, cream, tomato paste, Italian seasoning, crushed red pepper, the minced garlic, the softened cream cheese, ¼ teaspoon salt and the remaining 1 tablespoon oil to the skillet; cook over medium heat, whisking constantly, until well combined and boiling, about 2 minutes.

@@ -9,8 +9,9 @@ description: "Easy Chicken Piccata in a buttery lemon caper sauce is a fast, eas
 tags:
   - "clippings"
 ---
+# Homemade Chicken Piccata Recipe - Budget Bytes
 ![This rich and tangy Chicken Piccata is a fast, easy, and elegant answer to dinner. With just a few ingredients and a lot of flavor! BudgetBytes.com](https://www.budgetbytes.com/wp-content/uploads/2012/01/Chicken-Piccatta-close-500x500.jpg)
-## What to serve with Chicken Piccata
+## What to Serve with Chicken Piccata
 Serve with your choice of:
 - Plain buttered pasta
 - Rice
@@ -27,7 +28,7 @@ For 4 servings:
 - 1/2 cup​ chicken broth 
 - 1 Tbsp capers 
 
-## Method
+## Instructions
 - Prepare the lemon, parsley, and garlic so they’re ready to go when you need them. Roughly chop the parsley leaves, juice the lemon, and mince the garlic. Set these ingredients aside.
 - Trim the chicken breasts of excess fat. Cover them with plastic wrap and pound them with a mallet or rolling pin until they are an even thickness (about 1/2-3/4 inch thick). Cut each chicken breast in half so that you have four to six pieces about the size of the palm of your hand. Season both sides of the chicken pieces with salt and pepper.
 - Heat the olive oil in a heavy skillet, over medium heat. While the oil is heating, place the flour in a bowl and lightly coat each piece of chicken on both sides. When the oil is very hot but not smoking, add the chicken pieces to the skillet and cook until golden brown on each side (about 3-5 minutes on each side). Cook the chicken in batches, if needed, to prevent them from overcrowding the skillet. Transfer the browned chicken on a clean plate.

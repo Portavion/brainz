@@ -9,6 +9,7 @@ description: Take dinner to the next level with this Creamy Dijon Chicken recipe
 tags:
   - recipe
 ---
+# Creamy Dijon Chicken
 ![[creamy-dijon-chicken.png]]
 
 ## **Serving Suggestions**
@@ -31,7 +32,7 @@ You could serve this with mashed potatoes or steamed rice to soak up all that de
 - 2 Tbsp grated parmesan cheese 
 - 2 cups​ spinach 
 
-## Method
+## Instructions
 
 - In a small bowl mix together the seasoning for the chicken: Italian seasoning, garlic powder, onion powder, salt and freshly cracked black pepper.
 - Using a sharp knife, carefully fillet each chicken breast into two thinner cutlets. Season each breast with the seasoning mix on both sides.

@@ -9,6 +9,7 @@ description: "Serve this pan-fried pak choi as a side to stir-fries. The Chinese
 tags:
   - "clippings"
 ---
+# Perfect Pak Choi
 Nutrition: per serving
 - kcal: 83
 - protein2g
@@ -20,7 +21,7 @@ Nutrition: per serving
 - chilli seeded and finely chopped
 - 1tbsp Thai fish sauce (optional)
 - 1tbsp sesame seeds toasted (optional) 
-## Method
+## Instructions
 
 1. Cut a thick slice from the pak choi root to separate the leaves. Rinse and drain.
 2. Heat the groundnut oil in a large wok over a medium heat and add 1 tbsp sesame oil, the garlic, chilli, fish sauce (if using) and pak choi. Toss until coated and clamp a pan lid over them. Reduce the heat and cook for 3-6 minutes, tossing occasionally, just until the leaves have wilted (the stalks should be tender-crisp).

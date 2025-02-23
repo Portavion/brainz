@@ -13,6 +13,7 @@ published: "2022-02-18"
 source: https://www.goodhousekeeping.com/food-recipes/a38869617/pozole-verde-recipe/
 title: Slow Cooker Chicken Pozole Verde
 ---
+# Slow Cooker Chicken Pozole Verde
 ## Ingredients
 
 For 4 servings:
@@ -31,7 +32,7 @@ For 4 servings:
 - diced avocado
 - sliced radished
 
-## Directions
+## Instructions
 
 1. In the slow cooker, combine beer, bouillon base, cumin, 2 cups water, and 1/2
    teaspoon each salt and pepper.
