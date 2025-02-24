@@ -13,7 +13,7 @@ Call Booked: false
 tags:
   - "lead"
 Lead Type: "Warm"
-Last Contact:
+Last Contact: 2025-02-24
 fileClass: "leads"
 Qualified: Qualified
 ---
@@ -21,5 +21,7 @@ Qualified: Qualified
 1,537 followers, 2,979 following, 183 posts – Jim Janco (@peopledrift) on Instagram: ""
 # Notes
 - [x] Send Initial DM (@2025-02-22)
-- [ ] follow up on playlist (@2025-02-25)
+- [x] follow up on playlist (@2025-02-25)
+- [ ] send feedback (@2025-02-26)
 # DM Feed
+Sent a few tracks to give feedback on 

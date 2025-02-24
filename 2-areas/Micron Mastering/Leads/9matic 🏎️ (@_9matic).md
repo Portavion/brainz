@@ -15,7 +15,7 @@ tags:
 Lead Type: Warm
 Last Contact: 2025-02-21
 fileClass: leads
-Qualified: TBC
+Qualified: Not Qualified
 ---
 # Description
 2,075 followers, 560 following, 18 posts – 9matic 🏎️ (@_9matic) on Instagram: "« LUXURE » DISPONIBLE PARTOUT 💖"

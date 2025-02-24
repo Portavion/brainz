@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/Jim Janco (@peopledrift).md",
+                "file": "2-areas/Micron Mastering/CRM.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jim Janco (@peopledrift)"
+              "title": "CRM"
             }
           }
         ]
@@ -238,6 +238,7 @@
   },
   "active": "af9b0aa6bf8e437c",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/Jim Janco (@peopledrift).md",
     "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/BJØRN (@bjornbeat).md",
     "2-areas/Micron Mastering/Leads/Chandan (@ur.deviil).md",
@@ -273,7 +274,6 @@
     "1-projects/Velock/Velock - Kanban.md",
     "1-projects/Velock/Refactor tfl update method.md",
     "1-projects/Velock/Refactor workers - services.md",
-    "1-projects/Velock/Map View.md",
     "4-archives/Burner/Link in bio",
     "4-archives/Burner/Kitchen Inventory App",
     "4-archives/Burner",
