@@ -9,7 +9,7 @@ dv.pages('')
 	.filter(p => !p.file.path.includes('classes'))
 	.filter(p => !p.qualified || p.qualified==="Qualified" || p.qualified==="TBC")
 	//.sort(p => p.Date, 'desc')
-	.sort(p => p.Name, 'desc')
+	.sort(p => p.file.name, 'asc')
 	.map( p => [
 		  p.file.link,
 	      f(dv, p, 'Url'),
