@@ -1,6 +1,6 @@
 ---
-Date: "2025-02-21T12:00:37+00:00"
-Url: "https://www.instagram.com/hoodboyz7.ssb/"
+Date: 2025-02-21T12:00:37+00:00
+Url: https://www.instagram.com/hoodboyz7.ssb/
 Liked: true
 Followed: false
 DMed: false
@@ -11,11 +11,11 @@ Engaged: false
 Lost: false
 Call Booked: false
 tags:
-  - "lead"
-Lead Type: "Warm"
-Last Contact:
-fileClass: "leads"
-Qualified: "TBC"
+  - lead
+Lead Type: Warm
+Last Contact: 2025-02-24
+fileClass: leads
+Qualified: Not Qualified
 ---
 # Description
 509 followers, 435 following, 3 posts – Davin$k¥ ☔️ (@hoodboyz7.ssb) on Instagram: "📍🇫🇷 
@@ -23,5 +23,5 @@ Qualified: "TBC"
 ▪️Music Producer🎙🎹🎸🥁
 ▪️Credits : La Malfrappe, Negrito, Dieson Samba, Moya, D.I.V., Kelyss, Mauvais Mélange etc.."
 # Notes
-- [ ] Send Initial DM (@2025-02-22)
+- [x] Send Initial DM (@2025-02-22)
 # DM Feed

@@ -13,7 +13,7 @@ Call Booked: false
 tags:
   - "lead"
 Lead Type: "Warm"
-Last Contact:
+Last Contact: 2025-02-24
 fileClass: "leads"
 Qualified: "TBC"
 ---
@@ -23,5 +23,5 @@ Qualified: "TBC"
 @isthisthehashclique
 @stanislasofc"
 # Notes
-- [ ] Send Initial DM (@2025-02-22)
+- [x] Send Initial DM (@2025-02-22)
 # DM Feed
