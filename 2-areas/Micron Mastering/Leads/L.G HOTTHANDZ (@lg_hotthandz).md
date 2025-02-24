@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 1,629 followers, 4,909 following, 224 posts – L.G HOTTHANDZ (@lg_hotthandz) on Instagram: "BEATS FOR SALE 🎹💰AND BARS ON DECK✍🏽🎙 😈 UPSTATE NY 🔥🙌🏽🔥"
 # Notes
-- [ ] Send Initial DM (@2025-02-21)
+s
 # DM Feed

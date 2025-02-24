@@ -14,10 +14,10 @@ tags:
 Lead Type: Warm
 Last Contact: 2025-02-15
 fileClass: leads
-Qualified: TBC
+Qualified: Not Qualified
 ---
 # Description
 Inquiry through website form
 # Notes
-- [ ] Follow up (@2025-02-21)
+
 # DM Feed

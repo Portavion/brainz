@@ -15,7 +15,7 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,736 followers, 1,417 following, 28 posts – atn soul 🧛🏼 (@atnsoul) on Instagram: "⭐️ ultra soul 📍 paris
@@ -24,5 +24,5 @@ Qualified: "TBC"
 📩 mgmt: @danatts
 ✨ @collective.midrash"
 # Notes
-- [ ] Send Initial DM (@2025-02-21)
+- [x] Send Initial DM (@2025-02-21)
 # DM Feed
