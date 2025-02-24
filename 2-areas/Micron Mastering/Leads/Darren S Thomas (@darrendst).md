@@ -6,14 +6,14 @@ Followed: true
 DMed: false
 Comment: false
 Form: false
-Initial DM: false
+Initial DM: true
 Engaged: false
 Lost: false
 Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 
+Last Contact: 2025-02-24
 fileClass: leads
 Qualified: TBC
 ---
@@ -22,6 +22,6 @@ Qualified: TBC
 Producer/Composer
 @cloudenvymusic"
 # Notes
-- [ ] Send Initial DM (@2025-02-21)
+- [x] Send Initial DM (@2025-02-21)
 # DM Feed
 more for his chill lofi music

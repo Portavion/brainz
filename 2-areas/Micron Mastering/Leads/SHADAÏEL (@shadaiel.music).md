@@ -15,12 +15,12 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,114 followers, 1,047 following, 25 posts – SHADAÏEL (@shadaiel.music) on Instagram: "Shadaïel sur @spotify
 PARIS
 sur @primevideofr avec popstar Visionnaire: @isibaniparadise"
 # Notes
-- [ ] Send Initial DM (@2025-02-21)
+- [x] Send Initial DM (@2025-02-21)
 # DM Feed
