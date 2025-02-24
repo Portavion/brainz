@@ -8,7 +8,8 @@ dv.pages('')
 	.where(p => p.fileClass == 'leads')
 	.filter(p => !p.file.path.includes('classes'))
 	.filter(p => !p.qualified || p.qualified==="Qualified" || p.qualified==="TBC")
-	.sort(p => p.Date, 'desc')
+	//.sort(p => p.Date, 'desc')
+	.sort(p => p.Name, 'desc')
 	.map( p => [
 		  p.file.link,
 	      f(dv, p, 'Url'),
