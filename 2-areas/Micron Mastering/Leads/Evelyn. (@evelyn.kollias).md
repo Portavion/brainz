@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact: 2025-02-24
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Qualified
 ---
 # Description
 630 Followers, 544 Following, 13 Posts - Evelyn. (@evelyn.kollias) on Instagram: "@cre8m.au"
 # Notes
-- [ ] Follow up (@2025-02-26)
+- [ ] Follow up (@2025-02-27)
 # DM Feed
