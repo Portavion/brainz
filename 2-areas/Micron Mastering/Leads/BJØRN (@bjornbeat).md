@@ -14,11 +14,12 @@ tags:
 Lead Type: Warm
 Last Contact: 2025-02-21
 fileClass: leads
-Qualified: TBC
+Qualified: Not Qualified
 ---
 # Description
 68 followers, 277 following, 4 posts – BJØRN (@bjornbeat) on Instagram: "Bass enthusiast
 "Cell" is OUT NOW!! 🔗👇"
 # Notes
 - [x] Send Initial DM (@2025-02-13)
+- [ ] follow up for master (@2025-03-24)
 # DM Feed
