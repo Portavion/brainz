@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 633 Followers, 991 Following, 27 Posts - CHRIS KAY | Music artist🇨🇩🇨🇵 (@chriskay_wr) on Instagram: "ART MY LIFE."
 # Notes
-- [ ] Send Initial DM (@2025-02-25)
+- [x] Send Initial DM (@2025-02-25)
 # DM Feed

@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 992 Followers, 1,133 Following, 8 Posts - 𝘿𝙚𝙟𝙖 𝙫𝙪 | Music Producer (@dejavutheproducer) on Instagram: "🇹🇳🇨🇦 Montréal"
 # Notes
-- [ ] Send Initial DM (@2025-02-25)
+- [x] Send Initial DM (@2025-02-25)
 # DM Feed
