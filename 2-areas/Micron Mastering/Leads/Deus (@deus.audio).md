@@ -15,7 +15,7 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 735 Followers, 985 Following, 18 Posts - Deus (@deus.audio) on Instagram: "Vocal Producer & Mixer
@@ -23,5 +23,5 @@ Qualified: "TBC"
 @somewhereinthevalley
 behind the scenes, empowering artists❕"
 # Notes
-- [ ] Send Initial DM (@2025-02-25)
+- [x] Send Initial DM (@2025-02-25)
 # DM Feed
