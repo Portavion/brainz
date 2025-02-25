@@ -158,16 +158,18 @@
           {
             "id": "905781d404c68aae",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/Topside CP (@topsidecp).md",
+                "file": "3-resources/guitar/Bernth - 30 day speed builder.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
+              "pinned": true,
               "icon": "lucide-list",
-              "title": "Outline of Topside CP (@topsidecp)"
+              "title": "Outline of Bernth - 30 day speed builder"
             }
           },
           {
@@ -181,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "baa5fd5e0b5bcb3e",
@@ -233,7 +235,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "958a1d34b0f58cb8",
+  "active": "905781d404c68aae",
   "lastOpenFiles": [
     "3-resources/guitar",
     "0-inbox/Oven-baked pork chops.md",
