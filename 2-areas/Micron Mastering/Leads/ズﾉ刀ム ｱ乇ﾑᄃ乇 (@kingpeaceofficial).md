@@ -25,5 +25,6 @@ Singer, Songwriter
 🏢 founder @migentertainment_"
 # Notes
 - [x] Send Initial DM (@2025-02-17 14:58)
-- [ ] Follow up on current projects (@2025-02-25)
+- [x] Follow up on current projects (@2025-02-25)
+- [ ] message followup (@2025-03-04)
 # DM Feed
