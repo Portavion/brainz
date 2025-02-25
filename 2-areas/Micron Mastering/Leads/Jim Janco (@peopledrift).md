@@ -13,7 +13,7 @@ Call Booked: false
 tags:
   - "lead"
 Lead Type: "Warm"
-Last Contact: 2025-02-24
+Last Contact: 2025-02-25
 fileClass: "leads"
 Qualified: Qualified
 ---
