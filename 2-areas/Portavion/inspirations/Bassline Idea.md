@@ -1,13 +1,13 @@
 ---
-title: "Bassline idea"
-source: "https://www.instagram.com/reel/DFA8qxZi1cA/"
+title: Bassline idea
+source: https://www.instagram.com/reel/DFA8qxZi1cA/
 author:
-  - "[[Instagram]]"
+  - "[[nick_redbeard]]"
 published: 2025-02-12
 created: 2025-02-23
-description: "1M likes, 11K comments - make_history_mf on January 19, 2025: \"💪🏽🌎 💫 ☄️ 😂 #lift #flex #universe #fypviralシ #fyp #like #follow #stars #share dm for fitness plans 🙏 💪🏽🔥\"."
+description: '1M likes, 11K comments - make_history_mf on January 19, 2025: "💪🏽🌎 💫 ☄️ 😂 #lift #flex #universe #fypviralシ #fyp #like #follow #stars #share dm for fitness plans 🙏 💪🏽🔥".'
 tags:
-  - "clippings"
+  - clippings
 ---
 # Bassline Idea
 English
