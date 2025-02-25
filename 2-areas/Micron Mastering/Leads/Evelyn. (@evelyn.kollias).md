@@ -19,6 +19,8 @@ Qualified: Qualified
 ---
 # Description
 630 Followers, 544 Following, 13 Posts - Evelyn. (@evelyn.kollias) on Instagram: "@cre8m.au"
+
+Cool! Well those are all genres I work with regularly (blues maybe less so to be completely honest). Do you work with a label, collective or something?
 # Notes
 - [ ] Follow up (@2025-02-27)
 # DM Feed
