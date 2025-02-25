@@ -25,3 +25,6 @@ tour @mc5_agency"
 # Notes
 - [ ] Send Initial DM (@2025-02-25)
 # DM Feed
+Hey hope it's cool that I'm reaching out. Saw you engaged with some of my content and went to checkout your Spotify. Love you last EP, Mauvais Moment is super chill Are you working on anything new at the moment?
+
+Salut ! J'ai vu que tu avais aimé quelques-uns de mes trucs et j'ai jeté un coup d'œil à ton dernier ep. Mauvais Moment" est super chill, j'adore! Tu travailles sur quelque chose de nouveau en ce moment ?
