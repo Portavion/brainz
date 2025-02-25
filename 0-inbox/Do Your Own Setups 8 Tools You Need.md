@@ -9,6 +9,7 @@ description: "Learn how to setup your guitar without breaking the bank! In this 
 tags:
   - "clippings"
 ---
+# Do Your Own Setups 8 Tools You Need
 ![](https://www.youtube.com/watch?v=3UqVXrpvWCM)  
 
 Learn how to setup your guitar without breaking the bank! In this video Tomo, Erick and Gene showcase 8 essential tools every guitarist needs to perform their own setup, saving you money and taking your guitar playing to the next level.  
@@ -35,42 +36,42 @@ Learn how to setup your guitar without breaking the bank! In this video Tomo, Er
 Tools and supplies featured in this video include:  
   
 String Action Gauge  
-https://www.stewmac.com/item/0670  
+<https://www.stewmac.com/item/0670>  
   
 6" Shop Rule  
-https://www.stewmac.com/item/4905  
+<https://www.stewmac.com/item/4905>  
   
 Precision Straightedges  
-https://www.stewmac.com/item/3849  
+<https://www.stewmac.com/item/3849>  
   
 2-in-1 Precision + Notched Straightedge  
-https://www.stewmac.com/item/4013  
+<https://www.stewmac.com/item/4013>  
   
 Truss Rod Wrench Set  
-https://www.stewmac.com/item/6100  
+<https://www.stewmac.com/item/6100>  
   
 Understring Radius Gauges  
-https://www.stewmac.com/item/0353  
+<https://www.stewmac.com/item/0353>  
   
 Gibson Tune-o-Medic Bridge and Tailpiece Tools  
-https://www.stewmac.com/item/4618  
+<https://www.stewmac.com/item/4618>  
   
 Guitar Tech Screwdriver Set  
-https://www.stewmac.com/item/3000  
+<https://www.stewmac.com/item/3000>  
   
 Gauged Nut Files  
-https://www.stewmac.com/item/0821  
+<https://www.stewmac.com/item/0821>  
   
 Peterson SC-HD Stroboclip Tuner  
-https://www.stewmac.com/item/1726  
+<https://www.stewmac.com/item/1726>  
   
 Grover Ultra Capo  
-https://www.stewmac.com/item/4564-R  
+<https://www.stewmac.com/item/4564-R>  
 \- - - - - - - - - - - -  
 StewMac has everything you need to repair, build or maintain your guitars.  
 Everything we sell is backed by our Lifetime Promise, and we offer fast worldwide shipping.  
   
-Shop StewMac: https://www.stewmac.com  
+Shop StewMac: <https://www.stewmac.com>  
   
 Instagram: @StewMac\_Guitar  
-Facebook: https://www.facebook.com/StewMac
+Facebook: <https://www.facebook.com/StewMac>
