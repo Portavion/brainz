@@ -15,12 +15,12 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,270 Followers, 1,103 Following, 60 Posts - Trevor Rhodes (@trevorrhodesmusic) on Instagram: "@trevorrhodesproduction @trevorrhodesonlinelessons 
 Vancouver, BC | Indie-Pop 💿
 Listen to Downhill From Here early ⬇️"
 # Notes
-- [ ] Send Initial DM (@2025-02-25)
+- [x] Send Initial DM (@2025-02-25)
 # DM Feed

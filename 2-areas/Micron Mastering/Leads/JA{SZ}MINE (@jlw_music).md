@@ -15,7 +15,7 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 574 Followers, 1,474 Following, 9 Posts - JA{S/Z}MINE (@jlw_music) on Instagram: "Music Producer 🎹/DJ 🎧
@@ -23,5 +23,5 @@ Co-founder of @infrontofthemic
 👩🏾‍🎓: @abbeyroadinstitute
 @thebritschool alumni"
 # Notes
-- [ ] Send Initial DM (@2025-02-25)
+- [x] Send Initial DM (@2025-02-25)
 # DM Feed
