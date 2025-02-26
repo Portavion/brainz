@@ -34,4 +34,4 @@ V-MIC rap group member"
 
 **Mistah-Vee:** merci d’avoir écouté. Objectif atteint car cela fait 5 ans que je n’ai pas sorti de nouveaux morceaux. La stratégie de featurings a fait mouche (même si pouvait faire mieux). Pour info il s’agit d’artiste avec presque 900 k abonnes sur youtube (cumulés) (Yesterday at 10:38 PM)
 
-**Me:** Super ! Donc, la stratégie c'est d'avoir des featurings avec des artistes établis pour essayer de toucher un nouveau public ? Content de voir que ça fonctionne. Tu vises quel genre de son pour les nouveaux morceaux ? Si tu cherches un regard neuf sur le mix ou le master, n'hesite pas.  J'y jeterais une oreille avec plaisir
+**Me:** Super ! Donc, la stratégie c'est d'avoir des featurings avec des artistes établis pour essayer de toucher un nouveau public ? Content de voir que ça fonctionne. Tu vises quel genre de son pour les nouveaux morceaux ? Si tu cherches un regard neuf sur le mix ou le master, n'hesite pas. J'y jeterais une oreille avec plaisir
