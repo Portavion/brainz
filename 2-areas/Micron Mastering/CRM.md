@@ -50,14 +50,21 @@ dv.table(
     ])
 );
 ```
-# All Leads - oldest contact first
+# All Contacted Leads - Newest first
+```dataviewjs
 const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
 
 dv.table(
   ["Name", "Url", "Type", "Initial DM", "Engaged", "Qualified", "Lost", "Call Booked", "Last Contact"],
   dv.pages("")
-    .where((p) => p.fileClass == "leads" && !p.file.path.includes("classes"))
-    .sort(p => p["Last Contact"], 'asc') // Sorts by 'Last Contact' in ascending order (oldest first)
+    .where(
+      (p) =>
+        p.fileClass == "leads" &&
+        !p.file.path.includes("classes") &&
+        p["Initial DM"] &&
+        p["Last Contact"]
+    )
+    .sort((p) => p["Last Contact"], "desc")
     .map((p) => [
       p.file.link,
       f(dv, p, "Url"),
@@ -70,8 +77,58 @@ dv.table(
       f(dv, p, "Last Contact"),
     ])
 );
+```
+# All Contacted Leads - Oldest contacted first
+```dataviewjs
+const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
+
+dv.table(
+  ["Name", "Url", "Type", "Initial DM", "Engaged", "Qualified", "Lost", "Call Booked", "Last Contact"],
+  dv.pages("")
+    .where(
+      (p) =>
+        p.fileClass == "leads" &&
+        !p.file.path.includes("classes") &&
+        p["Initial DM"] &&
+        p["Last Contact"]
+    )
+    .sort((p) => p["Last Contact"], "asc")
+    .map((p) => [
+      p.file.link,
+      f(dv, p, "Url"),
+      f(dv, p, "Lead Type"),
+      f(dv, p, "Initial DM"),
+      f(dv, p, "Engaged"),
+      f(dv, p, "Qualified"),
+      f(dv, p, "Lost"),
+      f(dv, p, "Call Booked"),
+      f(dv, p, "Last Contact"),
+    ])
+);
+```
 # Test
-# Test
+```dataviewjs
+const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
+
+dv.table(
+  ["Name", "Url", "Type", "Lost Date", "Last Contact"],
+  dv.pages("")
+    .where(
+      (p) =>
+        p.fileClass == "leads" &&
+        !p.file.path.includes("classes") &&
+        p["Lost"] // Assuming you have a 'Lost' field to mark lost leads
+    )
+    .sort((p) => p["Lost Date"], "desc") // Sort by 'Lost Date' in descending order (newest first)
+    .map((p) => [
+      p.file.link,
+      f(dv, p, "Url"),
+      f(dv, p, "Lead Type"),
+      f(dv, p, "Lost Date"),
+      f(dv, p, "Last Contact"),
+    ])
+);
+```
 # Test
 # Test
 
