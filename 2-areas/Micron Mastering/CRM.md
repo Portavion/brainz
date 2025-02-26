@@ -8,6 +8,7 @@ dv.pages('')
 	.where(p => p.fileClass == 'leads')
 	.filter(p => !p.file.path.includes('classes'))
 	.filter(p => !p.qualified || p.qualified==="TBC")
+	.filter(p => !p["Initial DM"] )
 	//.sort(p => p.Date, 'desc')
 	.sort(p => p.file.name, 'asc')
 	.map( p => [
@@ -50,7 +51,7 @@ dv.table(
     ])
 );
 ```
-# All Contacted Leads - Newest first
+# All Contacted Leads - Newest First
 ```dataviewjs
 const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
 
@@ -78,7 +79,7 @@ dv.table(
     ])
 );
 ```
-# All Contacted Leads - Oldest contacted first
+# All Contacted Leads - Oldest Contacted First
 ```dataviewjs
 const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
 
@@ -176,7 +177,7 @@ dv.table(
 );
 ```
 
-# All Leads - Excl unqualified
+# All Leads - Excl Unqualified
 ```dataviewjs
 const {fieldModifier: f}=
 this.app.plugins.plugins["metadata-menu"].api;
@@ -201,7 +202,7 @@ dv.pages('')
 	])
 )
 ```
-# Leads to qualify
+# Leads to Qualify
 ```dataviewjs
 const {fieldModifier: f}=
 this.app.plugins.plugins["metadata-menu"].api;
