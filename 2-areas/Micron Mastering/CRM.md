@@ -106,7 +106,7 @@ dv.table(
     ])
 );
 ```
-# Test
+# All Lost Leads (Sorted by Date - Newest First)
 ```dataviewjs
 const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
 
@@ -129,8 +129,52 @@ dv.table(
     ])
 );
 ```
-# Test
-# Test
+# Engaged Leads (Sorted by Last Contact - Oldest First)
+```dataviewjs
+const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
+
+dv.table(
+  ["Name", "Url", "Type", "Last Contact", "Engaged"],
+  dv.pages("")
+    .where(
+      (p) =>
+        p.fileClass == "leads" &&
+        !p.file.path.includes("classes") &&
+        p["Engaged"] // Assuming you have an 'Engaged' field to mark engaged leads
+    )
+    .sort((p) => p["Last Contact"], "desc") // Sort by 'Last Contact' in descending order (newest first)
+    .map((p) => [
+      p.file.link,
+      f(dv, p, "Url"),
+      f(dv, p, "Lead Type"),
+      f(dv, p, "Last Contact"),
+      f(dv, p, "Engaged"),
+    ])
+);
+```
+# Qualified Leads Follow-Ups Needed (Sorted by Last Contact - Oldest First)
+```dataviewjs
+const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
+
+dv.table(
+  ["Name", "Url", "Type", "Last Contact", "Qualified"],
+  dv.pages("")
+    .where(
+      (p) =>
+        p.fileClass == "leads" &&
+        !p.file.path.includes("classes") &&
+        p["Qualified"] === "Qualified"
+    )
+    .sort((p) => p["Last Contact"], "asc")
+    .map((p) => [
+      p.file.link,
+      f(dv, p, "Url"),
+      f(dv, p, "Lead Type"),
+      f(dv, p, "Last Contact"),
+      f(dv, p, "Qualified"),
+    ])
+);
+```
 
 # All Leads
 ```dataviewjs
