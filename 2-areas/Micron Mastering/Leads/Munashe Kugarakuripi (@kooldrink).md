@@ -15,12 +15,12 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 9,196 Followers, 1,602 Following, 59 Posts - Munashe Kugarakuripi (@kooldrink) on Instagram: "I make songs. 
 claire@koolerbox.com
 STREAM "SHOW ME" BELOW!"
 # Notes
-- [ ] Send Initial DM (@2025-02-26)
+- [x] Send Initial DM (@2025-02-26)
 # DM Feed
