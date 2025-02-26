@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c2baad5c9298f50d",
+        "id": "fd649a5d9d75a7b9",
         "type": "tabs",
         "children": [
           {
-            "id": "6f4b89e25d0100d6",
+            "id": "4af270dc39e0bdf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/nick_redbeard.md",
-                "mode": "preview",
+                "file": "2-areas/Micron Mastering/CRM.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nick_redbeard"
+              "title": "CRM"
             }
           }
         ]
@@ -236,9 +236,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6f4b89e25d0100d6",
+  "active": "4af270dc39e0bdf0",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/nick_redbeard.md",
     "2-areas/Micron Mastering/CRM.md",
+    "0-inbox/Mastering rate template.md",
     "2-areas/Micron Mastering/Leads/Darren S Thomas (@darrendst).md",
     "2-areas/Micron Mastering/Leads/Michael Elia (@_mikeelia).md",
     "2-areas/Micron Mastering/Leads/marmaduke (@marmaduke__music).md",
@@ -248,7 +250,6 @@
     "2-areas/Micron Mastering/Leads/𝘿𝙚𝙟𝙖 𝙫𝙪  Music Producer (@dejavutheproducer).md",
     "2-areas/Micron Mastering/Leads/CHRIS KAY  Music artist🇨🇩🇨🇵 (@chriskay_wr).md",
     "2-areas/Micron Mastering/Leads/Tony Views (@imtonyviews).md",
-    "2-areas/Micron Mastering/Leads/nick_redbeard.md",
     "2-areas/Micron Mastering/Leads/Basilio Perez (@basilioperezmusic).md",
     "2-areas/Micron Mastering/Leads/Deus (@deus.audio).md",
     "2-areas/Micron Mastering/Leads/MixedByWayne (@mixedbywayne).md",
@@ -263,7 +264,6 @@
     "2-areas/Micron Mastering/Leads/Jim Janco (@peopledrift).md",
     "2-areas/Micron Mastering/Leads/Munashe Kugarakuripi (@kooldrink).md",
     "2-areas/Micron Mastering/Leads/Corey Reahard (@coreyreahard).md",
-    "2-areas/Micron Mastering/Leads/Que Ma Joie Demeure! (@jamesalynes).md",
     "3-resources/guitar",
     "4-archives/weekly-notes/CleanShot 2025-02-24 at 08.47.56@2x 1.png",
     "4-archives/weekly-notes/CleanShot 2025-02-24 at 08.47.56@2x.png",
