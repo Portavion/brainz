@@ -22,6 +22,6 @@ Qualified: Qualified
 # Notes
 - [x] Send Initial DM (@2025-02-22)
 - [x] follow up on playlist (@2025-02-25)
-- [ ] send feedback (@2025-02-26)
+- [ ] send feedback (@2025-02-27)
 # DM Feed
 Sent a few tracks to give feedback on 
