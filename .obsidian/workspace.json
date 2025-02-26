@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd649a5d9d75a7b9",
+        "id": "1f77dc56fd5e8ee3",
         "type": "tabs",
         "children": [
           {
-            "id": "4af270dc39e0bdf0",
+            "id": "844dda05f7d07421",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-areas/Micron Mastering/Leads/(@romain.hcab).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(@romain.hcab)"
+              "title": "New tab"
             }
           }
         ]
@@ -236,10 +232,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4af270dc39e0bdf0",
+  "active": "844dda05f7d07421",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/MixedByWayne (@mixedbywayne).md",
     "2-areas/Micron Mastering/Leads/(@romain.hcab).md",
+    "2-areas/Micron Mastering/Leads/MixedByWayne (@mixedbywayne).md",
     "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/Mistah-Vee (@mistahvee1).md",
     "2-areas/Micron Mastering/Leads/nick_redbeard.md",
