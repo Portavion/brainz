@@ -1,5 +1,5 @@
 # App Ideas
-## CRM with SQL db that can clip IG etc.. (and keep tracks of feed)
+## CRM with SQL Db that Can Clip IG Etc.. (and Keep Tracks of feed)
 ## Other
 - Task: 
     
