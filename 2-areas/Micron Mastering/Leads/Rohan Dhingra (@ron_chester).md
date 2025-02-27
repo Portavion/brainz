@@ -13,9 +13,9 @@ Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-02-26
+Last Contact: 2025-02-27
 fileClass: leads
-Qualified: TBC
+Qualified: Qualified
 ---
 # Description
 9,999 Followers, 3,446 Following, 659 Posts - Rohan Dhingra (@ron_chester) on Instagram: "Singer/songwriter • Sound engineer • Record Producer. 
@@ -30,4 +30,4 @@ My music ⤵️"
 **You**: Nice man, doing a good job it sounds great! Shit, hope you get your flow back quickly. I guess it was a long distance move? If you need some second opinion for your mixes happy to help with some mastering
 **Rohan Dhingra**: Definitely would love to work
 **Rohan Dhingra**: Can you share some samples of your mastering
-**You**: Of course I did the whole the internet ruined us album for Tyler Loyal which came out with AWAL. https://open.spotify.com/album/0CWAWD9ygPlnhXnRTXjeTG?si=J3AvRQzqRmie-_mzKzpcaw open.spotify.com
+**You**: Of course I did the whole the internet ruined us album for Tyler Loyal which came out with AWAL. <https://open.spotify.com/album/0CWAWD9ygPlnhXnRTXjeTG?si=J3AvRQzqRmie-_mzKzpcaw> open.spotify.com
