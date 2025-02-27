@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "CRM"
             }
+          },
+          {
+            "id": "e34334d77827c66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-archives/Burner/App ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "App ideas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +92,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c4855d541c1897d9",
@@ -237,10 +253,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4c0e1a344e9897c0",
+  "active": "e34334d77827c66a",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/(@romain.hcab).md",
     "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/(@romain.hcab).md",
     "2-areas/Micron Mastering/Leads/Tifáṣẹ (T•fah•shay) 🇳🇬🇺🇸🇯🇲 (@itsfase).md",
     "2-areas/Micron Mastering/Leads/SBOY  THEHASHCLIQUE (@sboythc).md",
     "2-areas/Micron Mastering/Leads/scholarmusic_eos.md",

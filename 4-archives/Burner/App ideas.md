@@ -1,4 +1,6 @@
 # App Ideas
+## CRM with SQL db that can clip IG etc.. (and keep tracks of feed)
+## Other
 - Task: 
     
     Morning routine app based of menu
