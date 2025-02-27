@@ -6,8 +6,8 @@ Followed: true
 DMed: false
 Comment: false
 Form: false
-Initial DM: false
-Engaged: true
+Initial DM: true
+Engaged: false
 Lost: false
 Call Booked: false
 tags:
