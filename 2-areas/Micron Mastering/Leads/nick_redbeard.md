@@ -13,7 +13,7 @@ Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-02-26
+Last Contact: 2025-02-27
 fileClass: leads
 Qualified: Qualified
 ---
@@ -21,7 +21,7 @@ Qualified: Qualified
 
 # Notes
 - [x] Send Initial DM (@2025-02-25)
-- [ ] chase on current song (@2025-03-05)
+- [x] chase on current song (@2025-03-05)
 # DM Feed
 Thanks a lot man, appreciate it. Off course, feel free to send stuff my way, always happy to take a listen and give some feedback. Did you get it mixed already? My email is guillaume@micronmastering.com  
   
