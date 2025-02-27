@@ -24,6 +24,7 @@ mngmt @6.52rec
 tour @mc5_agency"
 # Notes
 - [x] Send Initial DM (@2025-02-25)
+- [ ] reply when singles goes out (@2025-03-01)
 # DM Feed
 Hey hope it's cool that I'm reaching out. Saw you engaged with some of my content and went to checkout your Spotify. Love you last EP, Mauvais Moment is super chill Are you working on anything new at the moment?
 
