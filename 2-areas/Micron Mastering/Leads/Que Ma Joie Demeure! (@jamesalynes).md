@@ -23,4 +23,10 @@ Mgmt : adarecords.inc@gmail.com"
 # Notes
 - [x] Send Initial DM (@2025-02-26)
 # DM Feed
-Hey, merci pour le follow. Je viens d'écouter DAFTER, vraiment cool cette ambiance toute douce. Tu as participé à la production ?
+**You**: Hey, merci pour le follow. Je viens d'écouter DAFTER, vraiment cool cette ambiance toute douce. Tu as aussi bossé sur la prod ?
+
+**Que Ma Joie Demeure!**: Salut! Merci
+
+**Que Ma Joie Demeure!**: Pour la prod juste quelques réarrangements et rajouts (sur le remix surtout) mais sinon c’est un producteur dessus
+
+Le résultat est vraiment top, donc vous avez fait du bon taf sur le mix! Si tu as d'autres morceaux en préparation, je serais curieux d'écouter et de voir ce qu'un mastering pro pourrait apporter.
