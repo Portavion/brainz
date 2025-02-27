@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "CRM"
             }
+          },
+          {
+            "id": "5e4d8c089d06484b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-areas/Micron Mastering/Leads/Alexander “ Luther “ (@legendarylexie).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alexander “ Luther “ (@legendarylexie)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,11 +253,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4c0e1a344e9897c0",
+  "active": "5e4d8c089d06484b",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/CRM.md",
+    "2-areas/Micron Mastering/Leads/Alexander “ Luther “ (@legendarylexie).md",
     "2-areas/Micron Mastering/Leads/ABBI🛸 (@abbiyouknow).md",
     "2-areas/Micron Mastering/Leads/Evelyn. (@evelyn.kollias).md",
-    "2-areas/Micron Mastering/CRM.md",
     "2-areas/Micron Mastering/Leads/MixedByWayne (@mixedbywayne).md",
     "2-areas/Micron Mastering/Leads/Michael Elia (@_mikeelia).md",
     "2-areas/Micron Mastering/Leads/Que Ma Joie Demeure! (@jamesalynes).md",
@@ -265,7 +281,6 @@
     "2-areas/Micron Mastering/Leads/Corey Reahard (@coreyreahard).md",
     "2-areas/Micron Mastering/Leads/Jim Janco (@peopledrift).md",
     "0-inbox/Roadmap to 1M streams.md",
-    "2-areas/Micron Mastering/Leads/Mistah-Vee (@mistahvee1).md",
     "3-resources/guitar",
     "4-archives/weekly-notes/CleanShot 2025-02-24 at 08.47.56@2x 1.png",
     "4-archives/weekly-notes/CleanShot 2025-02-24 at 08.47.56@2x.png",
