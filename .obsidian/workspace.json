@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/LINÉ (@linesfrequency).md",
+                "file": "3-resources/finance/MASCF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LINÉ (@linesfrequency)"
+              "title": "MASCF"
             }
           }
         ],
@@ -92,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c4855d541c1897d9",
@@ -255,8 +254,11 @@
   },
   "active": "5e4d8c089d06484b",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/Aaron Rougier (@planetadr).md",
+    "2-areas/Micron Mastering/Leads/clement. (@cduff.jpg).md",
+    "3-resources/finance/MASCF.md",
+    "3-resources/finance",
     "2-areas/Micron Mastering/Leads/LINÉ (@linesfrequency).md",
+    "2-areas/Micron Mastering/Leads/Aaron Rougier (@planetadr).md",
     "2-areas/Micron Mastering/Leads/FiVE1$EVN💽 (@prodby.517).md",
     "2-areas/Micron Mastering/Leads/Max La Menace 💥 (@max_dvo).md",
     "2-areas/Micron Mastering/Leads/*KENNY (@actuallykenny).md",
@@ -279,8 +281,6 @@
     "2-areas/Micron Mastering/Leads/nick_redbeard.md",
     "2-areas/Micron Mastering/Leads/(@romain.hcab) 1.md",
     "2-areas/Micron Mastering/Leads/9FromThe9🏚🇰🇪 (@1_fromthe9).md",
-    "2-areas/Micron Mastering/Leads/Alexandra Datman (@alexandradatman).md",
-    "2-areas/Micron Mastering/Leads/YaaD GiLL......📷🎥🎹🎤 (@yaadsinghmusic).md",
     "3-resources/guitar",
     "4-archives/weekly-notes/CleanShot 2025-02-24 at 08.47.56@2x 1.png",
     "4-archives/weekly-notes/CleanShot 2025-02-24 at 08.47.56@2x.png",
@@ -299,7 +299,6 @@
     "4-archives/2025/250211 Reels R&B february",
     "1-projects/Chalkr/features",
     "1-projects/Velock",
-    "1-projects/Chalkr",
-    "4-archives/classes"
+    "1-projects/Chalkr"
   ]
 }
