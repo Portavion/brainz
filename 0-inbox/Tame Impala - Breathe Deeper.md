@@ -9,6 +9,7 @@ description: "Music video by Tame Impala performing Breathe Deeper (Audio).© 20
 tags:
   - "clippings"
 ---
+# Tame Impala - Breathe Deeper
 Acid bassline with the vocals at the end is really cool
 
 ![](https://www.youtube.com/watch?v=gs-MtItyOFc)  
