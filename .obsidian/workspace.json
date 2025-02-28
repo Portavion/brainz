@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "CRM"
             }
-          },
-          {
-            "id": "70951d5f1c0fe725",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.bbcgoodfood.com/recipes/oven-baked-pork-chops",
-                "title": "Oven baked pork chops recipe | Good Food",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Oven baked pork chops recipe | Good Food"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,7 +237,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "70951d5f1c0fe725",
+  "active": "4c0e1a344e9897c0",
   "lastOpenFiles": [
     "0-inbox/Oven-baked pork chops.md",
     "4-archives/weekly-notes/2025-W09.md",
