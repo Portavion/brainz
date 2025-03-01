@@ -1,4 +1,5 @@
 # App Ideas
+## Ableton live set generator for mastering / mixing (with right tracks and files loaded)
 ## CRM with SQL Db that Can Clip IG Etc.. (and Keep Tracks of feed)
 ## Other
 - Task: 
