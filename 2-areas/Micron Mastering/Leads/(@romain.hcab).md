@@ -7,13 +7,13 @@ DMed: true
 Comment: false
 Form: false
 Initial DM: true
-Engaged: false
+Engaged: true
 Lost: false
 Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-02-27
+Last Contact: 2025-03-01
 fileClass: leads
 Qualified: TBC
 ---
@@ -21,4 +21,5 @@ Qualified: TBC
 147 Followers, 160 Following, 10 Posts - @romain.hcab on Instagram: "🇫🇷🇧🇪"
 # Notes
 - [x] Reply DM (@2025-02-27)
+- [ ] follow up (@2025-03-05)
 # DM Feed
