@@ -15,12 +15,12 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,033 Followers, 512 Following, 28 Posts - *KENNY (@actuallykenny) on Instagram: "grammy dominatin’ (im calling it)
 💿 @hang.wav 
 MI📍"
 # Notes
-- [ ] Send Initial DM (@2025-03-01)
+- [x] Send Initial DM (@2025-03-01)
 # DM Feed

@@ -15,7 +15,7 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,769 Followers, 1,719 Following, 33 Posts - Max La Menace 💥 (@max_dvo) on Instagram: "📍Paris \ Grenoble
@@ -23,5 +23,5 @@ Qualified: "TBC"
 📀 Gold producer
 🎛️ Diamond Engineer"
 # Notes
-- [ ] Send Initial DM (@2025-03-01)
+- [x] Send Initial DM (@2025-03-01)
 # DM Feed
