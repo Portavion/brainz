@@ -9,19 +9,20 @@ Form: false
 Initial DM: true
 Engaged: true
 Lost: false
-Call Booked: false
+Call Booked: true
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-02-26
+Last Contact: 2025-03-03
 fileClass: leads
-Qualified: TBC
+Qualified: Qualified
 ---
 # Description
 1,897 followers, 2,389 following, 9 posts – Mistah-Vee (@mistahvee1) on Instagram: "Hada Howa lGame feat. Nessyou sur Youtube 👇👇👇
 V-MIC rap group member"
 # Notes
 - [x] Send Initial DM (@2025-02-22)
+- [ ] follow up for mastering (@2025-03-05)
 # DM Feed
 
 **Me** Hey, thx for the follow. Just checked out Hada howa lGame and it's dope! Cool music video too. Are you working on any new tracks? (Yesterday at 1:17 AM)
