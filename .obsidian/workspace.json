@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "2-areas/Micron Mastering/CRM.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -35,7 +35,7 @@
       {
         "id": "9619bb20e5c0850e",
         "type": "tabs",
-        "dimension": 45.3020134228188,
+        "dimension": 56.291946308724825,
         "children": [
           {
             "id": "958a1d34b0f58cb8",
@@ -82,7 +82,7 @@
       {
         "id": "c4855d541c1897d9",
         "type": "tabs",
-        "dimension": 54.6979865771812,
+        "dimension": 43.70805369127517,
         "children": [
           {
             "id": "8064039a1bada13b",
@@ -237,7 +237,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4c0e1a344e9897c0",
+  "active": "958a1d34b0f58cb8",
   "lastOpenFiles": [
     "4-archives/weekly-notes/2025-W09.md",
     "4-archives/weekly-notes/2025-W08.md",
@@ -249,7 +249,7 @@
     "0-inbox/NYT Gochujang Caramel Cookies Recipe - Beyond Kimchee.md",
     "3-resources/guitar/Bernth - 30 day speed builder.md",
     "2-areas/Micron Mastering/Leads/Kbeatz.official (@kbeatz.official_).md",
-    "0-inbox/Mastering rate template.md",
+    "3-resources/templates/Mastering rate template.md",
     "2-areas/Micron Mastering/Leads/mamanamedmeJames (@lot.of.lance).md",
     "2-areas/Micron Mastering/Leads/23DREAMZ (@23dreamz).md",
     "2-areas/Micron Mastering/Leads/Kenyatta (@pen.yatta).md",
@@ -266,8 +266,8 @@
     "2-areas/Micron Mastering/Leads/Ricch Beatz (@ricchbeatz).md",
     "2-areas/Micron Mastering/Leads/Y$VG. 💔 (@prodyvng).md",
     "2-areas/Micron Mastering/Leads/x.md",
-    "0-inbox/Oven-baked pork chops.md",
-    "0-inbox/Tame Impala - Breathe Deeper.md",
+    "3-resources/cooking/Oven-baked pork chops.md",
+    "2-areas/Portavion/inspirations/Tame Impala - Breathe Deeper.md",
     "2-areas/Portavion/inspirations/Danus Kart - Dreamed Place CIRCLENS002.md",
     "3-resources/finance",
     "3-resources/guitar",

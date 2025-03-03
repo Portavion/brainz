@@ -249,34 +249,16 @@ dv.pages('')
 	])
 )
 ```
-# All leads (date range
+# All leads (date range)
 ```dataviewjs
 const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
 
-// Manually set the start and end dates of last week
-const startDate = new Date('2025-02-24'); // Replace with the actual start date
-const endDate = new Date('2025-03-02');   // Replace with the actual end date
-
 dv.table(
-  ['Name', 'Url', 'Type', 'Initial DM', 'Engaged', 'Qualified', 'Lost', 'Last Contact', 'Date Added'],
+  ['Name', 'Url', 'Type', 'Initial DM', 'Engaged', 'Qualified', 'Lost', 'Call Booked', 'Last Contact', 'Created'],
   dv.pages('')
     .where(p => p.fileClass == 'leads')
     .filter(p => !p.file.path.includes('classes'))
-    .filter(p => {
-      const lastContactValue = f(dv, p, 'Last Contact');
-      if (!lastContactValue) {
-        return false; // Skip if 'Last Contact' is empty
-      }
-
-      const lastContact = dv.luxon.DateTime.fromISO(lastContactValue);
-
-      if (!lastContact.isValid) {
-        return false; // Skip if 'Last Contact' is not a valid date
-      }
-
-      return lastContact >= startDate && lastContact <= endDate;
-    })
-    .sort(p => p.file.name, 'asc')
+    .sort(p => p.file.ctime, 'desc') // Sort by creation time, descending
     .map(p => [
       p.file.link,
       f(dv, p, 'Url'),
@@ -285,8 +267,9 @@ dv.table(
       f(dv, p, 'Engaged'),
       f(dv, p, 'Qualified'),
       f(dv, p, 'Lost'),
+      f(dv, p, 'Call Booked'),
       f(dv, p, 'Last Contact'),
-      f(dv, p, 'Date')
+      p.file.ctime // Add the creation time to the table
     ])
 );
 ```
