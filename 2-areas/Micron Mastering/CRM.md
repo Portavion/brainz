@@ -249,7 +249,7 @@ dv.pages('')
 	])
 )
 ```
-# All leads (date range)
+# All Leads (date range)
 ```dataviewjs
 const { fieldModifier: f } = this.app.plugins.plugins["metadata-menu"].api;
 
