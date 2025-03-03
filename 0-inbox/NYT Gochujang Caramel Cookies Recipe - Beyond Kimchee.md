@@ -9,6 +9,7 @@ description: "Enjoy gochujang caramel cookies with a spicy twist on classic suga
 tags:
   - "clippings"
 ---
+# NYT Gochujang Caramel Cookies Recipe - Beyond Kimchee
 **Gochujang caramel cookies**, inspired by a New York Times recipe, bring a spicy twist to classic sugar cookies. Blending sweet and spicy with rich gochujang caramel, they offer a unique, crispy-yet-chewy cookie experience.
 
 ![Gochujang caramel cookies on a parchment paper.](https://www.beyondkimchee.com/wp-content/uploads/2023/12/gochujang-caramel-cookies-10.jpg)
@@ -19,7 +20,7 @@ However, it made me think: if bacon can be a donut topping or transformed into j
 
 ![easy japchae recipe](https://www.beyondkimchee.com/wp-content/uploads/2022/10/0-728x1028.jpg)
 
-### Get *new recipes* via email:
+### Get *new recipes* via Email:
 
 ![A stack of gocjunag cookies showing the crispy and chewy texture.](https://www.beyondkimchee.com/wp-content/uploads/2023/12/gochujang-caramel-cookies-12.jpg)
 
@@ -47,7 +48,7 @@ For those who are curious about making their own gochujang at home, I’ve inclu
 
 Try my Korean Fire Chicken recipe, known as [Cheese Buldak](https://www.beyondkimchee.com/cheese-buldak-korean-fire-chicken/), if you’re interested in exploring the use of gochujang. It’s a popular Korean fusion dish that you’ll love if you can handle some heat.
 
-## Ingredients You’ll need
+## Ingredients You’ll Need
 
 ![Ingredients for making gochujang caramel cookie recipe.](https://www.beyondkimchee.com/wp-content/uploads/2023/12/gochujang-caramel-cookies-ingredients.jpg)
 
@@ -147,7 +148,7 @@ Adapted from [New York Times Cooking](https://cooking.nytimes.com/recipes/102367
 - While the dough chills, preheat your oven to 350 degrees Fahrenheit​【177°C】. Line two baking sheets with parchment paper or silicone mats.
 - Remove the dough from the fridge. Add dollops of the gochujang caramel paste to the cookie dough. Use a stiff spatula to gently swirl the caramel into a marbling pattern in the dough, ensuring you maintain a visible color contrast.
 
-#### **Baking the Cookies:**
+#### **Baking The Cookies:**
 
 - Use a large cookie scoop (about 3 tablespoons) to form 12 cookies, placing 6 on each baking sheet with enough space between them. If using a smaller scoop, you can make 24 cookies.
 - Bake the cookies for 11-13 minutes, until they show cracks on the top and are golden around the edges. Rotate the pans halfway through for even baking.
