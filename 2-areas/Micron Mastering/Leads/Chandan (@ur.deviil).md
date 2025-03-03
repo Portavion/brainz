@@ -22,7 +22,7 @@ Qualified: "TBC"
 Owner- Devil Production House 🎥
 Main Account - @yo_deviil"
 # Notes
-- [ ] Follow up (@2025-02-28)
+- [x] Follow up (@2025-02-28)
 # DM Feed
 **Chandan**: Hye bro
 **You**: Hey man, how are you?
