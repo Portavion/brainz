@@ -15,11 +15,11 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,922 Followers, 848 Following, 75 Posts - Alexandra Datman (@alexandradatman) on Instagram: "singer - songwriter
 📍Paris"
 # Notes
-- [ ] Send Initial DM (@2025-02-28)
+- [x] Send Initial DM (@2025-02-28)
 # DM Feed
