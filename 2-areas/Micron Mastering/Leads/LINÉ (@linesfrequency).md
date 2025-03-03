@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 376 Followers, 317 Following, 11 Posts - LINÉ (@linesfrequency) on Instagram: "(Lee Nehh)"
 # Notes
-- [ ] Send Initial DM (@2025-03-01)
+- [x] Send Initial DM (@2025-03-01)
 # DM Feed

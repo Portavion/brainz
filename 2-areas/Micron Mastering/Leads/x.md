@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,184 Followers, 3,093 Following, 37 Posts - Anziz Le Vréé Gab'ZZéé (@anziz_le_vrai_gabzee) on Instagram: "🌴Member of Surfaa #TheDon⚠️ Snap: gabsss976 🇰🇲🇾🇹🇫🇷#RealGoodaGabs 🔊 FolloW´´"
 # Notes
-- [ ] Send Initial DM (@2025-03-01)
+- [x] Send Initial DM (@2025-03-01)
 # DM Feed

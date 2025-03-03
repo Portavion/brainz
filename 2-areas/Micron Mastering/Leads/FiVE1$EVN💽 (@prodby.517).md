@@ -15,7 +15,7 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 4,819 Followers, 4,003 Following, 10 Posts - FiVE1$EVN💽 (@prodby.517) on Instagram: "Producer|Reseller
@@ -24,5 +24,5 @@ How would you lose,
 If you follow god.
 @richoffcreativity"
 # Notes
-- [ ] Send Initial DM (@2025-03-01)
+- [x] Send Initial DM (@2025-03-01)
 # DM Feed

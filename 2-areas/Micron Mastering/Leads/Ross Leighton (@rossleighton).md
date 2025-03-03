@@ -15,12 +15,12 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 5,514 Followers, 1,370 Following, 304 Posts - Ross Leighton (@rossleighton) on Instagram: "Since 1992.
 @fatherson 
 Freelance Songwriter."
 # Notes
-- [ ] Send Initial DM (@2025-03-03)
+- [x] Send Initial DM (@2025-03-03)
 # DM Feed

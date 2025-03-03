@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,394 Followers, 5,428 Following, 21 Posts - Analiesse Del Aguila (@_anita_dynamita_) on Instagram: "https://soundcloud.com/anita_dynamita"
 # Notes
-- [ ] Send Initial DM (@2025-03-02)
+- [x] Send Initial DM (@2025-03-02)
 # DM Feed

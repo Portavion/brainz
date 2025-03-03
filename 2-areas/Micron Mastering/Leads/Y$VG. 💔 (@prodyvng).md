@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,012 Followers, 1,659 Following, 8 Posts - Y$VG. 💔 (@prodyvng) on Instagram: "•@roadmedzsound"
 # Notes
-- [ ] Send Initial DM (@2025-03-02)
+- [x] Send Initial DM (@2025-03-02)
 # DM Feed

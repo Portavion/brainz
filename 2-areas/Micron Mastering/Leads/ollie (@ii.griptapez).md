@@ -15,10 +15,10 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 1,019 Followers, 2,914 Following, 3 Posts - ollie (@ii.griptapez) on Instagram: ""
 # Notes
-- [ ] Send Initial DM (@2025-03-02)
+- [x] Send Initial DM (@2025-03-02)
 # DM Feed

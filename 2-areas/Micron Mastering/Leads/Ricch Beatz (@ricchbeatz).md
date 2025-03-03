@@ -15,12 +15,12 @@ tags:
 Lead Type: "Warm"
 Last Contact:
 fileClass: "leads"
-Qualified: "TBC"
+Qualified: Not Qualified
 ---
 # Description
 510 Followers, 468 Following, 42 Posts - Ricch Beatz (@ricchbeatz) on Instagram: "•Beatmaker🎹
 -Pvris 🇫🇷
 -Credits @530_st @nkz_sg @kabbsky92 @_.khemal"
 # Notes
-- [ ] Send Initial DM (@2025-03-02)
+- [x] Send Initial DM (@2025-03-02)
 # DM Feed
