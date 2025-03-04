@@ -24,17 +24,19 @@
             }
           },
           {
-            "id": "fbd23ef89e5a54f4",
+            "id": "a6ba36de7865741b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/23DREAMZ (@23dreamz).md",
-                "mode": "preview",
+                "file": "3-resources/keyboard/Miryoku layout.md",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "23DREAMZ (@23dreamz)"
+              "title": "Miryoku layout"
             }
           }
         ],
@@ -113,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "8d17c88403c2623c",
@@ -238,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,8 +256,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fbd23ef89e5a54f4",
+  "active": "a6ba36de7865741b",
   "lastOpenFiles": [
+    "3-resources/keyboard/Keyboard mapping.md",
+    "3-resources/keyboard/Miryoku layout.md",
+    "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 11.50.02@2x.png",
+    "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 11.43.50@2x.png",
+    "3-resources/keyboard/attachments",
+    "0-inbox/CleanShot 2025-03-04 at 11.43.50@2x.png",
+    "2-areas/Micron Mastering/CRM.md",
+    "Untitled",
+    "2-areas/Micron Mastering/Leads/Tijn.md",
+    "2-areas/Micron Mastering/Leads/Joshua Trèsor (@p.a.rfait).md",
+    "2-areas/Micron Mastering/Leads/FayeNg (˶‾᷄ ⁻̫ ‾᷅˵) (@fayefayeng).md",
+    "2-areas/Micron Mastering/Leads/marmaduke (@marmaduke__music).md",
+    "2-areas/Micron Mastering/Leads/ズﾉ刀ム ｱ乇ﾑᄃ乇 (@kingpeaceofficial).md",
+    "2-areas/Micron Mastering/Leads/𝔊𝔢𝔪𝔦𝔫𝔦 (@saigemini).md",
+    "2-areas/Micron Mastering/Leads/mamanamedmeJames (@lot.of.lance).md",
+    "2-areas/Micron Mastering/Leads/23DREAMZ (@23dreamz).md",
+    "2-areas/Micron Mastering/Leads/Alexander “ Luther “ (@legendarylexie).md",
+    "2-areas/Micron Mastering/Leads/Mistah-Vee (@mistahvee1).md",
+    "2-areas/Micron Mastering/Leads/Zonel🇯🇲🇨🇦 (@zonelxo).md",
+    "2-areas/Micron Mastering/Leads/NoErrorZ (@noerrorz_nez).md",
+    "2-areas/Micron Mastering/Leads/Jinxsta JX (@jinxstajx).md",
+    "2-areas/Micron Mastering/Leads/BLAKK TRAXX (@gamatheblack).md",
+    "3-resources/finance/NS&I.md",
+    "0-inbox/CleanShot 2025-03-03 at 16.27.30@2x.png",
     "2-areas/Micron Mastering/Leads/Kenyatta (@pen.yatta).md",
     "2-areas/Micron Mastering/Leads/Ross Leighton (@rossleighton).md",
     "2-areas/Micron Mastering/Leads/Analiesse Del Aguila (@_anita_dynamita_).md",
@@ -261,35 +289,12 @@
     "2-areas/Micron Mastering/Leads/Ricch Beatz (@ricchbeatz).md",
     "2-areas/Micron Mastering/Leads/Y$VG. 💔 (@prodyvng).md",
     "2-areas/Micron Mastering/Leads/x.md",
-    "2-areas/Micron Mastering/Leads/LINÉ (@linesfrequency).md",
-    "2-areas/Micron Mastering/Leads/Aaron Rougier (@planetadr).md",
-    "2-areas/Micron Mastering/Leads/FiVE1$EVN💽 (@prodby.517).md",
-    "2-areas/Micron Mastering/Leads/Max La Menace 💥 (@max_dvo).md",
-    "2-areas/Micron Mastering/Leads/*KENNY (@actuallykenny).md",
-    "2-areas/Micron Mastering/Leads/Alexander “ Luther “ (@legendarylexie).md",
-    "2-areas/Micron Mastering/Leads/𝔊𝔢𝔪𝔦𝔫𝔦 (@saigemini).md",
-    "2-areas/Micron Mastering/Leads/Alexandra Datman (@alexandradatman).md",
-    "2-areas/Micron Mastering/Leads/YaaD GiLL......📷🎥🎹🎤 (@yaadsinghmusic).md",
-    "2-areas/Micron Mastering/CRM.md",
-    "2-areas/Micron Mastering/Leads/Instagram.md",
-    "2-areas/Micron Mastering/Leads/Evelyn. (@evelyn.kollias).md",
-    "2-areas/Micron Mastering/Leads/ABBI🛸 (@abbiyouknow).md",
-    "2-areas/Micron Mastering/Leads/Chandan (@ur.deviil).md",
-    "0-inbox/Rate Conversations.md",
     "0-inbox/CleanShot 2025-03-03 at 16.31.45@2x.png",
     "0-inbox/CleanShot 2025-03-03 at 16.31.07@2x.png",
     "0-inbox/CleanShot 2025-03-03 at 16.30.45@2x.png",
     "0-inbox/CleanShot 2025-03-03 at 16.29.57@2x.png",
     "0-inbox/CleanShot 2025-03-03 at 16.29.38@2x.png",
-    "0-inbox/CleanShot 2025-03-03 at 16.27.30@2x.png",
     "0-inbox/CleanShot 2025-03-03 at 16.28.59@2x.png",
-    "0-inbox/CleanShot 2025-03-03 at 16.32.36@2x.png",
-    "2-areas/Micron Mastering/Leads/FayeNg (˶‾᷄ ⁻̫ ‾᷅˵) (@fayefayeng).md",
-    "2-areas/Micron Mastering/Leads/Joshua Trèsor (@p.a.rfait).md",
-    "0-inbox/CleanShot 2025-03-03 at 16.32.21@2x.png",
-    "0-inbox/CleanShot 2025-03-03 at 16.32.06@2x.png",
-    "2-areas/Micron Mastering/Leads/Que Ma Joie Demeure! (@jamesalynes).md",
-    "2-areas/Micron Mastering/Leads/Mistah-Vee (@mistahvee1).md",
     "3-resources/finance",
     "3-resources/guitar",
     "4-archives/Burner/Link in bio",
@@ -297,8 +302,6 @@
     "4-archives/Burner",
     "4-archives/2025",
     "4-archives/2025/250211 Reels R&B february",
-    "1-projects/Chalkr/features",
-    "1-projects/Velock",
-    "1-projects/Chalkr"
+    "1-projects/Chalkr/features"
   ]
 }

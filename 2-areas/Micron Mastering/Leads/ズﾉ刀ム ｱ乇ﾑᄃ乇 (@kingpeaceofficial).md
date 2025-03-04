@@ -26,5 +26,6 @@ Singer, Songwriter
 # Notes
 - [x] Send Initial DM (@2025-02-17 14:58)
 - [x] Follow up on current projects (@2025-02-25)
-- [ ] message followup (@2025-03-04)
+- [x] message followup (@2025-03-04)
+- [ ] Final follow up (@2025-03-11)
 # DM Feed

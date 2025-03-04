@@ -1,21 +1,21 @@
 ---
-Date: "2025-03-03T15:59:54+00:00"
-Url: "https://www.instagram.com/fayefayeng/"
+Date: 2025-03-03T15:59:54+00:00
+Url: https://www.instagram.com/fayefayeng/
 Liked: true
 Followed: false
 DMed: false
 Comment: false
 Form: false
-Initial DM: false
+Initial DM: true
 Engaged: false
 Lost: false
 Call Booked: false
 tags:
-  - "lead"
-Lead Type: "Warm"
-Last Contact:
-fileClass: "leads"
-Qualified: "TBC"
+  - lead
+Lead Type: Warm
+Last Contact: 2025-03-04
+fileClass: leads
+Qualified: TBC
 ---
 # Description
 3,964 Followers, 1,455 Following, 25 Posts - FayeNg (˶‾᷄ ⁻̫ ‾᷅˵) (@fayefayeng) on Instagram: "🇭🇰🇨🇦
@@ -23,5 +23,5 @@ Qualified: "TBC"
 “Done is better then perfect”
 @xhale.bar"
 # Notes
-- [ ] Send Initial DM (@2025-03-04)
+- [x] Send Initial DM (@2025-03-04)
 # DM Feed
