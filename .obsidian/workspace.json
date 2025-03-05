@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Micron Mastering/Leads/sb90 (@sbninety).md",
+                "file": "3-resources/keyboard/Keyboard mapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sb90 (@sbninety)"
+              "title": "Keyboard mapping"
             }
           }
         ],
@@ -270,8 +270,8 @@
   },
   "active": "546df89c7e8ad0e6",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/Leads/Λ I T O (@aito.producer).md",
     "2-areas/Micron Mastering/Leads/sb90 (@sbninety).md",
+    "2-areas/Micron Mastering/Leads/Λ I T O (@aito.producer).md",
     "3-resources/guitar/Bernth - 30 day speed builder.md",
     "2-areas/Micron Mastering/Leads/Phoebe Rain.🪲 (@phoeberain_).md",
     "3-resources/keyboard/Miryoku layout.md",
