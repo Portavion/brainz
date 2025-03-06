@@ -23,5 +23,5 @@ Rules do not make works of art.
 NEW SINGLE OUT NOW!! 👇🏾👇🏾"
 # Notes
 - [x] Send Initial DM (@2025-03-04)
-- [ ] follow up (@2025-03-06)
+- [x] follow up (@2025-03-06)
 # DM Feed
