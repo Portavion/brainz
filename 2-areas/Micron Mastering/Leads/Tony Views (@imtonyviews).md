@@ -13,7 +13,7 @@ Call Booked: true
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-02-24
+Last Contact: 2025-03-06
 fileClass: leads
 Qualified: Qualified
 ---
@@ -27,4 +27,5 @@ From Lynn, Mass"
 - [x] send master (@2025-02-27)
 - [x] check in with album work (@2025-03-25)
 - [x] follow up on mastering work (@2025-03-05)
+- [ ] follow up for mastering work (@2025-03-10)
 # DM Feed

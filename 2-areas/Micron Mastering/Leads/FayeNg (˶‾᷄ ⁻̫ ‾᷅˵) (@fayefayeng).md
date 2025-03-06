@@ -7,7 +7,7 @@ DMed: false
 Comment: false
 Form: false
 Initial DM: true
-Engaged: false
+Engaged: true
 Lost: false
 Call Booked: false
 tags:
@@ -15,7 +15,7 @@ tags:
 Lead Type: Warm
 Last Contact: 2025-03-04
 fileClass: leads
-Qualified: TBC
+Qualified: Not Qualified
 ---
 # Description
 3,964 Followers, 1,455 Following, 25 Posts - FayeNg (˶‾᷄ ⁻̫ ‾᷅˵) (@fayefayeng) on Instagram: "🇭🇰🇨🇦
