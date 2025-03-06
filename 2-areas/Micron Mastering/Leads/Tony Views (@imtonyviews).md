@@ -26,5 +26,5 @@ From Lynn, Mass"
 - [x] say ill start mastering if no replies on clipping (@2025-02-25)
 - [x] send master (@2025-02-27)
 - [x] check in with album work (@2025-03-25)
-- [ ] follow up on mastering work (@2025-03-05)
+- [x] follow up on mastering work (@2025-03-05)
 # DM Feed
