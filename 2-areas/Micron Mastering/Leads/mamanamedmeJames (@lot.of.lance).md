@@ -13,7 +13,7 @@ Call Booked: false
 tags:
   - lead
 Lead Type: Warm
-Last Contact: 2025-03-04
+Last Contact: 2025-03-06
 fileClass: leads
 Qualified: TBC
 ---
@@ -21,5 +21,6 @@ Qualified: TBC
 1,182 Followers, 1,984 Following, 9 Posts - mamanamedmeJames (@lot.of.lance) on Instagram: "🎙▫️🎼▫️🎸▫️🎥"
 # Notes
 - [x] Send Initial DM (@2025-03-04)
-- [ ] follow up (@2025-03-10)
+- [x] follow up (@2025-03-10)
+- [ ] follow for mix / master (@2025-03-11)
 # DM Feed

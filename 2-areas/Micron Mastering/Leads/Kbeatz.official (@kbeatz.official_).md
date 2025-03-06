@@ -24,4 +24,5 @@ NEW SINGLE OUT NOW!! 👇🏾👇🏾"
 # Notes
 - [x] Send Initial DM (@2025-03-04)
 - [x] follow up (@2025-03-06)
+- [ ] final follow up(@2025-03-11)
 # DM Feed
