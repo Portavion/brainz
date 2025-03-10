@@ -80,9 +80,21 @@
               "icon": "lucide-file",
               "title": "Łüv Âthwäł (@luvathwal)"
             }
+          },
+          {
+            "id": "e01b22c6df7f1abe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -297,7 +309,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8ff39a31351f2a93",
+  "active": "e01b22c6df7f1abe",
   "lastOpenFiles": [
     "2-areas/Micron Mastering/Leads/Steve Cho (@steveswcho).md",
     "2-areas/Micron Mastering/Leads/Łüv Âthwäł (@luvathwal).md",
