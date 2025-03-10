@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,10 +270,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1bcf08c394d6810e",
+  "active": "a6ba36de7865741b",
   "lastOpenFiles": [
-    "3-resources/keyboard/Miryoku layout.md",
     "2-areas/Micron Mastering/Leads/LtL (@716buff_).md",
+    "3-resources/keyboard/Miryoku layout.md",
     "2-areas/Micron Mastering/Leads/Ivoo (@ivoo_kft) 1.md",
     "2-areas/Micron Mastering/Leads/‎Edgar Pensy 伊曼纽尔, ايمانويل‎ (@edgarfromparis).md",
     "2-areas/Micron Mastering/Leads/Nick Derrick (@nicklsderrick).md",
