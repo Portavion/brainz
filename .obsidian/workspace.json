@@ -54,20 +54,6 @@
             }
           },
           {
-            "id": "4367ee1d9eab975c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.budgetbytes.com/easy-vegetable-beef-soup/",
-                "title": "Easy Vegetable Beef Soup - Budget Bytes",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Easy Vegetable Beef Soup - Budget Bytes"
-            }
-          },
-          {
             "id": "86f5829e04e80163",
             "type": "leaf",
             "state": {
@@ -82,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
