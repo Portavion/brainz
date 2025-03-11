@@ -6,8 +6,8 @@ Followed: false
 DMed: true
 Comment: false
 Form: false
-Initial DM: false
-Engaged: false
+Initial DM: true
+Engaged: true
 Lost: false
 Call Booked: false
 tags:
@@ -15,7 +15,7 @@ tags:
 Lead Type: Warm
 Last Contact: 2025-03-10
 fileClass: leads
-Qualified: TBC
+Qualified: Qualified
 ---
 # Description
 501 Followers, 747 Following, 8 Posts - Nick Derrick (@nicklsderrick) on Instagram: "🏴‍☠️DAVEY JAWNS LOCKER AKA JAWNY BRAVO AKA MARK TWANG AKA Cynick on erry platform"
