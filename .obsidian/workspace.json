@@ -57,14 +57,14 @@
             "id": "86f5829e04e80163",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.bbcgoodfood.com/recipes/veggie-protein-chilli",
-                "title": "Veggie protein chilli recipe | Good Food",
-                "mode": "webview"
+                "file": "2-areas/Micron Mastering/Leads/godleecharles. (@godleecharles).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Veggie protein chilli recipe | Good Food"
+              "icon": "lucide-file",
+              "title": "godleecharles. (@godleecharles)"
             }
           }
         ],
@@ -285,6 +285,7 @@
   },
   "active": "86f5829e04e80163",
   "lastOpenFiles": [
+    "2-areas/Micron Mastering/Leads/godleecharles. (@godleecharles).md",
     "4-archives/weekly-notes/2025-W11.md",
     "3-resources/keyboard/Miryoku layout.md",
     "2-areas/Micron Mastering/Leads/Nick Derrick (@nicklsderrick).md",
@@ -310,7 +311,6 @@
     "2-areas/Micron Mastering/Leads/🇫🇯BLACKAVELLI🇫🇯 (@allblackalbygmm) 1.md",
     "2-areas/Micron Mastering/Leads/Ideal Jim (@idealjim_) 1.md",
     "2-areas/Micron Mastering/Leads/IAMSGK (@sgk_official).md",
-    "2-areas/Micron Mastering/Leads/Joachim (@dagangboi).md",
     "3-resources/keyboard/attachments/CleanShot 2025-03-05 at 10.57.21@2x.png",
     "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 12.57.56@2x.png",
     "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 12.53.04@2x.png",
