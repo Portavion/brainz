@@ -1,5 +1,10 @@
 ## **What are the two professional/career highlights you’re most proud of? Why?**
-### 
+### Building the carbon reduction dashboard (align with my values, challenging, interaction with other teams)
+
+### Building python scripts to speed up the matrix input in gatwick model
+Bypassing the VBA interface of the software and using the newer, less document python interface. Allowed to radically speed up the processing of origin/destination matrices. We were working on a large scale 24 hours model which used over 2,000 matrices. While the com interface work well in most cases this was too much for this use case and importing matrices through the COM interface was taking over 3 hours. 
+
+Bypassing excel and processing / importing data through python reduced that process to just under 5 minutes. Took a few different step of optimisation (disable software UI updates, optimise order of import) But this allowed us to save a lot of time in the validation and optimisation process and led us to a much higher quality dataset to start building from. 
 
 ## **What’s one technical skill, not mentioned in the job ad, that you consider yourself to be very strong in? How would you use it at Doist?**
 
