@@ -16,13 +16,13 @@ Finally, I wrote a script that allows to interface a wider corridor model (the t
 ### Draft
 I'm really proud of two projects in particular. Mostly because they either aligned with my values or pushed me creatively to find new ways to solve problems. 
 
-Monaco Masterplan: Rethinking a City's Circulation**
+Monaco Masterplan: Rethinking the principality circulation
 
-I led a really ambitious masterplan project for Monaco. The challenge was to completely redesign the Principality's circulation system, shifting it away from being so car-centric. Monaco's streets are incredibly narrow, with hardly any space for pedestrians or greenery. We needed to find a way to reclaim that space.
+I led a really ambitious masterplan project for Monaco. The challenge was to redesign the Principality's circulation system which is currently very car-centric to make it a more pedestrian friendly environment. Monaco's streets are very narrow, with hardly any space for pedestrians or greenery. The local government wanted to find ways to reclaim some of that space.
 
-We came up with a pretty bold solution: a mostly one-way system around Monaco, with a few strategically placed two-way streets as bypasses. This was a huge change, but it meant we could free up an _entire traffic lane_ in some areas. Imagine going from sidewalks where two people could barely walk side-by-side to having space for wider walkways, trees, seating areas, pocket parks, and even public art!
+We came up with a mostly one-way system around Monaco, with a few key two-way streets to act as bypass. Whilst a huge change, this would allow to free entire traffic lanes in some areas. Going from sidewalks where two people could barely cross each other to having space for wider walkways, trees, seating areas, pocket parks and public art.
 
-This project was also a major experiment in asynchronous, remote work. We had teams in the UK, Canada, and Spain, working alongside the Monaco government and French architects. It forced us to be super efficient with communication. We cut down drastically on meetings, which freed up a _ton_ of time. This extra time let us explore more radical ideas, like the one-way system, and back them up with traffic modelling. Honestly, I don't think we would have been able to propose something so ambitious without that asynchronous approach. It was stressful at first, but it ended up being one of the most rewarding and sustainable ways I've ever worked.
+This project was also an experiment in asynchronous, remote work. We had teams in the UK, Canada, and Spain working with the Monaco government and French architects. It forced us to be more efficient with communication. Weekly progress meetings were impossible. Cutting down on these freed up a lot of time while not impacting the progress of the project. This extra time let us explore more radical ideas, like the one-way system, and back them up with traffic modelling. Honestly, I don't think we would have been able to propose something so ambitious without that asynchronous approach. It was stressful at first, but it ended up being one of the most rewarding and sustainable ways I've ever worked.
 
 **2. Gatwick Model Optimization and Enhancement: Python to the Rescue**
 
