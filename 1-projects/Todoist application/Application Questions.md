@@ -1,16 +1,38 @@
 ## **What are the two professional/career highlights you’re most proud of? Why?**
-### Monaco Masterplan
+### Stream of consciousness
+#### Monaco Masterplan
 I have led a masterplan project for the Monaco. The goal was to redesign circulation system in the Principality in order to regain space for pedestrian and vegetation as the city is currently heavily car based with very narrow pedestrian realm. This was a very challenging exercise which required a lot of out of the box thinking. We ended re-designing the road network to be mostly one-way around Monaco whilst keeping select key two way street to act as bypass reducing travel times in case of missed turn and avoiding congestion. This should provide a lot of gained space from the extra traffic lane in places were sidewalk could barely fit two people side by side whilst providing space for planting trees, sitting areas, pocket park, public installations additional greenland.
 
 This was also one of my first experience in remote / asynchronous working as the project combined teams from our uk, canadian and spanish office whilst working alongside Monaco government and the french architects. This forced us to adopt a mostly asynchronous way of working and as been a freeing experience. Holding a very limited amount of online meetings led us to saved a lot of project work time which allowed us to explore schemes in more details. This helped us explore bolder options like the one way system by backing it with basic traffic modelling. Which probably would not have been cost feasible if not for the savings from large regular company wide progress meetings. 
 
 While stressful at first this turned out to be one of the most pleasant way of working I've experienced whilst also aligning with my values of improving sustainable travel methods sustainability etc.
-### Building a suite of python scripts to speed up Gatwick model development and add functionality
+#### Building a suite of python scripts to speed up Gatwick model development and add functionality
 Bypassing the VBA interface of the software and using the newer, less document python interface. Allowed to radically speed up the processing of origin/destination matrices. We were working on a large scale 24 hours model which used over 2,000 matrices. While the com interface work well in most cases this was too much for this use case and importing matrices through the COM interface was taking over 3 hours. 
 
 Bypassing excel and processing / importing data through python reduced that process to just under 5 minutes. Took a few different step of optimisation (disable software UI updates, optimise order of import) But this allowed us to save a lot of time in the validation and calibration process, do more runs, which allowed us to deliver a much higher quality model. Ie with the time saving from the old import method we couid do an additional calibration run.
 I've also built a few additional scripts that added new functionality to the software that were needed in the context of this project. When designing the parking and drop-off area we were looking at providing the right amount of spaces. Which was difficult given the technical limitations of the software. I've built a script that tracks vehicles going through the airport and forces them to recirculate / loop around if they were not able to find a free space (not allowed in the software) which allowed us to visualise the impact of re-circulation which turned out to be a significant issue in one of the peak hour and led us to provide additional parking space, avoid potential unecessary congestion. 
 Finally, I wrote a script that allows to interface a wider corridor model (the two airport and highway system in between) and smaller airport terminal models. This allowed to take travel demand from the wider model (with dynamic vehicle routing and path choice) and convert it to static demand for our more detailed airport model. This allowed to reduce the time it took from the otherwise manual process and avoid a lot of user input error which can be hard to track and correct given the large amout of data.
+
+### Draft
+I'm really proud of two projects in particular. Mostly because they either aligned with my values or pushed me creatively to find new ways to solve problems. 
+
+Monaco Masterplan: Rethinking a City's Circulation**
+
+I led a really ambitious masterplan project for Monaco. The challenge was to completely redesign the Principality's circulation system, shifting it away from being so car-centric. Monaco's streets are incredibly narrow, with hardly any space for pedestrians or greenery. We needed to find a way to reclaim that space.
+
+We came up with a pretty bold solution: a mostly one-way system around Monaco, with a few strategically placed two-way streets as bypasses. This was a huge change, but it meant we could free up an _entire traffic lane_ in some areas. Imagine going from sidewalks where two people could barely walk side-by-side to having space for wider walkways, trees, seating areas, pocket parks, and even public art!
+
+This project was also a major experiment in asynchronous, remote work. We had teams in the UK, Canada, and Spain, working alongside the Monaco government and French architects. It forced us to be super efficient with communication. We cut down drastically on meetings, which freed up a _ton_ of time. This extra time let us explore more radical ideas, like the one-way system, and back them up with traffic modelling. Honestly, I don't think we would have been able to propose something so ambitious without that asynchronous approach. It was stressful at first, but it ended up being one of the most rewarding and sustainable ways I've ever worked.
+
+**2. Gatwick Model Optimization and Enhancement: Python to the Rescue**
+
+At Gatwick Airport, I tackled a major bottleneck in our model development process. We were building a massive 24-hour model with over 2,000 origin/destination matrices. The software's built-in VBA interface was _painfully_ slow – importing the matrices took over _three hours_!
+
+I bypassed the VBA interface and used Python instead, leveraging the software's (less documented) Python API. I optimized the process in several steps, like disabling UI updates and optimizing the import order. The result? I slashed the import time from over three hours to _under five minutes_. This was a _game-changer_ for our calibration and validation process. We could run more scenarios, iterate faster, and ultimately deliver a much higher-quality model. For example, we were able to squeeze in an extra calibration run, which significantly improved the model's accuracy.
+
+But I didn't stop there. I also used Python to add completely _new_ functionality to the software. We needed to model vehicles recirculating if they couldn't find parking (something the software couldn't do natively). I built a script that tracked vehicles and forced them to loop around, letting us visualize the impact of recirculation. This revealed a major congestion issue in one of the peak hours, leading us to recommend additional parking spaces – a crucial design change.
+
+Finally, I wrote a script to connect our large-scale corridor model (covering the two airports and the highway system) with smaller, more detailed terminal models. This automated a previously manual process, saving time and, more importantly, eliminating a major source of potential human error in the data transfer.
 
 ## **What’s one technical skill, not mentioned in the job ad, that you consider yourself to be very strong in? How would you use it at Doist?**
 ### Draft
