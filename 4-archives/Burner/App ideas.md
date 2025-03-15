@@ -4,6 +4,7 @@ Some game engines:
 - https://phaser.io/download/phaser-launcher
 - https://editor.gdevelop.io/
 - https://www.construct.net/en
+- https://pixijs.com/
 ## Ableton Live Set Generator for Mastering / Mixing (with Right Tracks and Files loaded)
 ## CRM with SQL Db that Can Clip IG Etc.. (and Keep Tracks of feed)
 ## Other
