@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Job application/Potential Interview Questions.md",
+                "file": "4-archives/Burner/App ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potential Interview Questions"
+              "title": "App ideas"
             }
           }
         ],
@@ -298,8 +298,8 @@
   },
   "active": "ddcdb578de063164",
   "lastOpenFiles": [
-    "1-projects/Job application/Todoist Application Questions.md",
     "1-projects/Job application/Potential Interview Questions.md",
+    "1-projects/Job application/Todoist Application Questions.md",
     "3-resources/keyboard/Miryoku layout.md",
     "1-projects/Job application",
     "2-areas/Micron Mastering/Leads/godleecharles. (@godleecharles).md",
