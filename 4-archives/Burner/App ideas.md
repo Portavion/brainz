@@ -1,11 +1,11 @@
 # App Ideas
-## N3DS video games in Lua with Löve Potion
-## Guitar hero copycat with keyboard inputs
+## N3DS Video Games in Lua with Löve Potion
+## Guitar Hero Copycat with Keyboard Inputs
 Some game engines:
-- https://phaser.io/download/phaser-launcher
-- https://editor.gdevelop.io/
-- https://www.construct.net/en
-- https://pixijs.com/
+- <https://phaser.io/download/phaser-launcher>
+- <https://editor.gdevelop.io/>
+- <https://www.construct.net/en>
+- <https://pixijs.com/>
 ## Ableton Live Set Generator for Mastering / Mixing (with Right Tracks and Files loaded)
 ## CRM with SQL Db that Can Clip IG Etc.. (and Keep Tracks of feed)
 ## Other
