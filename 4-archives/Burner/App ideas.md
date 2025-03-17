@@ -1,5 +1,5 @@
 # App Ideas
-## 
+## N3DS video games in Lua with Löve Potion
 ## Guitar hero copycat with keyboard inputs
 Some game engines:
 - https://phaser.io/download/phaser-launcher
