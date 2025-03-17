@@ -1,7 +1,7 @@
 # Cover Letter
 ## Playsation
 ### Draft - Gemini
-Dear PlayStation Hiring Team,
+Dear Hiring Team,
 
 I am writing to express my interest in the Analytics Engineering Platform role at Sony Interactive Entertainment. I am excited at the opportunity to contribute to the innovation and development of PlayStation.
 
@@ -13,9 +13,7 @@ My passion in software engineering goes beyond my professional experience. I am 
 
 I am also building a web application to track Santander Cycles availability and docking space, featuring an improved search functionality, using React for the frontend, Node.js/Express for the backend REST API, and a PostgreSQL database. GitHub: https://github.com/Portavion/velock
 
-I am particularly a to the team's focus on building and maintaining internal systems as products, which aligns with my desire to create impactful and efficient solutions. I am committed to following industry best practices and ensuring the security and functionality of these systems.
-
-I am confident that my analytical skills, combined with my passion for software engineering and my deep connection to the PlayStation brand, make me a strong candidate for this role. I am eager to bring my enthusiasm and dedication to your team and contribute to the continued success of PlayStation.
+I am confident that my analytical skills, combined with my passion for software engineering make me a strong candidate for this role. I am looking forward to bringing my enthusiasm and dedication to your team and contribute to the continued success of PlayStation.
 
 Thank you for your time and consideration.
 
