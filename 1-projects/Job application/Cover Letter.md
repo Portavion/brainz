@@ -3,9 +3,9 @@
 ### Draft - Gemini
 Dear PlayStation Hiring Team,
 
-I am writing to express my interest in the Analytics Engineering Platform role at Sony Interactive Entertainment. As a dedicated PlayStation user since childhood, the opportunity to contribute to the innovation and development of your platform is incredibly exciting.
+I am writing to express my interest in the Analytics Engineering Platform role at Sony Interactive Entertainment. I am excited at the opportunity to contribute to the innovation and development of PlayStation.
 
-My background in transport modeling at Arup has equipped me with a strong foundation in data analysis and problem-solving. While my experience lies in a different field, I have developed a keen interest and proficiency in software engineering, particularly in web development using JavaScript, React, and Node.js.
+Through my previous role in transport modeling at Arup I have gained a strong foundation in data analysis and problem-solving. While my experience lies in a slightly different field, I have developed a keen interest and proficiency in software engineering, particularly in web development using JavaScript, React, and Node.js.
 
 I am eager to transition into a role where I can continuously learn and adapt to evolving technologies. My experience in streamlining modeling processes through Python scripting and web development demonstrates my ability to quickly grasp new concepts and apply them effectively. For example, at Arup, I rewrote the VISSIM software's COM interface using Python, reducing data import time for a large-scale Gatwick Airport project from 3 hours to 5 minutes. I also developed an interface for automated data export between models, significantly reducing manual input errors. Furthermore, I developed a suite of tools that leveraged the software's database to accelerate the creation of analysis boilerplate and recurring charts/stats.
 
