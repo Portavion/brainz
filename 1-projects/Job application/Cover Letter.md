@@ -19,3 +19,8 @@ Thank you for your time and consideration.
 
 Sincerely,
 Guillaume
+## Ovo
+### Draft - what plan zero means to me
+For me, Plan Zero is not just a target but also a personal effort. I am concerned about the climate crisis want to contribute to real solutions. That's partially why I'm currently looking to shift career and industry. The transport consulting industry trend is toward projects that are not focusing on sustainability and environment which doesn't align with my values.
+
+I want to be part of a team that's actively building a sustainable future and I believe technology has a role to play in it. I'm excited by the idea of applying my skills to create tools and platforms that make a positive environmental impact. Finding a company that shares that vision is a big deal to me.
