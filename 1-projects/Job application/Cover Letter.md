@@ -64,13 +64,15 @@ Guillaume
 ### Draft
 To whom it may concern,
 
-I am writing to express my enthusiastic interest in the Frontend Software Engineer position on the UI Foundations team at Confluent. The opportunity to contribute to the development of data-intensive cloud UI applications, built on top of Apache Kafka, is particularly exciting to me. I want to work on a product that is used by many people. 
+ Thank you for the opportunity to apply for the Frontend Software Engineer position on the UI Foundations team. I am particularly drawn to Confluent's mission to make managing Apache Kafka easy, and I am excited by the opportunity to contribute to the development of data-intensive cloud UI applications. 
+ 
+In my previous role as senior transport modeller at Arup, while in a slightly different field, I gained a strong foundation in problem-solving and a first experience of web development working alongside the city modelling team to create a web dashboard (built with React and Python). In my day to day job, I also got direct experience querying and analysing big data sets using SQL which I believe can be relevant to data intensive applications.
 
-With over a year of professional experience and a strong foundation in Computer Science principles, I am confident in my ability to meet the requirements of this role. My expertise includes building client-side web applications using modern JavaScript (including Typescript), HTML5, and CSS. I have hands-on experience with React and related tooling, such as Webpack and Babel, and I am proficient in unit testing with Jest. I also have experience building web applications that use REST APIs. 
+My passion in software engineering goes beyond my professional experience. I am currently developing a climbing workout tracker app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach with future backend data backup. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
 
-My personal projects further demonstrate my capabilities in frontend development: * **Velock (https://github.com/Portavion/velock):** A web app tracking Santander Cycles, built with React, Node.js/Express, and a PostgreSQL database. This project showcases my ability to develop complex web applications and integrate with backend APIs. * **Chalkr (https://github.com/Portavion/Chalkr):** A climbing workout tracker app built with React Native/Expo, Firebase Auth, and SQLite, demonstrating my ability to build robust applications. 
+I am also building a web app to track Santander Cycles and docking space availability. Which also features an improved search. It is built with React for the frontend, Node.js/Express for the backend REST API, and a PostgreSQL database. GitHub: https://github.com/Portavion/velock
 
-I am comfortable with daily deployment cycles and am eager to contribute to the UI Foundations team's mission of providing a consistent and exceptional UI experience for Confluent Cloud users. I am confident that my skills and experience align perfectly with the requirements of this role, and I am eager to contribute to the continued success of Confluent. 
-Thank you for your time and consideration. 
+I am comfortable with daily deployment cycles and am eager to contribute to the UI Foundations team's mission of providing a consistent and exceptional UI experience for Confluent Cloud users. I am confident that my skills and experience align perfectly with the requirements of this role, and I am eager to contribute to the continued success of Confluent. Thank you for your time and consideration. 
+
 Sincerely, 
 Guillaume
