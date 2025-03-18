@@ -60,3 +60,17 @@ I am comfortable working in a hybrid environment and am excited about the opport
 
 Sincerely, 
 Guillaume
+## Confluent
+### Draft
+To whom it may concern,
+
+I am writing to express my enthusiastic interest in the Frontend Software Engineer position on the UI Foundations team at Confluent. The opportunity to contribute to the development of data-intensive cloud UI applications, built on top of Apache Kafka, is particularly exciting to me. I want to work on a product that is used by many people. 
+
+With over a year of professional experience and a strong foundation in Computer Science principles, I am confident in my ability to meet the requirements of this role. My expertise includes building client-side web applications using modern JavaScript (including Typescript), HTML5, and CSS. I have hands-on experience with React and related tooling, such as Webpack and Babel, and I am proficient in unit testing with Jest. I also have experience building web applications that use REST APIs. 
+
+My personal projects further demonstrate my capabilities in frontend development: * **Velock (https://github.com/Portavion/velock):** A web app tracking Santander Cycles, built with React, Node.js/Express, and a PostgreSQL database. This project showcases my ability to develop complex web applications and integrate with backend APIs. * **Chalkr (https://github.com/Portavion/Chalkr):** A climbing workout tracker app built with React Native/Expo, Firebase Auth, and SQLite, demonstrating my ability to build robust applications. 
+
+I am comfortable with daily deployment cycles and am eager to contribute to the UI Foundations team's mission of providing a consistent and exceptional UI experience for Confluent Cloud users. I am confident that my skills and experience align perfectly with the requirements of this role, and I am eager to contribute to the continued success of Confluent. 
+Thank you for your time and consideration. 
+Sincerely, 
+Guillaume
