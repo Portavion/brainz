@@ -26,3 +26,17 @@ For me, Plan Zero is not just a target but also a personal effort. I am concerne
 I want to be part of a team that's building a better future and I believe technology has a role to play in it. I'm excited by the idea of applying my skills to create tools and platforms that make a positive environmental impact. Finding a company that shares that vision is a big deal to me.
 ## Laka 
 ### Draft
+To the Laka Hiring Team, 
+
+Thank you for the opportunity to apply for a Software Engineer role at Laka. Your mission to "shred the rules of insurance" and create a fairer, people-powered model resonates deeply with me, and I'm excited by the opportunity to contribute to building innovative software that changes an industry. 
+
+In my previous role as senior transport modeller at Arup, I gained a strong foundation in problem-solving and also a first experience of software development through Python and web development working alongside the city modelling team on a web dashboard (built with React and Node.js). I also have experience using SQL to query and analyse large data sets within my modelling work. This experience, combined with my passion for software engineering, makes me confident that I possess the skills and drive to excel in this role. 
+
+I am particularly interested in Laka's tech stack, which includes Node.js, React, and SQL, as these are technologies I have hands-on experience with. 
+
+My personal projects further demonstrate my capabilities: 
+* **Chalkr (https://github.com/Portavion/Chalkr):** A climbing workout tracker app built with React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach. This projects showcase my frontend development skills and ability to build robust applications. 
+
+* **Velock (https://github.com/Portavion/velock):** A web app tracking Santander Cycles and docking space availability, featuring an improved search. Built with React, Node.js/Express, and a PostgreSQL database, this project demonstrates my experience with fullstack development and REST APIs. 
+
+I am comfortable working in a remote-first environment and am eager to collaborate with your team to deliver high-quality code and contribute to Laka's continued success. I am confident that my experience with Node.js, React and SQL, coupled with my enthusiasm for building user-centric applications, makes me a great fit for this role. Thank you for your time and consideration. Sincerely, Guillaume
