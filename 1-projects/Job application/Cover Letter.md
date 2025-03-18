@@ -26,13 +26,12 @@ For me, Plan Zero is not just a target but also a personal effort. I am concerne
 I want to be part of a team that's building a better future and I believe technology has a role to play in it. I'm excited by the idea of applying my skills to create tools and platforms that make a positive environmental impact. Finding a company that shares that vision is a big deal to me.
 ## Laka 
 ### Draft
-To the Laka Hiring Team, 
+To whom it may concern,
 
-Thank you for the opportunity to apply for a Software Engineer role at Laka. Your mission to "shred the rules of insurance" and create a fairer, people-powered model resonates deeply with me, and I'm excited by the opportunity to contribute to building innovative software that changes an industry. 
+Thank you for the opportunity to apply for a Software Engineer role at Laka. Your mission to build a better insurance for cyclists resonates with me, having had bad experiences in the past, and I'm excited by the opportunity to contribute to building innovative software that changes an industry. 
 
-In my previous role as senior transport modeller at Arup, I gained a strong foundation in problem-solving and also a first experience of software development through Python and web development working alongside the city modelling team on a web dashboard (built with React and Node.js). I also have experience using SQL to query and analyse large data sets within my modelling work. This experience, combined with my passion for software engineering, makes me confident that I possess the skills and drive to excel in this role. 
-
-I am particularly interested in Laka's tech stack, which includes Node.js, React, and SQL, as these are technologies I have hands-on experience with. 
+In my previous role as senior transport modeller at Arup, I gained a strong foundation in problem-solving and a first experience of web development working alongside the city modelling team to create a web dashboard (built with React and Python). I also had first-hand experience using SQL to query and analyse large data sets within my modelling work. This experience, combined with my passion for software engineering, makes me confident that I have the skills to excel in this role. 
+I am particularly interested in Laka's tech stack, having prior experience with Node.js, React, RESTful apis, Jest unit testing, SQL and being currently learning Golang.
 
 My personal projects further demonstrate my capabilities: 
 * **Chalkr (https://github.com/Portavion/Chalkr):** A climbing workout tracker app built with React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach. This projects showcase my frontend development skills and ability to build robust applications. 
