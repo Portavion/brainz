@@ -76,3 +76,20 @@ I am comfortable with daily deployment cycles and am eager to contribute to the 
 
 Sincerely, 
 Guillaume
+## lets do this
+### Draft cover letter:
+To whom it may concern,
+
+I am writing to express my enthusiastic interest in the Software Engineer position at Let's Do This. The idea of contributing to a platform that encourages people to participate in active and fulfilling experiences is very exciting to me. 
+
+In my previous role as senior transport modeller at Arup, while in a slightly different field, I gained a strong foundation in problem-solving and a first experience of web development working alongside the city modelling team to create a web dashboard (built with React and Python). In my day to day job, I also got direct experience querying and analysing big data sets using SQL which I believe are skills transferable to building performant web experiences and working with data insights. I am eager to learn and grow, and I know I can quickly pick up new tools and technologies, which aligns with your focus on a growth mindset. 
+
+My passion in software engineering goes beyond my professional experience. I am currently developing a climbing workout tracker app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach with future backend data backup. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
+
+I am also building a web app to track Santander Cycles and docking space availability. Which also features an improved search. It is built with React for the frontend, Node.js/Express for the backend REST API, and a PostgreSQL database. GitHub: https://github.com/Portavion/velock
+
+I am confident that my problem-solving skills, my ability to learn quickly, and my passion for building great user experiences make me a strong candidate for this role. I am excited about the opportunity to shape the future of your platform.
+
+Thank you for your time and consideration. 
+Sincerely, 
+Guillaume
