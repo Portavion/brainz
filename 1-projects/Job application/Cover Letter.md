@@ -49,13 +49,14 @@ To whom it may concern,
 
 I am writing to express my interest in your Back End Engineer role at FundApps. Your mission to automate regulatory compliance for investment managers, and the scale of your operations is impressive and aligns with my aspirations of working with companies that are looking to make an impact.
 
-In my previous role as senior transport modeller at Arup, I developed a strong foundation in problem-solving and gained experience in web development using React and Python. I also have extensive experience querying and analyzing large datasets using SQL, which I believe is directly applicable to the challenges faced at FundApps. I am eager to contribute to your team and learn from your modern tech stack, including your recent migration to Aurora Postgres and your use of AWS services. Furthermore, I am very comfortable with agile methodologies, and with continuous improvement. 
+In my previous role as senior transport modeller at Arup, while in a slightly different field, I gained a strong foundation in problem-solving and a first experience of web development working alongside the city modelling team to create a web dashboard (built with React and Python). In my day to day job, I also got direct experience querying and analysing big data sets using SQL. This, combined with my passion for software engineering, makes me confident that I have the skills to excel in this role. 
+I am comfortable with Agile methodologies and keen on continuous improvement. I am transparent in my communication, and I always seek to improve.
 
-I have read your company values, and I believe that I am a good fit. I am comfortable with ambiguity, I am transparent in my communication, and I always seek to improve.
+My passion in software engineering goes beyond my professional experience. I am currently developing a climbing workout tracker app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach with future backend data backup. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
 
-My passion for software engineering is evident in my personal projects: 
-- Chalkr (https://github.com/Portavion/Chalkr): A climbing workout tracker app built with React Native/Expo, Firebase Auth, and SQLite, demonstrating my ability to build robust applications. 
+I am also building a web app to track Santander Cycles and docking space availability. Which also features an improved search. It is built with React for the frontend, Node.js/Express for the backend REST API, and a PostgreSQL database. GitHub: https://github.com/Portavion/velock
 
-- Velock (https://github.com/Portavion/velock): A web app tracking Santander Cycles, built with React, Node.js/Express, and a PostgreSQL database, showcasing my experience with backend development and REST APIs. 
+I am comfortable working in a hybrid environment and am excited about the opportunity to collaborate with your team at your London office.Thank you for your time and consideration. 
 
-I am comfortable working in a hybrid environment and am excited about the opportunity to collaborate with your team at your London office. I am confident that my problem-solving skills, experience with SQL, and passion for building high-quality software make me a strong candidate for this role. Thank you for your time and consideration. Sincerely, Guillaume
+Sincerely, 
+Guillaume
