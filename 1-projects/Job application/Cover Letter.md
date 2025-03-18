@@ -43,3 +43,19 @@ Sincerely,
 Guillaume
 ### Why laka?
 I'm drawn to Laka for a few reasons. First, your focus on continuous learning and innovation is very important to me. First, I'm at a point in my career where continuous learning is very important. In my previous role, I found myself starting to stagnate knowledge wise. I am looking to transition into software engineering where I can constantly evolve and improve my skills, especially as technology advances. Secondly, Laka's mission to disrupt the cycle insurance industry with a fairer, people-powered model resonates with me. I've had my own frustrations with traditional bike insurance, so the idea of building a better solution is  appealing to me.
+## Fundapps
+### Cover letter
+To whom it may concern,
+
+I am writing to express my interest in your Back End Engineer role at FundApps. Your mission to automate regulatory compliance for investment managers, and the scale of your operations is impressive and aligns with my aspirations of working with companies that are looking to make an impact.
+
+In my previous role as senior transport modeller at Arup, I developed a strong foundation in problem-solving and gained experience in web development using React and Python. I also have extensive experience querying and analyzing large datasets using SQL, which I believe is directly applicable to the challenges faced at FundApps. I am eager to contribute to your team and learn from your modern tech stack, including your recent migration to Aurora Postgres and your use of AWS services. Furthermore, I am very comfortable with agile methodologies, and with continuous improvement. 
+
+I have read your company values, and I believe that I am a good fit. I am comfortable with ambiguity, I am transparent in my communication, and I always seek to improve.
+
+My passion for software engineering is evident in my personal projects: 
+- Chalkr (https://github.com/Portavion/Chalkr): A climbing workout tracker app built with React Native/Expo, Firebase Auth, and SQLite, demonstrating my ability to build robust applications. 
+
+- Velock (https://github.com/Portavion/velock): A web app tracking Santander Cycles, built with React, Node.js/Express, and a PostgreSQL database, showcasing my experience with backend development and REST APIs. 
+
+I am comfortable working in a hybrid environment and am excited about the opportunity to collaborate with your team at your London office. I am confident that my problem-solving skills, experience with SQL, and passion for building high-quality software make me a strong candidate for this role. Thank you for your time and consideration. Sincerely, Guillaume
