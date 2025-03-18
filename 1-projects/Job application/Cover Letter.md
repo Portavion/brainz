@@ -93,3 +93,20 @@ I am confident that my problem-solving skills, my ability to learn quickly, and 
 Thank you for your time and consideration. 
 Sincerely, 
 Guillaume
+## Orgvue
+### Draft cover letter:
+To whom it may concern,
+
+I am writing to express my strong interest in the Software Engineer position at Orgvue. The idea of working on a product that solves challenging problems is very appealing to me.
+
+In my previous role as senior transport modeller at Arup, while in a slightly different field, I gained a strong foundation in problem-solving and a first experience of web development working alongside the city modelling team to create a web dashboard (built with React and Python). In my day to day job, I also got direct experience querying and analysing big data sets using SQL which I believe are skills transferable to building performant web experiences and working with data insights. I am eager to learn and grow, and I know I can quickly pick up new tools and technologies, which aligns with your focus on a growth mindset. 
+
+My passion in software engineering goes beyond my professional experience. I am currently developing a climbing workout tracker app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach with future backend data backup. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
+
+I am also building a web app to track Santander Cycles and docking space availability. Which also features an improved search. It is built with React for the frontend, Node.js/Express for the backend REST API, and a PostgreSQL database. GitHub: https://github.com/Portavion/velock
+
+I am eager to work in a dynamic and collaborative environment, and I am particularly drawn to the one-on-one mentoring and professional growth opportunities that Orgvue offers. I am confident that my problem-solving skills, my passion for learning, and my experience with relevant technologies make me a strong candidate for this role.
+
+Thank you for your time and consideration. 
+Sincerely, 
+Guillaume
