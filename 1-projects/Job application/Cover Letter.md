@@ -30,15 +30,14 @@ To whom it may concern,
 
 Thank you for the opportunity to apply for a Software Engineer role at Laka. I've had questionable experiences with bike insurance in the past so your mission to build a better insurance resonates with me.
 
-In my previous role as senior transport modeller at Arup, while in a slightly different field, I gained a strong foundation in problem-solving and a first experience of web development working alongside the city modelling team to create a web dashboard (built with React and Python). I also had first-hand experience using SQL to query and analyse large data sets during my day to day work. This, combined with my passion for software engineering, makes me confident that I have the skills to excel in this role. 
-I am particularly interested in Laka's tech stack, having prior experience with Node.js, React, SQL and currently learning Golang.
+In my previous role as senior transport modeller at Arup, while in a slightly different field, I gained a strong foundation in problem-solving and a first experience of web development working alongside the city modelling team to create a web dashboard (built with React and Python). In my day to day job, I also got direct experience querying and analysing big data sets using SQL. This, combined with my passion for software engineering, makes me confident that I have the skills to excel in this role. 
+I am also particularly interested in Laka's tech stack, having prior experience with Node.js, React, SQL and currently learning Golang.
 
-My personal projects further demonstrate my capabilities: 
-* **Chalkr (https://github.com/Portavion/Chalkr):** A climbing workout tracker app built with React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach. This projects showcase my frontend development skills and ability to build robust applications. 
+My passion in software engineering goes beyond my professional experience. I am currently developing a climbing workout tracker app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach with future backend data backup. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
 
-* **Velock (https://github.com/Portavion/velock):** A web app tracking Santander Cycles and docking space availability, featuring an improved search. It is built with React, Node.js / Express with a PostgreSQL database. This project shows my experience with fullstack development. 
+I am also building a web app to track Santander Cycles and docking space availability. Which also features an improved search. It is built with React for the frontend, Node.js/Express for the backend REST API, and a PostgreSQL database. GitHub: https://github.com/Portavion/velock
 
-I am comfortable working in a remote-first environment and am eager to collaborate with your team. I am confident that my experience with Node.js, React and SQL, coupled with my enthusiasm for building great software, makes me a great fit for this role. Thank you for your time and consideration. 
+I am comfortable working in a remote-first environment and I am confident that my analytical skills, with my passion for software development make me a strong candidate for this role. I am looking forward to bringing enthusiasm and dedication to your team. Thank you for your time and consideration. 
 
 Sincerely, 
 Guillaume
