@@ -62,6 +62,6 @@ I hope you find these projects as interesting as I found building them and I wou
 
 ## Let's do this
 ### How did I embody one of their values:
-In my previous role at Arup, we faced a significant challenge with one of our microsimulation modelling process for a large p Gatwick Airport. The software's data import was incredibly slow, taking over three hours for large datasets. Instead of accepting this inefficiency, I invested time in developing Python scripts that automated and optimized the process, reducing import times to under ten minutes.
+In my previous role at Arup, I faced a significant challenge with one of our microsimulation modelling process for a large project in Gatwick Airport. The large model was pushing the limit of the softwares COM interface and was slowing down the process of importing data into the model and processing results.. Instead of crawling through repetitive painful imports I invested time in developing Python scripts that greatly optimised the process , reducing import times to just under ten minutes. 
 
-This wasn't just a short-term fix. By creating reusable tools, I ensured long-term efficiency for our team. We could then focus on analysis and calibration, delivering higher-quality models. This approach embodies Confluent's 'Relentlessly Long Termist' value by prioritizing sustainable solutions and continuous improvement."
+This wasn't just a short-term fix. By creating reusable tools, I ensured long-term efficiency for the modelling team. We could then focus on analysis and calibration, delivering higher-quality models. I believe this approach embodies Confluent's Relentlessly Long Termist value by prioritising sustainable solutions and continuous improvement.

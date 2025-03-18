@@ -85,14 +85,14 @@
             "id": "a78509322115d3f2",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.budgetbytes.com/easy-vegetable-beef-soup/",
-                "title": "Easy Vegetable Beef Soup - Budget Bytes",
-                "mode": "webview"
+                "file": "1-projects/Job application/Todoist Application Questions.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Easy Vegetable Beef Soup - Budget Bytes"
+              "icon": "lucide-file",
+              "title": "Todoist Application Questions"
             }
           }
         ],
@@ -312,11 +312,11 @@
   },
   "active": "4da522a202a8d608",
   "lastOpenFiles": [
+    "1-projects/Job application/Todoist Application Questions.md",
     "1-projects/Job application/Potential Interview Questions.md",
     "1-projects/Job application/Cover Letter.md",
     "4-archives/weekly-notes/2025-W11.md",
     "4-archives/Burner/App ideas.md",
-    "1-projects/Job application/Todoist Application Questions.md",
     "3-resources/keyboard/Miryoku layout.md",
     "1-projects/Job application",
     "2-areas/Micron Mastering/Leads/godleecharles. (@godleecharles).md",
