@@ -60,13 +60,13 @@ The app lets you create custom lists of stations – I have one for "Home," "Wor
 
 I hope you find these projects as interesting as I found building them and I would love to discuss them further if you were interested.
 ### **What makes you the best fit for this role?**
-I believe I'm the best fit for this role due to the combination of being able to learn quickly, receive feedback and act on it, as well as my strong foundation in data analysis.
+I think my excellent background in data analysis, with my ability to pick things up quickly and receive / act on feedback, make me the greatest candidate for this role.
 
-I taught myself web development, including JavaScript, React, Node.js, and database technologies, demonstrating my ability to quickly acquire and apply new skills. In a rapidly evolving field like carbon removal, this adaptability is crucial.
+I taught myself web development, including JavaScript, React, Node.js, and database technologies, demonstrating my ability to quickly get and apply new skills. 
 
-Secondly, my extensive experience in data analysis through transport modeling has equipped me with a keen eye for detail and strong problem-solving skills. I'm adept at identifying patterns, troubleshooting issues, and ensuring data accuracy, which are essential for building reliable and robust applications.
+Second, I have extensive experience in data analysis through transport modelling. This equipped me with an eye for detail and good problem-solving skills. I'm adept at identifying patterns, troubleshooting issues, and ensuring data accuracy, which are essential for building reliable and robust applications.
 
-Finally, my personal projects, like the 'Chalkr' climbing app and the 'velock' Santander Cycles tracker, showcase my ability to work across the full stack. I've successfully implemented front-end interfaces, designed back-end APIs, and managed databases, demonstrating my practical experience in building complete web applications.
+Finally, my personal projects showcase my ability to work across the stack. I've successfully implemented front-end interfaces, designed back-end APIs, and managed databases, showing practical experience in building complete web applications. Feel free to have a look through the github repos. I'd be happy to discuss those projects in more details. (https://github.com/Portavion/Chalkr and https://github.com/Portavion/velock)
 
-I'm confident that my ability to learn quickly, my analytical mindset, and my hands-on development experience make me an ideal candidate to contribute to Supercritical's mission and thrive in your dynamic engineering environment.
+I'm confident that my ability to learn quickly and my analytical mindset make me an ideal candidate to contribute to Supercritical and thrive in a dynamic environment.
 
