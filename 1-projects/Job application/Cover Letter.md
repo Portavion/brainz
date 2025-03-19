@@ -165,11 +165,11 @@ I am writing to express my interest in the Application Development Engineer posi
 
 I believe my experience in fullstack development, particularly with React, Node.js, and PostgreSQL aligns with the requirements for this role as demonstrated in my personal projects. Chalkr, an iOS climbing app (built with React Native/Expo, Firebase Auth, SQLite) https://github.com/Portavion/Chalkr  Velock, a Santander Cycles search / availability tracker (React, Node.js/Express, PostgreSQL) https://github.com/Portavion/velock 
 
-In my previous role as a Senior Transport Modeller at Arup, I gained valuable experience in data analysis and problem-solving, which are essential for understanding and shaping features in a data-driven environment. Additionally, my exposure to Python and web development using React and Node.js within the city modelling team provided me with practical experience in building data visualization tools. 
+In my previous role as a Senior Transport Modeller at Arup, I gained valuable experience in data analysis and problem-solving. Additionally, my exposure to web development within the city modelling team provided me with practical experience in building data visualisation tools. 
 
-I am particularly drawn to Vortexa's commitment to innovation and its fast-paced, startup environment. I am a self-driven and proactive engineer who thrives in collaborative environments and is eager to learn and contribute to a growing engineering culture. My ability to quickly learn new technologies, as evidenced by my self-taught proficiency in JavaScript, React, and Node.js, makes me confident that I can rapidly contribute to your team. 
+I am attracted to Vortexa's fast-paced, startup environment. I am a self-driven, proactive and thrive in collaborative environments. I believe my ability to quickly learn new technologies will help me rapidly contribute to the team. 
 
-I am confident that my skills in JavaScript, TypeScript, and database management, combined with my passion for creating impactful solutions, make me an excellent fit for this position. I am eager to contribute to Vortexa's mission and help drive the evolution of your SaaS platform. 
+I am confident that my skills in JavaScript, TypeScript, and database management make me an great fit for this role and I am excited for the opportunity to contribute to Vortexa's mission.
 
 Thank you for your time and consideration. 
 Guillaume
