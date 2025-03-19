@@ -159,11 +159,11 @@ I have a lot of experience in data analysis through my previous role as transpor
 Finally, my personal projects showcase my ability to work across the stack. I've implemented frontend interfaces, designed backend APIs showing experience in building complete web applications. You are welcome to browse the github repos. I would be happy to discuss those projects in more details. (https://github.com/Portavion/Chalkr and https://github.com/Portavion/velock)
 ## Vortexa
 ### Cover Letter:
-Dear Vortexa team, 
-
-I am writing to express my interest in the Application Development Engineer position at Vortexa. Your mission to bring transparency and efficiency to the energy markets through innovative use of satellite data and AI is truly compelling. 
-
-I believe my experience in fullstack development, particularly with React, Node.js, and PostgreSQL aligns with the requirements for this role as demonstrated in my personal projects. Chalkr, an iOS climbing app (built with React Native/Expo, Firebase Auth, SQLite) https://github.com/Portavion/Chalkr  Velock, a Santander Cycles search / availability tracker (React, Node.js/Express, PostgreSQL) https://github.com/Portavion/velock 
+Dear Vortexa team,  
+  
+I am writing to express my interest in the Fullstack Engineer position at Vortexa. I am drawn to your mission to bring transparency and efficiency to the energy markets  
+  
+I believe my experience in fullstack development, particularly with React, Node.js, and PostgreSQL aligns with the requirements for this role - as demonstrated in my personal projects. Chalkr, an iOS climbing app (built with React Native/Expo, Firebase Auth, SQLite) https://github.com/Portavion/Chalkr And Velock, a Santander Cycles search / availability tracker (React, Node.js/Express, PostgreSQL) https://github.com/Portavion/velock
 
 In my previous role as a Senior Transport Modeller at Arup, I gained valuable experience in data analysis and problem-solving. Additionally, my exposure to web development within the city modelling team provided me with practical experience in building data visualisation tools. 
 
