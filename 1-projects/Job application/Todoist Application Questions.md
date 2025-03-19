@@ -59,4 +59,14 @@ I use the Santander Cycles in London all the time, but I was a little frustrated
 The app lets you create custom lists of stations – I have one for "Home," "Work," "Gym," etc. Makes it super quick to check availability. For the search I used a combination of OpenStreetMap's geocoding API and PostGIS, a spatial extension for PostgreSQL. Which gives more accurate results than the official app. It pulls real-time bike availability data from the TfL Open API. I've built it using Nodejs and Express for the backend with a PostgreSQL database. The frontend is built with React. It was fun getting to work with multiple APIs and integrate them into a single app. TfL Open API has an endpoint to search for docking stations but this only allows match on the station name, like the Santader app. An interesting challenge was implementing a better search feature. I've solved this by getting the coordinates of the input address using OpenStreetMap geocoding endpoint. Then leveraging PostGIS to calculate the shortest distance to each docking stations.
 
 I hope you find these projects as interesting as I found building them and I would love to discuss them further if you were interested.
+### **What makes you the best fit for this role?**
+I believe I'm the best fit for this role due to the combination of being able to learn quickly, receive feedback and act on it, as well as my strong foundation in data analysis.
+
+I taught myself web development, including JavaScript, React, Node.js, and database technologies, demonstrating my ability to quickly acquire and apply new skills. In a rapidly evolving field like carbon removal, this adaptability is crucial.
+
+Secondly, my extensive experience in data analysis through transport modeling has equipped me with a keen eye for detail and strong problem-solving skills. I'm adept at identifying patterns, troubleshooting issues, and ensuring data accuracy, which are essential for building reliable and robust applications.
+
+Finally, my personal projects, like the 'Chalkr' climbing app and the 'velock' Santander Cycles tracker, showcase my ability to work across the full stack. I've successfully implemented front-end interfaces, designed back-end APIs, and managed databases, demonstrating my practical experience in building complete web applications.
+
+I'm confident that my ability to learn quickly, my analytical mindset, and my hands-on development experience make me an ideal candidate to contribute to Supercritical's mission and thrive in your dynamic engineering environment.
 
