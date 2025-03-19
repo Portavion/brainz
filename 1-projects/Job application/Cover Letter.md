@@ -111,3 +111,16 @@ I am eager to work in a dynamic and collaborative environment, and I am particul
 Thank you for your time and consideration. 
 Sincerely, 
 Guillaume
+## Suade
+### Cover Letter
+To the Suade Hiring Team, 
+
+I'm writing to express my interest in the Front-end Developer position. The chance to work on challenging is something that appeals to me.
+
+While my background as a senior transport modeller at Arup is different, it gave me a solid foundation in problem-solving and web development. I have contributed on a web dashboard interfacing with our modelling softwares and allowing easy data visualisation for stakeholders. I've worked extensively with SQL to query and analyse large datasets. I'm also a quick learner having taught myself Javascript / React through documentations and I'm confident I can quickly pick up VueJS and other technologies as required. 
+
+Outside of my professional work I am currently developing a climbing workout tracker app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach with future backend data backup. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
+
+I am also building a web app to track Santander Cycles and docking space availability. Which also features an improved search. It is built with React for the frontend, Node.js/Express for the backend REST API, and a PostgreSQL database. GitHub: https://github.com/Portavion/velock
+
+I'm eager to contribute to a team that values high-quality code and test writing. I'm also keen to collaborate with back-end developers and web designers to improve usability. My experience with JavaScript, combined with my problem-solving skills and enthusiasm for learning, makes me a good fit for this position. Thank you for your time and consideration. Sincerely, Guillaume
