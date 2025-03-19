@@ -62,11 +62,11 @@ I hope you find these projects as interesting as I found building them and I wou
 ### **What makes you the best fit for this role?**
 I think my excellent background in data analysis, with my ability to pick things up quickly and receive / act on feedback, make me the greatest candidate for this role.
 
-I taught myself web development, including JavaScript, React, Node.js, and database technologies, demonstrating my ability to quickly get and apply new skills. 
+I taught myself web development, including JavaScript, React, Node.js, and database technologies, which I hope demonstrates my ability to quickly learn and apply new skills. 
 
-Second, I have extensive experience in data analysis through transport modelling. This equipped me with an eye for detail and good problem-solving skills. I'm adept at identifying patterns, troubleshooting issues, and ensuring data accuracy, which are essential for building reliable and robust applications.
+Second, I have a lot of experience in data analysis through transport modelling. This gave me an eye for detail and good problem-solving skills. I am skilled at identifying patterns, debug problems, and ensuring data quality.
 
-Finally, my personal projects showcase my ability to work across the stack. I've successfully implemented front-end interfaces, designed back-end APIs, and managed databases, showing practical experience in building complete web applications. Feel free to have a look through the github repos. I'd be happy to discuss those projects in more details. (https://github.com/Portavion/Chalkr and https://github.com/Portavion/velock)
+Finally, my personal projects showcase my ability to work across the stack. I've implemented frontend interfaces, designed backend APIs showing experience in building complete web applications. You are welcome to browse the github repos. I would be happy to discuss those projects in more details. (https://github.com/Portavion/Chalkr and https://github.com/Portavion/velock)
 
-I'm confident that my ability to learn quickly and my analytical mindset make me an ideal candidate to contribute to Supercritical and thrive in a dynamic environment.
+I am confident my ability to learn quickly on the job and my analytical mindset make me an perfect fit for the role  to contribute to Supercritical and thrive in a dynamic environment.
 
