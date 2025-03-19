@@ -129,3 +129,17 @@ Thank you for your time and consideration.
 
 Sincerely, 
 Guillaume
+## Supercritical
+### Cover letter
+Dear Supercritical Hiring Team, 
+
+I am writing to express my  interest in the Software Engineer position at Supercritical.  It is exactly the kind of job I have been looking for to apply my skills in data analysis whilst continuing the development of my software development knowledge. I am excited for the opportunity to be working closely in a small team as I believe this would drastically speed up development.
+
+Outside of my professional work I am currently developing a climbing app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
+
+I am also building a web app to track Santander Cycles and docking space availability. Which also features an improved search. It is built with React for the frontend, Node.js/Express for the backend REST API, and a PostgreSQL database. GitHub: https://github.com/Portavion/velock
+
+In my previous role as senior transport modeller at Arup I have gained a strong foundation in data analysis and problem-solving. While in a slightly different field, it also gave me a first experience of software development through Python and web development working alongside the city modelling team on a web dashboard (built with React and Node.js) helping stakeholders visualise carbon impact of new policies. I have experience using SQL to query and analyse large data sets within my modelling work. I'm also a quick learner having taught myself Javascript / React through mostly documentations and I'm confident I can quickly pick up any other technologies as required. 
+
+Thank you for your time and consideration. 
+Guillaume
