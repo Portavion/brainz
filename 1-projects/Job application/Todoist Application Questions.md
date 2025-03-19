@@ -60,13 +60,13 @@ The app lets you create custom lists of stations – I have one for "Home," "Wor
 
 I hope you find these projects as interesting as I found building them and I would love to discuss them further if you were interested.
 ### **What makes you the best fit for this role?**
-I think my excellent background in data analysis, with my ability to pick things up quickly and receive / act on feedback, make me the greatest candidate for this role.
+I think my excellent background in data analysis combined my ability to learn quickly and receive / act on feedback make me the best candidate for this role.
 
 I taught myself web development, including JavaScript, React, Node.js, and database technologies, which I hope demonstrates my ability to quickly learn and apply new skills. 
 
-Second, I have a lot of experience in data analysis through transport modelling. This gave me an eye for detail and good problem-solving skills. I am skilled at identifying patterns, debug problems, and ensuring data quality.
+I have a lot of experience in data analysis through my previous role as transport modeller. Which also helped me develop an eye for detail and good problem-solving skills. I am great at identifying patterns, debugging problems, and ensuring the quality of data.
 
 Finally, my personal projects showcase my ability to work across the stack. I've implemented frontend interfaces, designed backend APIs showing experience in building complete web applications. You are welcome to browse the github repos. I would be happy to discuss those projects in more details. (https://github.com/Portavion/Chalkr and https://github.com/Portavion/velock)
 
-I am confident my ability to learn quickly on the job and my analytical mindset make me an perfect fit for the role  to contribute to Supercritical and thrive in a dynamic environment.
+
 
