@@ -144,10 +144,8 @@ In my previous role as senior transport modeller at Arup I have gained a strong 
 Thank you for your time and consideration. 
 Guillaume
 ### **Why do you want to work at Supercritical? What appeals to you about working in a start-up in the sustainability space?**
-I want to work at Supercritical for two main reasons: the opportunity to work in a small, collaborative team environment and Supercritical;s commitment to sustainability.
+The opportunity to work in a small, cooperative team setting and your dedication to sustainability are the two main reasons I wish to work at Supercritical.
 
-I thrive in smaller teams where I feel I can learn and develop my skills more rapidly. My first work experience at Systra was in a small team of 4 other senior colleagues. This facilitated rapid feedback and collaboration which significantly accelerated my learning. I believe joining Supercritical's team of three engineers will provide a similar positive environment.
+I work best in smaller teams where I feel I can learn and develop my skills more rapidly. My first work experience at Systra was in a small team of 4 other senior colleagues. This facilitated rapid feedback and collaboration which significantly accelerated my learning. I believe joining Supercritical's team of three engineers will provide a similar positive environment.
 
-Secondly, Supercritical's mission to scale carbon removal and its dedication to radical transparency in the sustainability space deeply resonates with me. My career change is driven by a desire to align my work with my values. In my previous role at Arup, I witnessed a shift away from environmentally conscious projects, which created a conflict with my personal commitment to sustainability. I'm eager to contribute to a company that genuinely prioritizes environmental impact and is actively working to address climate change.
-
-The start-up environment at Supercritical is particularly appealing because it fosters innovation and allows for rapid iteration. I'm excited by the prospect of working on cutting-edge solutions in a dynamic and fast-paced setting, where I can contribute to building a critical component of the future of sustainability."
+Secondly, Supercritical's dedication to sustainability resonates with me. My career change is partly due to a desire to align work with my values. The transport consulting industry has recently shifted away from environmentally conscious projects to more profitable projects. Which is in conflict with my commitment to sustainability. I'm eager to work for a company that prioritises the environment and is actively working to address climate change.
