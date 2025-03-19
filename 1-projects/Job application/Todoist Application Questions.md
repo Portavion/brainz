@@ -60,8 +60,3 @@ The app lets you create custom lists of stations – I have one for "Home," "Wor
 
 I hope you find these projects as interesting as I found building them and I would love to discuss them further if you were interested.
 
-## Let's do this
-### How did I embody one of their values:
-In my previous role at Arup, I faced a challenge with a few of our modelling process for a large project in Gatwick Airport. The large model was pushing the limit of the softwares official COM interface and was slowing down the process of importing data into the model and processing results. I decided to invest some time to develop Python scripts that greatly optimised the process, reducing import times to just under ten minutes. 
-
-This wasn't just a short-term fix. The improvement meant that we could then focus on analysis and calibration, iterating a lot faster and then deliver higher-quality models. I believe this approach embodies Confluent's Relentlessly Long Termist value by prioritising sustainable solutions and continuous improvement.

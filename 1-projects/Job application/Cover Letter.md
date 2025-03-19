@@ -93,6 +93,7 @@ I am confident that my problem-solving skills, my ability to learn quickly, and 
 Thank you for your time and consideration. 
 Sincerely, 
 Guillaume
+
 ## Orgvue
 ### Draft cover letter:
 To whom it may concern,
