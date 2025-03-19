@@ -157,3 +157,19 @@ I taught myself web development, including JavaScript, React, Node.js, and datab
 I have a lot of experience in data analysis through my previous role as transport modeller. Which also helped me develop an eye for detail and good problem-solving skills. I am great at identifying patterns, debugging problems, and ensuring the quality of data.
 
 Finally, my personal projects showcase my ability to work across the stack. I've implemented frontend interfaces, designed backend APIs showing experience in building complete web applications. You are welcome to browse the github repos. I would be happy to discuss those projects in more details. (https://github.com/Portavion/Chalkr and https://github.com/Portavion/velock)
+## Vortexa
+### Cover Letter:
+Dear Vortexa team, 
+
+I am writing to express my interest in the Application Development Engineer position at Vortexa. Your mission to bring transparency and efficiency to the energy markets through innovative use of satellite data and AI is truly compelling. 
+
+I believe my experience in fullstack development, particularly with React, Node.js, and PostgreSQL aligns with the requirements for this role as demonstrated in my personal projects. Chalkr, an iOS climbing app (built with React Native/Expo, Firebase Auth, SQLite) https://github.com/Portavion/Chalkr  Velock, a Santander Cycles search / availability tracker (React, Node.js/Express, PostgreSQL) https://github.com/Portavion/velock 
+
+In my previous role as a Senior Transport Modeller at Arup, I gained valuable experience in data analysis and problem-solving, which are essential for understanding and shaping features in a data-driven environment. Additionally, my exposure to Python and web development using React and Node.js within the city modelling team provided me with practical experience in building data visualization tools. 
+
+I am particularly drawn to Vortexa's commitment to innovation and its fast-paced, startup environment. I am a self-driven and proactive engineer who thrives in collaborative environments and is eager to learn and contribute to a growing engineering culture. My ability to quickly learn new technologies, as evidenced by my self-taught proficiency in JavaScript, React, and Node.js, makes me confident that I can rapidly contribute to your team. 
+
+I am confident that my skills in JavaScript, TypeScript, and database management, combined with my passion for creating impactful solutions, make me an excellent fit for this position. I am eager to contribute to Vortexa's mission and help drive the evolution of your SaaS platform. 
+
+Thank you for your time and consideration. 
+Guillaume
