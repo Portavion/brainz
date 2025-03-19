@@ -98,7 +98,7 @@ Guillaume
 ### Draft cover letter:
 To whom it may concern,
 
-I am writing to express my strong interest in the Software Engineer position at Orgvue. The idea of working on a product that solves challenging problems is very appealing to me.
+I am writing to express my strong interest in the Software Engineer position at Orgvue. 
 
 In my previous role as senior transport modeller at Arup, while in a slightly different field, I gained a strong foundation in problem-solving and a first experience of web development working alongside the city modelling team to create a web dashboard (built with React and Python). In my day to day job, I also got direct experience querying and analysing big data sets using SQL which I believe are skills transferable to building performant web experiences and working with data insights. I am eager to learn and grow, and I know I can quickly pick up new tools and technologies, which aligns with your focus on a growth mindset. 
 
@@ -115,12 +115,17 @@ Guillaume
 ### Cover Letter
 To the Suade Hiring Team, 
 
-I'm writing to express my interest in the Front-end Developer position. The chance to work on challenging is something that appeals to me.
+I'm writing to express my interest in the Front-end Developer position. It is exactly the kind of job I have been looking for to apply my skills in data analysis whilst continuing the development of my software development knowledge.
 
-While my background as a senior transport modeller at Arup is different, it gave me a solid foundation in problem-solving and web development. I have contributed on a web dashboard interfacing with our modelling softwares and allowing easy data visualisation for stakeholders. I've worked extensively with SQL to query and analyse large datasets. I'm also a quick learner having taught myself Javascript / React through documentations and I'm confident I can quickly pick up VueJS and other technologies as required. 
+While my background as a senior transport modeller at Arup is different, it gave me a great foundation in problem-solving and data analysis. I have contributed on a web dashboard interfacing with our modelling softwares and allowing easy data visualisation for stakeholders. I've worked extensively with SQL to query and analyse large datasets. I'm also a quick learner having taught myself Javascript / React through documentations and I'm confident I can quickly pick up VueJS and other technologies as required. 
 
-Outside of my professional work I am currently developing a climbing workout tracker app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach with future backend data backup. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
+Outside of my professional work I am currently developing a climbing app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
 
 I am also building a web app to track Santander Cycles and docking space availability. Which also features an improved search. It is built with React for the frontend, Node.js/Express for the backend REST API, and a PostgreSQL database. GitHub: https://github.com/Portavion/velock
 
-I'm eager to contribute to a team that values high-quality code and test writing. I'm also keen to collaborate with back-end developers and web designers to improve usability. My experience with JavaScript, combined with my problem-solving skills and enthusiasm for learning, makes me a good fit for this position. Thank you for your time and consideration. Sincerely, Guillaume
+I'm eager to contribute to a team that values high-quality code and test writing. I trus my experience with JavaScript / TypeScript, combined with my problem-solving skills and enthusiasm for learning, makes me a good fit for this position. 
+
+Thank you for your time and consideration. 
+
+Sincerely, 
+Guillaume
