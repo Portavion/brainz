@@ -59,14 +59,7 @@ I use the Santander Cycles in London all the time, but I was a little frustrated
 The app lets you create custom lists of stations – I have one for "Home," "Work," "Gym," etc. Makes it super quick to check availability. For the search I used a combination of OpenStreetMap's geocoding API and PostGIS, a spatial extension for PostgreSQL. Which gives more accurate results than the official app. It pulls real-time bike availability data from the TfL Open API. I've built it using Nodejs and Express for the backend with a PostgreSQL database. The frontend is built with React. It was fun getting to work with multiple APIs and integrate them into a single app. TfL Open API has an endpoint to search for docking stations but this only allows match on the station name, like the Santader app. An interesting challenge was implementing a better search feature. I've solved this by getting the coordinates of the input address using OpenStreetMap geocoding endpoint. Then leveraging PostGIS to calculate the shortest distance to each docking stations.
 
 I hope you find these projects as interesting as I found building them and I would love to discuss them further if you were interested.
-### **What makes you the best fit for this role?**
-I think my excellent background in data analysis combined my ability to learn quickly and receive / act on feedback make me the best candidate for this role.
 
-I taught myself web development, including JavaScript, React, Node.js, and database technologies, which I hope demonstrates my ability to quickly learn and apply new skills. 
-
-I have a lot of experience in data analysis through my previous role as transport modeller. Which also helped me develop an eye for detail and good problem-solving skills. I am great at identifying patterns, debugging problems, and ensuring the quality of data.
-
-Finally, my personal projects showcase my ability to work across the stack. I've implemented frontend interfaces, designed backend APIs showing experience in building complete web applications. You are welcome to browse the github repos. I would be happy to discuss those projects in more details. (https://github.com/Portavion/Chalkr and https://github.com/Portavion/velock)
 
 
 

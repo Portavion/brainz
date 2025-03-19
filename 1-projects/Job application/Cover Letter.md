@@ -149,3 +149,11 @@ The opportunity to work in a small, cooperative team setting and your dedication
 I work best in smaller teams where I feel I can learn and develop my skills much quicker. I started out at Systra in a small team with 4 other senior colleagues. This made it easy to collaborate and get quick feedback, which greatly increase my learning speed. I believe joining Supercritical's team of three engineers will create a similar positive environment.
 
 Second, I align with Supercritical's commitment to sustainability. My career change is partly due to a desire to match work to my values. The transport consulting industry has recently shifted away from environmentally conscious projects to more profitable projects. Which is in conflict with my commitment to sustainability. I'm excited to work with an organization that values the environment and is taking proactive steps to combat climate change.
+### **What makes you the best fit for this role?**
+I think my excellent background in data analysis combined my ability to learn quickly and receive / act on feedback make me the best candidate for this role.
+
+I taught myself web development, including JavaScript, React, Node.js, and database technologies, which I hope demonstrates my ability to quickly learn and apply new skills. 
+
+I have a lot of experience in data analysis through my previous role as transport modeller. Which also helped me develop an eye for detail and good problem-solving skills. I am great at identifying patterns, debugging problems, and ensuring the quality of data.
+
+Finally, my personal projects showcase my ability to work across the stack. I've implemented frontend interfaces, designed backend APIs showing experience in building complete web applications. You are welcome to browse the github repos. I would be happy to discuss those projects in more details. (https://github.com/Portavion/Chalkr and https://github.com/Portavion/velock)
