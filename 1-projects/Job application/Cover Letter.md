@@ -117,7 +117,7 @@ To the Suade Hiring Team,
 
 I'm writing to express my interest in the Front-end Developer position. It is exactly the kind of job I have been looking for to apply my skills in data analysis whilst continuing the development of my software development knowledge.
 
-While my background as a senior transport modeller at Arup is different, it gave me a great foundation in problem-solving and data analysis. I have contributed on a web dashboard interfacing with our modelling softwares and allowing easy data visualisation for stakeholders. I've worked extensively with SQL to query and analyse large datasets. I'm also a quick learner having taught myself Javascript / React through documentations and I'm confident I can quickly pick up VueJS and other technologies as required. 
+In my previous role as senior transport modeller at Arup I have gained a strong foundation in data analysis and problem-solving. While in a slightly different field, it also gave me a first experience of software development through Python and web development working alongside the city modelling team on a web dashboard (built with React and Node.js) helping stakeholders visualise carbon impact of new policies. I have experience using SQL to query and analyse large data sets within my modelling work. I'm also a quick learner having taught myself Javascript / React through mostly documentations and I'm confident I can quickly pick up VueJS and other technologies as required. 
 
 Outside of my professional work I am currently developing a climbing app using React Native/Expo, Firebase Auth, and SQLite, focusing on an offline-first approach. You can find more on the project's GitHub repo here: https://github.com/Portavion/Chalkr
 
