@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Job application/Todoist Application Questions.md",
+                "file": "1-projects/Job application/Cover Letter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Todoist Application Questions"
+              "title": "Outline of Cover Letter"
             }
           },
           {
@@ -308,10 +308,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4da522a202a8d608",
+  "active": "a2611319e60b78fd",
   "lastOpenFiles": [
-    "1-projects/Job application/Cover Letter.md",
     "1-projects/Job application/Todoist Application Questions.md",
+    "1-projects/Job application/Cover Letter.md",
     "1-projects/Job application/Potential Interview Questions.md",
     "2-areas/Micron Mastering/Leads/godleecharles. (@godleecharles).md",
     "3-resources/guitar/Bernth - 30 day speed builder.md",
