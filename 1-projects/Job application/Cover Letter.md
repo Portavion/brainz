@@ -203,3 +203,10 @@ I am confident that my skills in TypeScript, React,  SQL databases make me a goo
 
 Thank you for your time and consideration. 
 Guillaume
+## Terra API
+
+What interestd me most about Terra is your product. I am actually in the process of building a mobile climbing / bouldering 
+
+What interests me most about Terra API is the compelling fusion of health data, innovative UI/UX design, and your dynamic, customer-centric approach. Your mission to build the foundational infrastructure for health data resonates deeply, particularly as I’m passionate about fitness and data analysis. I’m eager to tackle the challenges of crafting intuitive interfaces and contributing to a platform that empowers users with meaningful health insights. The fact that I am currently developing a climbing/bouldering app because I found existing fitness data insights lacking shows my dedication to the space.
+
+Terra's emphasis on speed, relentless pursuit of excellence, and a culture that values continuous learning aligns perfectly with my own professional aspirations. I thrive in fast-paced environments where I can quickly develop my skills and make a tangible impact. The opportunity to transition into a career that aligns with my passions, while contributing to a mission-driven team, is incredibly exciting. I’m confident that my ability to approach engineering as a craft, combined with my customer-first mindset, would make me a valuable asset to Terra.
