@@ -205,7 +205,7 @@ Thank you for your time and consideration.
 Guillaume
 ## Terra API
 
-What interestd me most about Terra is your product. I am actually in the process of building a mobile climbing / bouldering 
+What interested me most about Terra is the product. I am actually in the process of building a mobile climbing / bouldering workout tracker and did a little bit of research as to how I could retrieve wearable data, and it was not looking pretty. I'm a bit of a data geek and was a bit disappointed with what Garmin provides for bouldering compared to activities like Running or cycling so decided to build my own solution. 
 
 What interests me most about Terra API is the compelling fusion of health data, innovative UI/UX design, and your dynamic, customer-centric approach. Your mission to build the foundational infrastructure for health data resonates deeply, particularly as I’m passionate about fitness and data analysis. I’m eager to tackle the challenges of crafting intuitive interfaces and contributing to a platform that empowers users with meaningful health insights. The fact that I am currently developing a climbing/bouldering app because I found existing fitness data insights lacking shows my dedication to the space.
 
