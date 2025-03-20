@@ -235,3 +235,18 @@ I am currently working on a couple personal projects if you wish to see more.
 
 Have a great day,
 Guillaume
+## Tipalti
+Dear hiring team, 
+
+I am writing to express my interest in the Software Engineer position.
+
+I believe my experience in fullstack development, particularly with React, Node.js, and SQL, aligns with the requirements for this role - as demonstrated in my personal projects. Chalkr, an iOS climbing app (built with React Native/Expo, Firebase Auth, SQLite) [https://github.com/Portavion/Chalkr](https://github.com/Portavion/Chalkr). And Velock, a Santander Cycles search / availability tracker (React, Node.js/Express, PostgreSQL) [https://github.com/Portavion/velock](https://github.com/Portavion/velock). 
+
+In my previous role as a Senior Transport Modeller at Arup, I gained valuable experience in data analysis and problem-solving. Additionally, my exposure to web development within the city modelling team provided me with practical experience in building data visualisation tools. 
+
+I am a self-driven, proactive, and thrive in collaborative environments. I believe my ability to quickly learn new technologies will help me rapidly contribute to the team. 
+
+I am confident that my skills in TypeScript, React, and Nodejs make me a good fit for this role, and I am excited for the opportunity to contribute to Tipalti's mission while improving my technical skills. 
+
+Thank you for your time and consideration. 
+Guillaume
