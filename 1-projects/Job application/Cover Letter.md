@@ -223,4 +223,15 @@ The innovative one-way system, combined with the efficient communication strateg
 
 For a masterplan design project for the principality of Monaco. I was faced with the challenge of transforming the car centric transport network into a more pedestrian-friendly environment. To tackle this, I came up with an unconventional one-way traffic system with strategic two-way bypasses, leveraging my traffic modelling expertise. This allowed us to reclaim entire traffic lanes for expanded pedestrian walkways and greenery. We were able to demonstrate the feasibility of the solution through rapid traffic modelling and the design significantly exceeded client expectations. This led to us winning the next design stage. Just as with the Gatwick project, where I hacked the software limitations this project shows my ability to rapidly implement effective, unconventional solutions to complex problems.
 ## Y combinator startups pitch:
-Hi Abdallah, my name is Guillaume Portalier. I'm transitioning from a senior transport modeller role, where I gained strong data analysis and problem-solving skills, to pursue a career in software engineering. I'm want to join a fast-paced startup with a small, collaborative team, as I believe this environment will accelerate my learning and allow me to thrive and make a significant impact. I have fullstack experience with React, React Native, and Node.js although prefer backend development. I excel at rapidly picking up new skills and technologies.
+Hi Abdallah, my name is Guillaume Portalier. I'm transitioning from a senior transport modeller role, where I gained strong data analysis and problem-solving skills, to pursue a career in software engineering. 
+
+I want to join a fast-paced startup with a small, collaborative team, as I believe this environment will accelerate my learning and allow me to thrive and make a significant impact. 
+
+I have fullstack experience with React, React Native, and Node.js although prefer backend development. I excel at rapidly picking up new skills and technologies.
+
+I am currently working on a couple personal projects if you wish to see more. 
+- A climbing iOS app: https://github.com/Portavion/Chalkr
+- A Santander cycle tracker: https://github.com/Portavion/velock
+
+Have a great day,
+Guillaume
