@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-resources/cleaning/Untitled.md",
+                "file": "3-resources/cleaning/Cleaning Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Cleaning Tips"
             }
           }
         ],
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/cleaning/Untitled.md",
+                "file": "3-resources/cleaning/Cleaning Tips.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Cleaning Tips"
             }
           },
           {
@@ -311,7 +311,7 @@
   "active": "a2611319e60b78fd",
   "lastOpenFiles": [
     "1-projects/Job application/Cover Letter.md",
-    "3-resources/cleaning/Untitled.md",
+    "3-resources/cleaning/Cleaning Tips.md",
     "3-resources/cleaning",
     "1-projects/Job application/Todoist Application Questions.md",
     "1-projects/Job application/Potential Interview Questions.md",

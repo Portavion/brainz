@@ -4,7 +4,7 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "mobileQuickRibbonItem": "",
-  "vimMode": false,
+  "vimMode": true,
   "showLineNumber": true,
   "readableLineLength": false,
   "defaultViewMode": "preview",
