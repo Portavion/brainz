@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 2,853 Followers, 462 Following, 32 Posts - Ivoo (@ivoo_kft) on Instagram: "FR Trap soul | 808 | 432Hz Nuit froide disponible Lien ici👇"
 # Notes
-- [ ] Send Initial DM (@2025-03-13)
+- [x] Send Initial DM (@2025-03-13)
 # DM Feed

@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 676 Followers, 7,839 Following, 444 Posts - LtL (@716buff_) on Instagram: "Forever for June 💔🐉"
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

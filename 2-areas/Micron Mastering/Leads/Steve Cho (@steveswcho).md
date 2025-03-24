@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 478 Followers, 1,330 Following, 7 Posts - Steve Cho (@steveswcho) on Instagram: ""
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

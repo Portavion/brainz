@@ -22,5 +22,5 @@ Qualified: "TBC"
 @harrisonpaulfitness 
 I don’t want to look good, I want to BE good when NOBODY is looking."
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

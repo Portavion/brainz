@@ -22,7 +22,7 @@ Qualified: Qualified
 # Notes
 - [x] Send Initial DM (@2025-02-25)
 - [x] chase on current song (@2025-03-05)
-- [ ] follow up on trying me for next two tracks (@2025-03-18)
+- [x] follow up on trying me for next two tracks (@2025-03-18)
 # DM Feed
 Thanks a lot man, appreciate it. Off course, feel free to send stuff my way, always happy to take a listen and give some feedback. Did you get it mixed already? My email is guillaume@micronmastering.com  
   

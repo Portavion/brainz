@@ -23,7 +23,7 @@ V-MIC rap group member"
 # Notes
 - [x] Send Initial DM (@2025-02-22)
 - [x] follow up for mastering (@2025-03-25)
-- [ ] Follow up on ep wrinting (@2025-03-24)
+- [x] Follow up on ep wrinting (@2025-03-24)
 # DM Feed
 
 **Me** Hey, thx for the follow. Just checked out Hada howa lGame and it's dope! Cool music video too. Are you working on any new tracks? (Yesterday at 1:17 AM)

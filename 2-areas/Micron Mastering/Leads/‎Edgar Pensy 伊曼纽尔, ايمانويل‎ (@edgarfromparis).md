@@ -21,5 +21,5 @@ Qualified: TBC
 215K Followers, 6,565 Following, 667 Posts - ‎Edgar Pensy 伊曼纽尔, ايمانويل (@edgarfromparis)‎ on Instagram: "Certified by God, i do it "for the culture" 🦁👑🖼🤟🏽🎸
 📧 Mgmt: hi@edgarpensy.com"
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

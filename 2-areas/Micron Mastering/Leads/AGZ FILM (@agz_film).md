@@ -21,5 +21,5 @@ Qualified: "TBC"
 196 Followers, 493 Following, 26 Posts - AGZ FILM (@agz_film) on Instagram: "🎥 12K | Colorist | Editor DM or Email for bookings/enquiries
 @agz_commercials"
 # Notes
-- [ ] Send Initial DM (@2025-03-12)
+- [x] Send Initial DM (@2025-03-12)
 # DM Feed

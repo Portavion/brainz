@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 1,997 Followers, 3,543 Following, 47 Posts - godleecharles. (@godleecharles) on Instagram: ""
 # Notes
-- [ ] Send Initial DM (@2025-03-13)
+- [x] Send Initial DM (@2025-03-13)
 # DM Feed

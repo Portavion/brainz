@@ -1,3 +1,4 @@
+# Deploying on Cloudflare Pages
 ```bash
 # Install Wrangler CLI
 npm install -g wrangler
