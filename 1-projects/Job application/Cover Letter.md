@@ -222,7 +222,19 @@ Leveraging my understanding of traffic modelling, I proposed an unconventional s
 The innovative one-way system, combined with the efficient communication strategy, enabled us to deliver a  showcasing my ability to apply unconventional thinking and diverse skills to achieve exceptional results.
 
 For a masterplan design project for the principality of Monaco. I was faced with the challenge of transforming the car centric transport network into a more pedestrian-friendly environment. To tackle this, I came up with an unconventional one-way traffic system with strategic two-way bypasses, leveraging my traffic modelling expertise. This allowed us to reclaim entire traffic lanes for expanded pedestrian walkways and greenery. We were able to demonstrate the feasibility of the solution through rapid traffic modelling and the design significantly exceeded client expectations. This led to us winning the next design stage. Just as with the Gatwick project, where I hacked the software limitations this project shows my ability to rapidly implement effective, unconventional solutions to complex problems.
-###
+### Y combinator pitch (Terra API)
+Hi Kyriakos, 
+
+My name is Guillaume Portalier. I'm transitioning from a senior transport modeller role, where I mostly focused on data analysis to pursue a career in software engineering.
+
+I want to join a fast-paced startup with a small, collaborative team, as I believe this environment will accelerate my learning and allow me to thrive and make a significant impact.
+
+I have fullstack experience with React, React Native, and Node.js although prefer backend development. I am great at rapidly picking up new skills and technologies.
+
+I am actually in the process of building a mobile climbing / bouldering workout tracker so that aligns quite well with TerraAPI. I did a little bit of research as to how I could retrieve wearable data, and it was not looking pretty. I'm a bit of a data geek and was a bit disappointed with what Garmin provides for bouldering compared to activities like Running or cycling so decided to build my own solution. You can find out more on the github repo: https://github.com/Portavion/Chalkr
+
+Have a great day,
+Guillaume
 ## Y combinator startups pitch:
 Hi Abdallah, my name is Guillaume Portalier. I'm transitioning from a senior transport modeller role, where I gained strong data analysis and problem-solving skills, to pursue a career in software engineering. 
 
