@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Job application/Cover Letter.md",
+                "file": "0-inbox/Deploying on Cloudflare Pages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter"
+              "title": "Deploying on Cloudflare Pages"
             }
           }
         ],
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Job application/Cover Letter.md",
+                "file": "0-inbox/Deploying on Cloudflare Pages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cover Letter"
+              "title": "Outline of Deploying on Cloudflare Pages"
             }
           },
           {
@@ -310,13 +310,15 @@
   },
   "active": "a2611319e60b78fd",
   "lastOpenFiles": [
+    "0-inbox/Do Your Own Setups 8 Tools You Need.md",
+    "0-inbox/How to build a background timer in ExpoReact Native without ejecting.md",
+    "1-projects/Job application/Cover Letter.md",
     "1-projects/Job application/Potential Interview Questions.md",
     "1-projects/Job application/Todoist Application Questions.md",
     "0-inbox/Deploying on Cloudflare Pages.md",
     "1-projects/Job application/CV - Resume Tips and Templates.md",
     "Untitled",
     "3-resources/cleaning/Cleaning Tips.md",
-    "1-projects/Job application/Cover Letter.md",
     "3-resources/cleaning",
     "2-areas/Micron Mastering/Leads/godleecharles. (@godleecharles).md",
     "3-resources/guitar/Bernth - 30 day speed builder.md",
@@ -337,8 +339,6 @@
     "2-areas/Micron Mastering/Leads/Herson Studio 🎧 (@herson_studio).md",
     "2-areas/Micron Mastering/Leads/Molene (@holymolene).md",
     "2-areas/Micron Mastering/Leads/El De La (@junedelarose).md",
-    "2-areas/Micron Mastering/Leads/Noah Hancock (@_hancock34).md",
-    "2-areas/Micron Mastering/Leads/Ivoo (@ivoo_kft).md",
     "3-resources/keyboard/attachments/CleanShot 2025-03-05 at 10.57.21@2x.png",
     "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 12.57.56@2x.png",
     "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 12.53.04@2x.png",
