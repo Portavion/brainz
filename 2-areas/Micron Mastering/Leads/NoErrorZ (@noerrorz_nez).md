@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 563 Followers, 1,642 Following, 17 Posts - NoErrorZ (@noerrorz_nez) on Instagram: "Artistic Purposes Only 🚫🚫🚫"
 # Notes
-- [ ] Send Initial DM (@2025-03-05)
+- [x] Send Initial DM (@2025-03-05)
 # DM Feed

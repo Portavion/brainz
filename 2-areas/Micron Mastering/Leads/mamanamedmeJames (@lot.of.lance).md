@@ -22,5 +22,5 @@ Qualified: TBC
 # Notes
 - [x] Send Initial DM (@2025-03-04)
 - [x] follow up (@2025-03-10)
-- [ ] follow for mix / master (@2025-03-11)
+- [x] follow for mix / master (@2025-03-11)
 # DM Feed

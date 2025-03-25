@@ -24,5 +24,5 @@ Qualified: "TBC"
 📌 | Rennes, Fr
 ⬇️ BUY BEATS ⬇️"
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

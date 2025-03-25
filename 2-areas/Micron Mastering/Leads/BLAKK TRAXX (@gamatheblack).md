@@ -21,5 +21,5 @@ Qualified: "TBC"
 1,635 Followers, 2,211 Following, 26 Posts - BLAKK TRAXX (@gamatheblack) on Instagram: "Recording & Mixing at @brixtonrecordingstudios 
 link below👇🏿Book Now👇🏿 @brxtnvillagestudios"
 # Notes
-- [ ] Send Initial DM (@2025-03-05)
+- [x] Send Initial DM (@2025-03-05)
 # DM Feed

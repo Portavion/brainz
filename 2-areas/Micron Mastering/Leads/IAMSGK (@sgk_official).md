@@ -24,5 +24,5 @@ Aatam Aarambam from 26th MARCH💿
 Nothing to lose everything to win ☝🏽😈
 ıllıllı 🅻🅰🆃🅴🆂🆃 🆁🅴🅻🅴🅰🆂🅴 🅻🅸🅽🅺 🔻"
 # Notes
-- [ ] Send Initial DM (@2025-03-08)
+- [x] Send Initial DM (@2025-03-08)
 # DM Feed

@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 1,010 Followers, 1,336 Following, 1 Posts - Dleek (@dlee__k) on Instagram: "Djouldi"
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

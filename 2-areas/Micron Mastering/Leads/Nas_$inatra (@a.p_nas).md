@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 1,334 Followers, 1,436 Following, 17 Posts - Nas_$inatra (@a.p_nas) on Instagram: "God gives his hardest battles to his strongest soldiers ‼️ #apnas #apthemovement #allprofit"
 # Notes
-- [ ] Send Initial DM (@2025-03-07)
+- [x] Send Initial DM (@2025-03-07)
 # DM Feed

@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 144 Followers, 366 Following, 10 Posts - Sean Quest (@seanquest) on Instagram: "Just 🇬🇾"
 # Notes
-- [ ] Send Initial DM (@2025-03-07)
+- [x] Send Initial DM (@2025-03-07)
 # DM Feed

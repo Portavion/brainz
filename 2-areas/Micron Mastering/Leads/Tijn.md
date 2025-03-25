@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 
 # Notes
-- [ ] Follow up(@2025-03-05)
+- [x] Follow up(@2025-03-05)
 # DM Feed

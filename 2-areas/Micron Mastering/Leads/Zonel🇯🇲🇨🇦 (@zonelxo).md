@@ -24,5 +24,5 @@ Qualified: "TBC"
 🎹🎸Instrumentalist
 👇🏾Check out my Beatstars, YouTube, Spotify + more"
 # Notes
-- [ ] Send Initial DM (@2025-03-05)
+- [x] Send Initial DM (@2025-03-05)
 # DM Feed

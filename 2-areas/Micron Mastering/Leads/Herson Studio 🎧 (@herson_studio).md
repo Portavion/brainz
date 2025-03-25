@@ -23,5 +23,5 @@ Qualified: "TBC"
 Studio Asnières -Paris
 Lien 👇🏽"
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

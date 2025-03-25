@@ -22,5 +22,5 @@ Qualified: Qualified
 
 Cool! Well those are all genres I work with regularly (blues maybe less so to be completely honest). Do you work with a label, collective or something?
 # Notes
-- [ ] Follow up (@2025-03-05)
+- [x] Follow up (@2025-03-05)
 # DM Feed

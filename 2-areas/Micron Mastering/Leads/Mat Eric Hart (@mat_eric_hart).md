@@ -23,5 +23,5 @@ Listening...
 in 🇫🇷
 Subscribe & Support 🔗"
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

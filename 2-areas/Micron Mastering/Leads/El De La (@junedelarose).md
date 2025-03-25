@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 4,298 Followers, 4,526 Following, 13 Posts - El De La (@junedelarose) on Instagram: "🇩🇴"
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

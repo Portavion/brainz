@@ -22,5 +22,5 @@ Qualified: "TBC"
 Solo project: @illstrtd 
 mgmt: daniel@flagrantartists.com 📠"
 # Notes
-- [ ] Send Initial DM (@2025-03-06)
+- [x] Send Initial DM (@2025-03-06)
 # DM Feed

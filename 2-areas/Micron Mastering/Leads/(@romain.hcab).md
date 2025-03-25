@@ -21,5 +21,5 @@ Qualified: TBC
 147 Followers, 160 Following, 10 Posts - @romain.hcab on Instagram: "🇫🇷🇧🇪"
 # Notes
 - [x] Reply DM (@2025-02-27)
-- [ ] follow up (@2025-03-05)
+- [x] follow up (@2025-03-05)
 # DM Feed

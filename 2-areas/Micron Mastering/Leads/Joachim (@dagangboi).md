@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 417 Followers, 647 Following, 4 Posts - Joachim (@dagangboi) on Instagram: "🎶  « Life Story » dispo ! 🎧"
 # Notes
-- [ ] Send Initial DM (@2025-03-08)
+- [x] Send Initial DM (@2025-03-08)
 # DM Feed

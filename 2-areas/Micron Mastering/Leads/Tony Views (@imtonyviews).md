@@ -27,5 +27,5 @@ From Lynn, Mass"
 - [x] send master (@2025-02-27)
 - [x] check in with album work (@2025-03-25)
 - [x] follow up on mastering work (@2025-03-05)
-- [ ] follow up for mastering work (@2025-03-10)
+- [x] follow up for mastering work (@2025-03-10)
 # DM Feed

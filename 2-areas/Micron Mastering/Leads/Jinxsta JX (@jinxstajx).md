@@ -22,5 +22,5 @@ Qualified: "TBC"
 Bristol, UK
 Rough Around The Edges #RATE"
 # Notes
-- [ ] Send Initial DM (@2025-03-05)
+- [x] Send Initial DM (@2025-03-05)
 # DM Feed

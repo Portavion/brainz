@@ -23,5 +23,5 @@ Qualified: "TBC"
 🎹 Artist @grise_not_grease 
 👊 Credits : Youssoupha,L'algérino,La fouine,Papi,Aurus,Yas,Noskro.."
 # Notes
-- [ ] Send Initial DM (@2025-03-06)
+- [x] Send Initial DM (@2025-03-06)
 # DM Feed

@@ -20,5 +20,5 @@ Qualified: "TBC"
 # Description
 233 Followers, 390 Following, 9 Posts - Molene (@holymolene) on Instagram: "🐦"
 # Notes
-- [ ] Send Initial DM (@2025-03-11)
+- [x] Send Initial DM (@2025-03-11)
 # DM Feed

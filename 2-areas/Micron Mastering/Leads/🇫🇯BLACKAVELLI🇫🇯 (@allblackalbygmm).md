@@ -21,5 +21,5 @@ Qualified: "TBC"
 3,893 Followers, 1,803 Following, 32 Posts - 🇫🇯BLACKAVELLI🇫🇯 (@allblackalbygmm) on Instagram: "📩 allblackalby@gmail.com 
 @gmmthakompany"
 # Notes
-- [ ] Send Initial DM (@2025-03-07)
+- [x] Send Initial DM (@2025-03-07)
 # DM Feed
