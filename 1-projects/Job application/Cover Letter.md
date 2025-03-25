@@ -273,6 +273,8 @@ I believe my experience in fullstack development, particularly with React, Node.
 
 In my previous role as a Senior Transport Modeller at Arup, I gained valuable experience in data analysis and problem-solving. Additionally, my exposure to web development within the city modelling team provided me with practical experience in building data visualisation tools. 
 
+I have also gained experience with remote and asynchronous work. I have been involved in many projects in collaboration with other offices, often involving drastically different timezone (such has UK to Canada or Australia) and I am comfortable with the different systems a collaborative asynchronous work environment requires.
+
 I am a self-driven, proactive, and thrive in collaborative environments. I believe my ability to quickly learn new technologies will help me rapidly contribute to the team. 
 
 I am confident that my skills in TypeScript, React, and Nodejs make me a good fit for this role, and I am excited for the opportunity to contribute to Tipalti's mission while improving my technical skills. 
