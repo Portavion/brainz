@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Job application/Cover Letter.md",
-                "mode": "source",
+                "file": "1-projects/Solve Intelligence Coding Test/OpenAI generator.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter"
+              "title": "OpenAI generator"
             }
           }
         ],
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Job application/Cover Letter.md",
+                "file": "1-projects/Solve Intelligence Coding Test/OpenAI generator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cover Letter"
+              "title": "Outline of OpenAI generator"
             }
           },
           {
@@ -282,11 +282,13 @@
   },
   "active": "4da522a202a8d608",
   "lastOpenFiles": [
+    "1-projects/Job application/Cover Letter.md",
+    "1-projects/Solve Intelligence Coding Test/OpenAI generator.md",
+    "1-projects/Solve Intelligence Coding Test",
     "1-projects/Job application/Todoist Application Questions.md",
     "0-inbox/Deploying on Cloudflare Pages.md",
     "0-inbox/Do Your Own Setups 8 Tools You Need.md",
     "0-inbox/How to build a background timer in ExpoReact Native without ejecting.md",
-    "1-projects/Job application/Cover Letter.md",
     "1-projects/Job application/Potential Interview Questions.md",
     "1-projects/Job application/CV - Resume Tips and Templates.md",
     "Untitled",
@@ -310,7 +312,6 @@
     "2-areas/Micron Mastering/Leads/𝔊𝔢𝔪𝔦𝔫𝔦 (@saigemini).md",
     "2-areas/Micron Mastering/Leads/Herson Studio 🎧 (@herson_studio).md",
     "2-areas/Micron Mastering/Leads/Molene (@holymolene).md",
-    "2-areas/Micron Mastering/Leads/El De La (@junedelarose).md",
     "3-resources/keyboard/attachments/CleanShot 2025-03-05 at 10.57.21@2x.png",
     "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 12.57.56@2x.png",
     "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 12.53.04@2x.png",
@@ -326,7 +327,6 @@
     "3-resources/guitar",
     "4-archives/Burner/Link in bio",
     "4-archives/Burner/Kitchen Inventory App",
-    "4-archives/Burner",
-    "4-archives/2025"
+    "4-archives/Burner"
   ]
 }
