@@ -34,3 +34,31 @@ async def websocket(websocket: WebSocket, ai: AI = Depends(get_ai)):
             continue
 
 ```
+Response:
+```json
+{
+  "issues": [
+    {
+      "type": "Punctuation",
+      "severity": "medium",
+      "paragraph": 1,
+      "description": "The punctuation is incorrect. The claim does not use traditional punctuations.",
+      "suggestion": "Revise the punctuation to use colons to separate the transitional phrase from the body, and use semicolons to separate the elements."
+    },
+    {
+      "type": "Ambiguity and Indefinite Issues",
+      "severity": "high",
+      "paragraph": 1,
+      "description": "The phrase 'the device comprising multiple optical windows for complex neural activity control' is vague and could lead to ambiguity.",
+      "suggestion": "Specify the function or purpose of the optical windows for defining the subject matter and avoiding ambiguity."
+    },
+    {
+      "type": "Broadening Dependent Claims",
+      "severity": "high",
+      "paragraph": 2,
+      "description": "Dependent claim 2 seems to broaden the claim it depends on rather than narrowing it.",
+      "suggestion": "Revise the dependent claim 2 to further narrow the scope of the wireless optogenetic device, in accordance with the main claim (claim 1)."
+    }
+  ]
+}
+```
