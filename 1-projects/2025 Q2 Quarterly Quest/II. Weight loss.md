@@ -34,11 +34,11 @@
 ### **Week-by-Week Breakdown:**
 _Note: For this goal, most 'tasks' are the consistent execution of the recurring tactics. Week 1 includes specific setup actions._
 #### **Week 1: Setup & Baseline**
-- [ ] **Setup:** Set up calorie tracking app/method (e.g., MyFitnessPal, Cronometer).
-- [ ] **Setup:** Plan your typical running schedule for the week (days/times).
-- [ ] **Setup:** Define your specific 20-minute flexibility routine (list of stretches, duration).
+- [x] **Setup:** Set up calorie tracking app/method (e.g., MyFitnessPal, Cronometer).
+- [x] **Setup:** Plan your typical running schedule for the week (days/times).
+- [x] **Setup:** Define your specific 20-minute flexibility routine (list of stretches, duration).
 - [ ] **Setup (Optional):** Define your specific strength/finger training routine(s) if including.
-- [ ] **Setup:** Take starting measurements: Weight (average over 2-3 days if possible), body measurements (optional), 'before' photos (optional), flexibility benchmark (e.g., measure distance to toes).
+- [x] **Setup:** Take starting measurements: Weight (average over 2-3 days if possible), body measurements (optional), 'before' photos (optional), flexibility benchmark (e.g., measure distance to toes).
 - [ ] **Execute:** Perform all recurring tactics for the first time. Focus on establishing the routine.
 #### **Week 2: Building Consistency**
 - [ ] **Review:** Check Week 1 KPIs (Weight trend, average calories/steps/km, flexibility). Did you hit your tactic targets? What challenges arose?

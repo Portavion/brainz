@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
+                "file": "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of II. Weight loss"
+              "title": "Outline of III. Release a song"
             }
           },
           {
@@ -294,12 +294,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a97c922751655781",
+  "active": "3044bedc05271641",
   "lastOpenFiles": [
+    "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
     "1-projects/2025 Q2 Quarterly Quest/I. Find a coding job.md",
     "1-projects/2025 Q2 Quarterly Quest/Goal Setting.md",
     "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
-    "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
     "4-archives/weekly-notes/2025-W11.md",
     "3-resources/keyboard/Keyboard mapping.md",
     "1-projects/2025 Q2 Quarterly Quest",
