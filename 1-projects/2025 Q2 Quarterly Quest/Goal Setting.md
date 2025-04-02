@@ -4,25 +4,6 @@
 3. **Time-Blocking:** Plan _when_ you will execute your tactics.
 4. **Weekly Review & Scoring:** This is crucial. Each week, you'll score your execution on the planned tactics (% completed) and review your progress towards the goals (lag indicators).
 
-**Refined 12 Week Year Plan:**
-**Goal 1: Secure a High-Quality Coding Job Interview Pipeline**
-- **Original:** Find a coding job (Outcome)
-- **Refined 12-Week Goal:** Generate consistent interview opportunities by demonstrating strong technical skills and portfolio projects. (Focuses on the process within the 12 weeks).
-- **Key Performance Indicators (Lag Measures - check weekly):** # Applications Sent, # Responses Received, # Interviews Scheduled, # Leetcode Problems Completed, Project Milestones Met.
-- **Weekly Tactics (Lead Measures - execute these):**
-    1. **Job Applications:** Apply to 15 _targeted_ developer roles per week. (Specific, Measurable, Action-Oriented)
-    2. **Algorithm Practice:** Complete 5 Leetcode problems per week (e.g., 2 Easy, 2 Medium, 1 Hard). Track topics covered. (Specific, Measurable)
-    3. **Focused Learning (Choose ONE language to prioritize for job hunting initially):** Dedicate 5 hours per week to focused [Python/OOP _or_ Go] practice, working through specific exercises or tutorials (e.g., complete X modules of a course, build Y small exercises). _Be specific about the resource or project._
-    4. **Portfolio Project (Choose ONE main project to focus on):** Dedicate 8 hours per week specifically to developing and documenting your chosen priority project ([Chalkr App _or_ Velock _or_ Streamtostream]). Define mini-milestones for each week (e.g., Week 1: Setup & Auth, Week 2: Core Feature X, Week 3: Testing for Feature X...). _Finishing might be the 12-week goal, but the tactic is the consistent weekly hours._
-    5. **Conceptual Learning:** Read/Study [Specific Book/Resource, e.g., "Clean Code"] for 30 minutes, 5 days per week.
-    6. **Networking/Visibility (Optional but recommended):** Engage in 1 networking activity per week (e.g., attend online meetup, contribute to an open-source issue, comment thoughtfully on relevant LinkedIn posts).
-- **Initial Tasks (Week 1):**
-    - Finalize and polish CV.
-    - Create a customizable, high-quality Cover Letter template.
-    - Select the primary language focus (Python or Go) for the 12 weeks.
-    - Select the primary portfolio project focus.
-    - Select the primary coding book/resource.
-    - Set up tracking for Leetcode problems.
 **Goal 2: Reach Target Weight and Improve Foundational Fitness**
 - **Original:** Lose weight (70kg), climbing V7, running 15km, touch toes. (Mix of outcomes and actions)
 - **Refined 12-Week Goal:** Reach target weight of 70kg through consistent nutrition and exercise habits. (Specific, Measurable Outcome). _Ensure 70kg is realistic from your starting point in 12 weeks. If it's a large drop, the goal might be "Lose X kg towards 70kg target"._

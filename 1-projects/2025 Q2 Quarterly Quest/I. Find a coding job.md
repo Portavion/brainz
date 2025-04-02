@@ -67,43 +67,33 @@
 - [ ] **Portfolio Project Milestone:** Implement User Authentication (Registration, Login, Logout). Create basic user profiles. Set up initial database migrations.
 - [ ] **Focused Learning Milestone:** Focus on Inheritance and Polymorphism. Complete relevant course module/exercises. Apply to a small practice problem.
 #### **Week 3: Building Functionality**
-- [ ] **Recurring Tactics:** Execute all.
 - [ ] **Portfolio Project Milestone:** Implement core "Log Climbing Session" feature (form, saving data - date, location, duration). Create basic UI for this. Start writing basic unit tests for session logic.
 - [ ] **Focused Learning Milestone:** Focus on Encapsulation and Special Methods (`__init__`, `__str__`, etc.). Complete relevant course module/exercises.
 #### **Week 4: Expanding Features & Testing**
-- [ ] **Recurring Tactics:** Execute all.
 - [ ] **Portfolio Project Milestone:** Implement "Log Individual Climbs within Session" feature (grade, style, attempts, sent Y/N). Update database schema/models. Refine UI. Add more unit tests.
 - [ ] **Focused Learning Milestone:** Apply OOP concepts to simple Data Structures (e.g., implementing a Stack or Queue using classes).
 #### **Week 5: Viewing Data & Refinement**
-- [ ] **Recurring Tactics:** Execute all.
 - [ ] **Portfolio Project Milestone:** Implement views/pages to list past sessions and the climbs within them. Add basic sorting/filtering (e.g., by date).
 - [ ] **Focused Learning Milestone:** Introduction to basic Design Patterns (e.g., Singleton, Factory). Read relevant chapters/articles.
 #### **Week 6: Analysis & UI/UX**
-- [ ] **Recurring Tactics:** Execute all.
 - [ ] **Portfolio Project Milestone:** Implement basic statistics display (e.g., total sessions, hardest grade climbed this month). Review and start refining the overall User Interface (UI) and User Experience (UX). Add integration tests.
 - [ ] **Focused Learning Milestone:** Deeper dive into a chosen Design Pattern or advanced OOP topic (e.g., Abstract Base Classes, Mixins).
 #### **Week 7: Adding Complexity & Validation**
-- [ ] **Recurring Tactics:** Execute all.
 - [ ] **Portfolio Project Milestone:** Implement "Manage Locations/Gyms" feature (add, view, edit locations). Link sessions to locations. Add robust data validation to forms.
 - [ ] **Focused Learning Milestone:** Focus on Error Handling and Exceptions in Python/OOP context.
 #### **Week 8: Documentation & Code Quality**
-- [ ] **Recurring Tactics:** Execute all.
 - [ ] **Portfolio Project Milestone:** Write comprehensive README (setup, usage). Add inline code comments/docstrings. Refactor code for clarity and efficiency based on "Clean Code" principles.
 - [ ] **Focused Learning Milestone:** Review SOLID principles and apply them to refactoring the small exercises built earlier or parts of the Chalkr app.
 #### **Week 9: Testing & Deployment Prep**
-- [ ] **Recurring Tactics:** Execute all.
 - [ ] **Portfolio Project Milestone:** Increase test coverage (aim for >70-80% on core logic). Research deployment options (e.g., Heroku, PythonAnywhere, Docker). Start creating deployment scripts/Dockerfile.
 - [ ] **Focused Learning Milestone:** Focus on testing frameworks in Python (Pytest) and how to write effective tests for OOP code.
 #### **Week 10: Deployment & Final Features**
-- [ ] **Recurring Tactics:** Execute all.
 - [ ] **Portfolio Project Milestone:** Deploy a staging/demo version of the application. Implement any final small features or polish UI elements. Fix bugs found during testing/deployment.
 - [ ] **Focused Learning Milestone:** Explore web framework specifics (e.g., Django ORM deep dive, Flask blueprints) relevant to the project.
 #### **Week 11: App Store Prep & Portfolio Polish**
-- [ ] **Recurring Tactics:** Execute all.
 - [ ] **Portfolio Project Milestone:** If aiming for App Store (ambitious): Prepare necessary assets, descriptions, etc. (Actual submission might be post-12 weeks). Otherwise: Ensure the project is fully documented, clean, and easily presentable in your portfolio (live demo link, clear repo). Create a short video demo.
 - [ ] **Focused Learning Milestone:** Advanced topic relevant to job postings you're seeing (e.g., Asynchronous Python, API integrations).
 #### **Week 12: Review, Refine & Job Push**
-- [ ] **Recurring Tactics:** Execute all (especially job applications!).
 - [ ] **Portfolio Project Milestone:** Final bug fixes and polish based on Week 11 review. Ensure portfolio presentation is excellent.
 - [ ] **Specific Tasks:** Update CV and LinkedIn profile to prominently feature the completed project and newly acquired skills. Intensify targeted job application efforts based on momentum. Prepare for interviews by reviewing common questions and practicing answers related to your project and skills.
 ---
