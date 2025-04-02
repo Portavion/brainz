@@ -87,25 +87,25 @@
 - [ ] **Portfolio Project Milestone:** Implement "Manage Locations/Gyms" feature (add, view, edit locations). Link sessions to locations. Add robust data validation to forms.
 - [ ] **Focused Learning Milestone:** Focus on Error Handling and Exceptions in Python/OOP context.
 #### **Week 8: Documentation & Code Quality**
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** Write comprehensive README (setup, usage). Add inline code comments/docstrings. Refactor code for clarity and efficiency based on "Clean Code" principles.
-- **Focused Learning Milestone:** Review SOLID principles and apply them to refactoring the small exercises built earlier or parts of the Chalkr app.
+- [ ] **Recurring Tactics:** Execute all.
+- [ ] **Portfolio Project Milestone:** Write comprehensive README (setup, usage). Add inline code comments/docstrings. Refactor code for clarity and efficiency based on "Clean Code" principles.
+- [ ] **Focused Learning Milestone:** Review SOLID principles and apply them to refactoring the small exercises built earlier or parts of the Chalkr app.
 #### **Week 9: Testing & Deployment Prep**
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** Increase test coverage (aim for >70-80% on core logic). Research deployment options (e.g., Heroku, PythonAnywhere, Docker). Start creating deployment scripts/Dockerfile.
-- **Focused Learning Milestone:** Focus on testing frameworks in Python (Pytest) and how to write effective tests for OOP code.
+- [ ] **Recurring Tactics:** Execute all.
+- [ ] **Portfolio Project Milestone:** Increase test coverage (aim for >70-80% on core logic). Research deployment options (e.g., Heroku, PythonAnywhere, Docker). Start creating deployment scripts/Dockerfile.
+- [ ] **Focused Learning Milestone:** Focus on testing frameworks in Python (Pytest) and how to write effective tests for OOP code.
 #### **Week 10: Deployment & Final Features**
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** Deploy a staging/demo version of the application. Implement any final small features or polish UI elements. Fix bugs found during testing/deployment.
-- **Focused Learning Milestone:** Explore web framework specifics (e.g., Django ORM deep dive, Flask blueprints) relevant to the project.
+- [ ] **Recurring Tactics:** Execute all.
+- [ ] **Portfolio Project Milestone:** Deploy a staging/demo version of the application. Implement any final small features or polish UI elements. Fix bugs found during testing/deployment.
+- [ ] **Focused Learning Milestone:** Explore web framework specifics (e.g., Django ORM deep dive, Flask blueprints) relevant to the project.
 #### **Week 11: App Store Prep & Portfolio Polish**
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** If aiming for App Store (ambitious): Prepare necessary assets, descriptions, etc. (Actual submission might be post-12 weeks). Otherwise: Ensure the project is fully documented, clean, and easily presentable in your portfolio (live demo link, clear repo). Create a short video demo.
-- **Focused Learning Milestone:** Advanced topic relevant to job postings you're seeing (e.g., Asynchronous Python, API integrations).
+- [ ] **Recurring Tactics:** Execute all.
+- [ ] **Portfolio Project Milestone:** If aiming for App Store (ambitious): Prepare necessary assets, descriptions, etc. (Actual submission might be post-12 weeks). Otherwise: Ensure the project is fully documented, clean, and easily presentable in your portfolio (live demo link, clear repo). Create a short video demo.
+- [ ] **Focused Learning Milestone:** Advanced topic relevant to job postings you're seeing (e.g., Asynchronous Python, API integrations).
 #### **Week 12: Review, Refine & Job Push**
-- **Recurring Tactics:** Execute all (especially job applications!).
-- **Portfolio Project Milestone:** Final bug fixes and polish based on Week 11 review. Ensure portfolio presentation is excellent.
-- **Specific Tasks:** Update CV and LinkedIn profile to prominently feature the completed project and newly acquired skills. Intensify targeted job application efforts based on momentum. Prepare for interviews by reviewing common questions and practicing answers related to your project and skills.
+- [ ] **Recurring Tactics:** Execute all (especially job applications!).
+- [ ] **Portfolio Project Milestone:** Final bug fixes and polish based on Week 11 review. Ensure portfolio presentation is excellent.
+- [ ] **Specific Tasks:** Update CV and LinkedIn profile to prominently feature the completed project and newly acquired skills. Intensify targeted job application efforts based on momentum. Prepare for interviews by reviewing common questions and practicing answers related to your project and skills.
 ---
 ### **Execution Notes:**
 - **Time Blocking:** Schedule specific time slots for each recurring tactic and the weekly project/learning work. Protect this time.
