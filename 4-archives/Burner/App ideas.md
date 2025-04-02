@@ -1,5 +1,5 @@
 # App Ideas
-## Last.fm stats parser and algorithm for daily personalised playlists
+## Last.fm Stats Parser and Algorithm for Daily Personalised Playlists
 ## N3DS Video Games in Lua with Löve Potion
 ## Guitar Hero Copycat with Keyboard Inputs
 Some game engines:
