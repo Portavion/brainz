@@ -57,37 +57,35 @@
 ---
 ### **Week-by-Week Breakdown:**
 #### **Week 1: Setup & Foundation**
-##### **Recurring Tactics:** Execute all listed above.
-##### **Specific Tasks:**
-- Finalize and polish base CV.
-- Create high-quality, customizable Cover Letter template.
-- Confirm choices: Python/OOP, Chalkr App, "Clean Code".
-- Set up Leetcode tracking system (spreadsheet, Notion, etc.).
-- **Portfolio Project Milestone:** Initialize project (repo, virtual env, basic structure), select tech stack (framework, DB), implement basic setup (e.g., Flask/Django project creation, DB connection). Define core data models (User, Session, Climb).
-- **Focused Learning Milestone:** Set up Python dev environment. Review OOP basics (Classes, Objects). Start course Module 1 / relevant chapter.
+- [ ] Finalise and polish base CV.
+- [ ] Create high-quality, customisable Cover Letter template.
+- [ ] Confirm choices: Python/OOP, Chalkr App, "Clean Code".
+- [ ] Set up Leetcode tracking system (spreadsheet, Notion, etc.).
+- [ ] **Portfolio Project Milestone:** Initialize project (repo, virtual env, basic structure), select tech stack (framework, DB), implement basic setup (e.g., Flask/Django project creation, DB connection). Define core data models (User, Session, Climb).
+- [ ] **Focused Learning Milestone:** Set up Python dev environment. Review OOP basics (Classes, Objects). Start course Module 1 / relevant chapter.
 #### **Week 2: Core Features & Learning Deep Dive**
- **Portfolio Project Milestone:** Implement User Authentication (Registration, Login, Logout). Create basic user profiles. Set up initial database migrations.
- **Focused Learning Milestone:** Focus on Inheritance and Polymorphism. Complete relevant course module/exercises. Apply to a small practice problem.
+- [ ] **Portfolio Project Milestone:** Implement User Authentication (Registration, Login, Logout). Create basic user profiles. Set up initial database migrations.
+- [ ] **Focused Learning Milestone:** Focus on Inheritance and Polymorphism. Complete relevant course module/exercises. Apply to a small practice problem.
 #### **Week 3: Building Functionality**
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** Implement core "Log Climbing Session" feature (form, saving data - date, location, duration). Create basic UI for this. Start writing basic unit tests for session logic.
-- **Focused Learning Milestone:** Focus on Encapsulation and Special Methods (`__init__`, `__str__`, etc.). Complete relevant course module/exercises.
+- [ ] **Recurring Tactics:** Execute all.
+- [ ] **Portfolio Project Milestone:** Implement core "Log Climbing Session" feature (form, saving data - date, location, duration). Create basic UI for this. Start writing basic unit tests for session logic.
+- [ ] **Focused Learning Milestone:** Focus on Encapsulation and Special Methods (`__init__`, `__str__`, etc.). Complete relevant course module/exercises.
 #### **Week 4: Expanding Features & Testing**
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** Implement "Log Individual Climbs within Session" feature (grade, style, attempts, sent Y/N). Update database schema/models. Refine UI. Add more unit tests.
-- **Focused Learning Milestone:** Apply OOP concepts to simple Data Structures (e.g., implementing a Stack or Queue using classes).
+- [ ] **Recurring Tactics:** Execute all.
+- [ ] **Portfolio Project Milestone:** Implement "Log Individual Climbs within Session" feature (grade, style, attempts, sent Y/N). Update database schema/models. Refine UI. Add more unit tests.
+- [ ] **Focused Learning Milestone:** Apply OOP concepts to simple Data Structures (e.g., implementing a Stack or Queue using classes).
 #### **Week 5: Viewing Data & Refinement**
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** Implement views/pages to list past sessions and the climbs within them. Add basic sorting/filtering (e.g., by date).
-- **Focused Learning Milestone:** Introduction to basic Design Patterns (e.g., Singleton, Factory). Read relevant chapters/articles.
+- [ ] **Recurring Tactics:** Execute all.
+- [ ] **Portfolio Project Milestone:** Implement views/pages to list past sessions and the climbs within them. Add basic sorting/filtering (e.g., by date).
+- [ ] **Focused Learning Milestone:** Introduction to basic Design Patterns (e.g., Singleton, Factory). Read relevant chapters/articles.
 #### **Week 6: Analysis & UI/UX**
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** Implement basic statistics display (e.g., total sessions, hardest grade climbed this month). Review and start refining the overall User Interface (UI) and User Experience (UX). Add integration tests.
-- **Focused Learning Milestone:** Deeper dive into a chosen Design Pattern or advanced OOP topic (e.g., Abstract Base Classes, Mixins).
+- [ ] **Recurring Tactics:** Execute all.
+- [ ] **Portfolio Project Milestone:** Implement basic statistics display (e.g., total sessions, hardest grade climbed this month). Review and start refining the overall User Interface (UI) and User Experience (UX). Add integration tests.
+- [ ] **Focused Learning Milestone:** Deeper dive into a chosen Design Pattern or advanced OOP topic (e.g., Abstract Base Classes, Mixins).
 #### **Week 7: Adding Complexity & Validation**
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** Implement "Manage Locations/Gyms" feature (add, view, edit locations). Link sessions to locations. Add robust data validation to forms.
-- **Focused Learning Milestone:** Focus on Error Handling and Exceptions in Python/OOP context.
+- [ ] **Recurring Tactics:** Execute all.
+- [ ] **Portfolio Project Milestone:** Implement "Manage Locations/Gyms" feature (add, view, edit locations). Link sessions to locations. Add robust data validation to forms.
+- [ ] **Focused Learning Milestone:** Focus on Error Handling and Exceptions in Python/OOP context.
 #### **Week 8: Documentation & Code Quality**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** Write comprehensive README (setup, usage). Add inline code comments/docstrings. Refactor code for clarity and efficiency based on "Clean Code" principles.
