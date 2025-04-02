@@ -37,106 +37,79 @@
 ---
 ### Recurring Weekly Tactics (Perform Every Week, Weeks 1-12):
 #### **Job Applications:**
-    - **Activity:** Research and apply to targeted developer roles. Customize CV/Cover Letter slightly for key roles.
-    - **Frequency:** **15 applications per week.**
+- **Activity:** Research and apply to targeted developer roles. Customize CV/Cover Letter slightly for key roles.
+- **Frequency:** **15 applications per week.**
 #### **Algorithm Practice:**
-    - **Activity:** Solve Leetcode problems, focusing on understanding the patterns and solutions.
-    - **Frequency:** **5 problems per week** (Suggested mix: 2 Easy, 2 Medium, 1 Hard - adjust as needed). Track topics covered (arrays, strings, trees, graphs, DP, etc.).
-3. **Focused Learning (Python/OOP):**
-    - **Activity:** Work through chosen course/tutorials, build small exercises, apply concepts.
-    - **Frequency:** **5 hours per week.** (See week-specific goals below for focus areas).
-4. **Portfolio Project (Chalkr App):**
-    - **Activity:** Dedicated development time: coding, testing, documenting.
-    - **Frequency:** **8 hours per week.** (See week-specific goals below for milestones).
-5. **Conceptual Learning ("Clean Code"):**
-    - **Activity:** Read and reflect on the principles in the book.
-    - **Frequency:** **30 minutes x 5 days per week** (Total 2.5 hours/week).
-6. **Networking/Visibility:**
-    - **Activity:** Attend online meetup, contribute to discussion, engage on LinkedIn, small open-source contribution, etc.
-    - **Frequency:** **1 activity per week.**
+- **Activity:** Solve Leetcode problems, focusing on understanding the patterns and solutions.
+- **Frequency:** **5 problems per week** (Suggested mix: 2 Easy, 2 Medium, 1 Hard - adjust as needed). Track topics covered (arrays, strings, trees, graphs, DP, etc.).
+#### **Focused Learning (Python/OOP):**
+- **Activity:** Work through chosen course/tutorials, build small exercises, apply concepts.
+- **Frequency:** **5 hours per week.** (See week-specific goals below for focus areas).
+#### **Portfolio Project (Chalkr App):**
+- **Activity:** Dedicated development time: coding, testing, documenting.
+- **Frequency:** **8 hours per week.** (See week-specific goals below for milestones).
+#### **Conceptual Learning ("Clean Code"):**
+- **Activity:** Read and reflect on the principles in the book.
+- **Frequency:** **30 minutes x 5 days per week** (Total 2.5 hours/week).
+#### **Networking/Visibility:**
+- **Activity:** Attend online meetup, contribute to discussion, engage on LinkedIn, small open-source contribution, etc.
+- **Frequency:** **1 activity per week.**
 ---
-**Week-by-Week Breakdown:**
-**Week 1: Setup & Foundation**
-
-- **Recurring Tactics:** Execute all listed above.
-- **Specific Tasks:**
-    - Finalize and polish base CV.
-    - Create high-quality, customizable Cover Letter template.
-    - Confirm choices: Python/OOP, Chalkr App, "Clean Code".
-    - Set up Leetcode tracking system (spreadsheet, Notion, etc.).
-    - **Portfolio Project Milestone:** Initialize project (repo, virtual env, basic structure), select tech stack (framework, DB), implement basic setup (e.g., Flask/Django project creation, DB connection). Define core data models (User, Session, Climb).
-    - **Focused Learning Milestone:** Set up Python dev environment. Review OOP basics (Classes, Objects). Start course Module 1 / relevant chapter.
-
-**Week 2: Core Features & Learning Deep Dive**
-
-- **Recurring Tactics:** Execute all.
-- **Portfolio Project Milestone:** Implement User Authentication (Registration, Login, Logout). Create basic user profiles. Set up initial database migrations.
-- **Focused Learning Milestone:** Focus on Inheritance and Polymorphism. Complete relevant course module/exercises. Apply to a small practice problem.
-
-**Week 3: Building Functionality**
-
+### **Week-by-Week Breakdown:**
+#### **Week 1: Setup & Foundation**
+##### **Recurring Tactics:** Execute all listed above.
+##### **Specific Tasks:**
+- Finalize and polish base CV.
+- Create high-quality, customizable Cover Letter template.
+- Confirm choices: Python/OOP, Chalkr App, "Clean Code".
+- Set up Leetcode tracking system (spreadsheet, Notion, etc.).
+- **Portfolio Project Milestone:** Initialize project (repo, virtual env, basic structure), select tech stack (framework, DB), implement basic setup (e.g., Flask/Django project creation, DB connection). Define core data models (User, Session, Climb).
+- **Focused Learning Milestone:** Set up Python dev environment. Review OOP basics (Classes, Objects). Start course Module 1 / relevant chapter.
+#### **Week 2: Core Features & Learning Deep Dive**
+ **Portfolio Project Milestone:** Implement User Authentication (Registration, Login, Logout). Create basic user profiles. Set up initial database migrations.
+ **Focused Learning Milestone:** Focus on Inheritance and Polymorphism. Complete relevant course module/exercises. Apply to a small practice problem.
+#### **Week 3: Building Functionality**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** Implement core "Log Climbing Session" feature (form, saving data - date, location, duration). Create basic UI for this. Start writing basic unit tests for session logic.
 - **Focused Learning Milestone:** Focus on Encapsulation and Special Methods (`__init__`, `__str__`, etc.). Complete relevant course module/exercises.
-
-**Week 4: Expanding Features & Testing**
-
+#### **Week 4: Expanding Features & Testing**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** Implement "Log Individual Climbs within Session" feature (grade, style, attempts, sent Y/N). Update database schema/models. Refine UI. Add more unit tests.
 - **Focused Learning Milestone:** Apply OOP concepts to simple Data Structures (e.g., implementing a Stack or Queue using classes).
-
-**Week 5: Viewing Data & Refinement**
-
+#### **Week 5: Viewing Data & Refinement**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** Implement views/pages to list past sessions and the climbs within them. Add basic sorting/filtering (e.g., by date).
 - **Focused Learning Milestone:** Introduction to basic Design Patterns (e.g., Singleton, Factory). Read relevant chapters/articles.
-
-**Week 6: Analysis & UI/UX**
-
+#### **Week 6: Analysis & UI/UX**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** Implement basic statistics display (e.g., total sessions, hardest grade climbed this month). Review and start refining the overall User Interface (UI) and User Experience (UX). Add integration tests.
 - **Focused Learning Milestone:** Deeper dive into a chosen Design Pattern or advanced OOP topic (e.g., Abstract Base Classes, Mixins).
-
-**Week 7: Adding Complexity & Validation**
-
+#### **Week 7: Adding Complexity & Validation**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** Implement "Manage Locations/Gyms" feature (add, view, edit locations). Link sessions to locations. Add robust data validation to forms.
 - **Focused Learning Milestone:** Focus on Error Handling and Exceptions in Python/OOP context.
-
-**Week 8: Documentation & Code Quality**
-
+#### **Week 8: Documentation & Code Quality**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** Write comprehensive README (setup, usage). Add inline code comments/docstrings. Refactor code for clarity and efficiency based on "Clean Code" principles.
 - **Focused Learning Milestone:** Review SOLID principles and apply them to refactoring the small exercises built earlier or parts of the Chalkr app.
-
-**Week 9: Testing & Deployment Prep**
-
+#### **Week 9: Testing & Deployment Prep**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** Increase test coverage (aim for >70-80% on core logic). Research deployment options (e.g., Heroku, PythonAnywhere, Docker). Start creating deployment scripts/Dockerfile.
 - **Focused Learning Milestone:** Focus on testing frameworks in Python (Pytest) and how to write effective tests for OOP code.
-
-**Week 10: Deployment & Final Features**
-
+#### **Week 10: Deployment & Final Features**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** Deploy a staging/demo version of the application. Implement any final small features or polish UI elements. Fix bugs found during testing/deployment.
 - **Focused Learning Milestone:** Explore web framework specifics (e.g., Django ORM deep dive, Flask blueprints) relevant to the project.
-
-**Week 11: App Store Prep & Portfolio Polish**
-
+#### **Week 11: App Store Prep & Portfolio Polish**
 - **Recurring Tactics:** Execute all.
 - **Portfolio Project Milestone:** If aiming for App Store (ambitious): Prepare necessary assets, descriptions, etc. (Actual submission might be post-12 weeks). Otherwise: Ensure the project is fully documented, clean, and easily presentable in your portfolio (live demo link, clear repo). Create a short video demo.
 - **Focused Learning Milestone:** Advanced topic relevant to job postings you're seeing (e.g., Asynchronous Python, API integrations).
-
-**Week 12: Review, Refine & Job Push**
-
+#### **Week 12: Review, Refine & Job Push**
 - **Recurring Tactics:** Execute all (especially job applications!).
 - **Portfolio Project Milestone:** Final bug fixes and polish based on Week 11 review. Ensure portfolio presentation is excellent.
 - **Specific Tasks:** Update CV and LinkedIn profile to prominently feature the completed project and newly acquired skills. Intensify targeted job application efforts based on momentum. Prepare for interviews by reviewing common questions and practicing answers related to your project and skills.
-
 ---
-
-**Execution Notes:**
-
+### **Execution Notes:**
 - **Time Blocking:** Schedule specific time slots for each recurring tactic and the weekly project/learning work. Protect this time.
 - **Weekly Review:** The most critical part. Every week, review:
     - Your execution score on the tactics.
