@@ -4,22 +4,6 @@
 3. **Time-Blocking:** Plan _when_ you will execute your tactics.
 4. **Weekly Review & Scoring:** This is crucial. Each week, you'll score your execution on the planned tactics (% completed) and review your progress towards the goals (lag indicators).
 
-**Goal 2: Reach Target Weight and Improve Foundational Fitness**
-- **Original:** Lose weight (70kg), climbing V7, running 15km, touch toes. (Mix of outcomes and actions)
-- **Refined 12-Week Goal:** Reach target weight of 70kg through consistent nutrition and exercise habits. (Specific, Measurable Outcome). _Ensure 70kg is realistic from your starting point in 12 weeks. If it's a large drop, the goal might be "Lose X kg towards 70kg target"._
-- **Key Performance Indicators (Lag Measures - check weekly):** Weekly Weight, Weekly Average Calories, Weekly Average Steps, Total Km Run, Subjective flexibility measure (e.g., distance from toes).
-- **Weekly Tactics (Lead Measures - execute these):**
-    1. **Calorie Tracking:** Track daily food intake and maintain a weekly average calorie intake of 10,500 kcal (1500 kcal/day average). (Specific, Measurable)
-    2. **Daily Movement:** Achieve an average of 8,000 steps per day. (Specific, Measurable)
-    3. **Cardio:** Complete 15km of running per week (e.g., distributed as 3 x 5km runs). (Specific, Measurable)
-    4. **Flexibility:** Perform a dedicated 20-minute stretching/mobility routine 3 times per week. (Specific, Measurable - focus on consistency, the 'touching toes' is the result).
-    5. **Strength/Climbing Prep (Optional - if capacity allows, supports fitness):** Complete [Specific finger strength routine] 2 times per week _AND/OR_ [Specific climbing-related strength workout] 2 times per week. _Be precise about the routine._
-- **Initial Tasks (Week 1):**
-    - Set up calorie tracking app/method.
-    - Plan your typical running schedule.
-    - Define your specific flexibility routine.
-    - Define your specific strength/finger training routines (if including).
-    - Take starting measurements (Weight, photos, flexibility benchmark).
 **Goal 3: Complete and Release One New Song**
 - **Original:** Release a new song, daily sessions, demo a week, IG content, finish song a month. (Slightly conflicting/unfocused actions).
 - **Refined 12-Week Goal:** Write, produce, mix, master, and release one specific song by the end of the 12 weeks. (Clear, Specific Outcome)
