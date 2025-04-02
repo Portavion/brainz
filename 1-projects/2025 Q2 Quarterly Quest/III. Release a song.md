@@ -36,75 +36,52 @@ _Note: Each week involves BOTH creating a new demo AND working on the current mo
 - [ ] **Demo:** Create Demo #3.
 - [ ] **Song Dev (Song 1):** Focus entirely on mixing Song 1. Balance levels, EQ, compression, reverb/delay, automation. Prepare for mastering. (Approx. 7 hours).
 - [ ] **Content:** Post 1 IG update.
-
 #### **Week 4: Demo #4 & Song 1 Release / Prep for Song 2**
-
 - [ ] **Demo:** Create Demo #4.
 - [ ] **Song Dev (Song 1):** Focus on mastering Song 1 (DIY or send out if budgeted/planned). Prepare release assets (artwork, metadata). Upload for distribution. (Approx. 7 hours).
 - [ ] **Release:** Officially release Song 1 towards the end of the week.
 - [ ] **Selection:** Select the demo (from Demos #1-4) to become Song 2 for Month 2.
 - [ ] **Content:** Post 1 IG update (maybe announcing Song 1 release).
-
 #### **-- MONTH 2 -- (Focus: Finishing Song 2)**
-
 #### **Week 5: Demo #5 & Song 2 Start**
-
 - [ ] **Demo:** Create Demo #5.
 - [ ] **Song Dev (Song 2 - using selected demo):** Focus on locking down structure, core progression/harmony, main melody/lyrics, basic drums/bass for Song 2. (Approx. 7 hours).
 - [ ] **Content:** Post 1 IG update.
-
 #### **Week 6: Demo #6 & Song 2 Tracking**
-
 - [ ] **Demo:** Create Demo #6.
 - [ ] **Song Dev (Song 2):** Focus on recording final instrumental and vocal parts, adding arrangement details for Song 2. (Approx. 7 hours).
 - [ ] **Content:** Post 1 IG update.
-
 #### **Week 7: Demo #7 & Song 2 Mixing**
-
 - [ ] **Demo:** Create Demo #7.
 - [ ] **Song Dev (Song 2):** Focus entirely on mixing Song 2. (Approx. 7 hours).
 - [ ] **Content:** Post 1 IG update.
-
 #### **Week 8: Demo #8 & Song 2 Release / Prep for Song 3**
-
 - [ ] **Demo:** Create Demo #8.
 - [ ] **Song Dev (Song 2):** Focus on mastering Song 2 and preparing release assets. Upload for distribution. (Approx. 7 hours).
 - [ ] **Release:** Officially release Song 2.
 - [ ] **Selection:** Select the demo (from Demos #1-8) to become Song 3 for Month 3.
 - [ ] **Content:** Post 1 IG update (maybe announcing Song 2 release).
-
 #### **-- MONTH 3 -- (Focus: Finishing Song 3)**
-
 #### **Week 9: Demo #9 & Song 3 Start**
-
 - [ ] **Demo:** Create Demo #9.
 - [ ] **Song Dev (Song 3 - using selected demo):** Focus on locking down structure, core progression/harmony, main melody/lyrics, basic drums/bass for Song 3. (Approx. 7 hours).
 - [ ] **Content:** Post 1 IG update.
-
 #### **Week 10: Demo #10 & Song 3 Tracking**
-
 - [ ] **Demo:** Create Demo #10.
 - [ ] **Song Dev (Song 3):** Focus on recording final instrumental and vocal parts, adding arrangement details for Song 3. (Approx. 7 hours).
 - [ ] **Content:** Post 1 IG update.
-
 #### **Week 11: Demo #11 & Song 3 Mixing**
-
 - [ ] **Demo:** Create Demo #11.
 - [ ] **Song Dev (Song 3):** Focus entirely on mixing Song 3. (Approx. 7 hours).
 - [ ] **Content:** Post 1 IG update.
-
 #### **Week 12: Demo #12 & Song 3 Release / Final Review**
-
 - [ ] **Demo:** Create Demo #12.
 - [ ] **Song Dev (Song 3):** Focus on mastering Song 3 and preparing release assets. Upload for distribution. (Approx. 7 hours).
 - [ ] **Release:** Officially release Song 3.
 - [ ] **Review:** Assess the 12 demos created and 3 songs finished. Evaluate the process, quality, and sustainability. Plan next steps.
 - [ ] **Content:** Post 1 IG update (maybe announcing Song 3 release and reflecting on the 12 weeks).
-
 ---
-
 ### **Execution Notes:**
-
 - **Time Blocking:** This goal requires significant scheduled time. Block out specific slots for "Demo Creation" and "Song Development" each week. Be disciplined.
 - **Efficiency:** Finishing a song in ~4 weeks requires an efficient workflow. Template your sessions, reuse sounds/settings where appropriate, make decisions quickly, and avoid endless tweaking (especially in the demo stage).
 - **Mastering:** DIY mastering is possible but challenging. Consider using online mastering services (like Landr, CloudBounce) or budgeting for a mastering engineer if quality is paramount – factor this into your 4-week timeline.
