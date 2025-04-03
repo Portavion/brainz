@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-areas/Portavion/Project tracker.md",
+                "file": "2-areas/Portavion/Demo project tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project tracker"
+              "title": "Demo project tracker"
             }
           },
           {
@@ -192,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-areas/Portavion/Project tracker.md",
+                "file": "2-areas/Portavion/Demo project tracker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project tracker"
+              "title": "Outline of Demo project tracker"
             }
           },
           {
@@ -267,7 +267,7 @@
   "active": "54e65cc909debf0d",
   "lastOpenFiles": [
     "1-projects/Coding Milestones/React learning path and milestones.md",
-    "2-areas/Portavion/Project tracker.md",
+    "2-areas/Portavion/Demo project tracker.md",
     "1-projects/Coding Milestones/Python learning path and milestones.md",
     "3-resources/keyboard/Miryoku layout.md",
     "1-projects/Coding Milestones",
