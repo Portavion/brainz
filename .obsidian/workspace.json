@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "Miryoku layout"
             }
+          },
+          {
+            "id": "54e65cc909debf0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Coding Milestones/React learning path and milestones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React learning path and milestones"
+            }
+          },
+          {
+            "id": "87866025835e2f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-projects/Coding Milestones/Python learning path and milestones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python learning path and milestones"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-resources/keyboard/Miryoku layout.md",
+                "file": "1-projects/Coding Milestones/React learning path and milestones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Miryoku layout"
+              "title": "Outline of React learning path and milestones"
             }
           },
           {
@@ -235,10 +264,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6ba36de7865741b",
+  "active": "54e65cc909debf0d",
   "lastOpenFiles": [
-    "2-areas/Micron Mastering/CRM.md",
+    "1-projects/Coding Milestones/Python learning path and milestones.md",
+    "1-projects/Coding Milestones/React learning path and milestones.md",
     "3-resources/keyboard/Miryoku layout.md",
+    "1-projects/Coding Milestones",
+    "2-areas/Micron Mastering/CRM.md",
     "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
     "4-archives/weekly-notes/2025-W11.md",
     "2-areas/Portavion/inspirations/Nia Archives - Tell me what its like.md",
@@ -266,8 +298,6 @@
     "2-areas/Micron Mastering/Leads/godleecharles. (@godleecharles).md",
     "3-resources/guitar/Bernth - 30 day speed builder.md",
     "1-projects/Job application",
-    "2-areas/Micron Mastering/Leads/Nick Derrick (@nicklsderrick).md",
-    "2-areas/Micron Mastering/Leads/AGZ FILM (@agz_film).md",
     "3-resources/keyboard/attachments/CleanShot 2025-03-05 at 10.57.21@2x.png",
     "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 12.57.56@2x.png",
     "3-resources/keyboard/attachments/CleanShot 2025-03-04 at 12.53.04@2x.png",
@@ -281,7 +311,6 @@
     "0-inbox/CleanShot 2025-03-03 at 16.30.45@2x.png",
     "3-resources/finance",
     "3-resources/guitar",
-    "4-archives/Burner/Link in bio",
-    "4-archives/Burner/Kitchen Inventory App"
+    "4-archives/Burner/Link in bio"
   ]
 }
