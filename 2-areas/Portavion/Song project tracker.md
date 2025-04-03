@@ -52,9 +52,9 @@
 - **Export Master Files:** Create final master files in required formats (e.g., 16-bit/44.1kHz WAV for CD, high-resolution WAV for digital distribution, MP3 for sharing).
 - **Add Metadata (Optional but Recommended):** Embed ISRC codes, artist/track information into the files if possible/needed.
 ### **Phase 6: Final Review & Release Prep**
-- [ ] **Final Listening Tests:** Listen to the mastered track(s) on multiple systems and in different environments one last time.
-- [ ] **Prepare Artwork:** Finalize cover art according to specifications for distribution.
-- [ ] **Prepare Release Information:** Gather all necessary credits, lyrics (for distribution platforms), and any liner notes.
-- [ ] **Choose Distribution Method/Aggregator:** Select how you will release the song (e.g., DistroKid, TuneCore, CD Baby, Bandcamp).
-- [ ] **Upload Assets & Schedule Release:** Upload master audio, artwork, and metadata to your chosen distributor. Set the release date.
-- [ ] **Archive Project Files:** Back up everything! Raw audio tracks, session files (clearly labelled versions for writing, tracking, mixing, mastering), mix stems (optional), final mixes, and masters.
+- **Final Listening Tests:** Listen to the mastered track(s) on multiple systems and in different environments one last time.
+- **Prepare Artwork:** Finalize cover art according to specifications for distribution.
+- **Prepare Release Information:** Gather all necessary credits, lyrics (for distribution platforms), and any liner notes.
+- **Choose Distribution Method/Aggregator:** Select how you will release the song (e.g., DistroKid, TuneCore, CD Baby, Bandcamp).
+- **Upload Assets & Schedule Release:** Upload master audio, artwork, and metadata to your chosen distributor. Set the release date.
+- **Archive Project Files:** Back up everything! Raw audio tracks, session files (clearly labelled versions for writing, tracking, mixing, mastering), mix stems (optional), final mixes, and masters.
