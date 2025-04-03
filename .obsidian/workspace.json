@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Coding Milestones/React learning path and milestones.md",
+                "file": "1-projects/Coding Milestones/Python learning path and milestones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of React learning path and milestones"
+              "title": "Outline of Python learning path and milestones"
             }
           },
           {
@@ -264,10 +264,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54e65cc909debf0d",
+  "active": "87866025835e2f1e",
   "lastOpenFiles": [
-    "1-projects/Coding Milestones/Python learning path and milestones.md",
     "1-projects/Coding Milestones/React learning path and milestones.md",
+    "1-projects/Coding Milestones/Python learning path and milestones.md",
     "3-resources/keyboard/Miryoku layout.md",
     "1-projects/Coding Milestones",
     "2-areas/Micron Mastering/CRM.md",
