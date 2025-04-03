@@ -53,7 +53,6 @@
 - [ ] **Add Metadata (Optional but Recommended):** Embed ISRC codes, artist/track information into the files if possible/needed.
 ### **Phase 6: Final Review & Release Prep**
 - [ ] **Final Listening Tests:** Listen to the mastered track(s) on multiple systems and in different environments one last time.
-- [ ] **Approve Master(s):** Confirm you are happy with the final sound.
 - [ ] **Prepare Artwork:** Finalize cover art according to specifications for distribution.
 - [ ] **Prepare Release Information:** Gather all necessary credits, lyrics (for distribution platforms), and any liner notes.
 - [ ] **Choose Distribution Method/Aggregator:** Select how you will release the song (e.g., DistroKid, TuneCore, CD Baby, Bandcamp).
