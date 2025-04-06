@@ -1,4 +1,5 @@
-## Fullstack app
+# Tmuxinator Templates
+## Fullstack App
 ```yaml
 # /Users/portavion/.config/tmuxinator/CodingChallenge.yml
 
