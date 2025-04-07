@@ -1,0 +1,76 @@
+### Training Plan Option 1 (3 x 5km Runs, 2 Climbing Sessions)
+This option spreads the running more evenly and attaches the extra training to the two climbing days.
+- **Monday**
+    - AM: Finger Rehab (10 min)
+    - Day: Run (5km)
+    - PM: Finger Rehab (10 min)
+- **Tuesday**
+    - AM: Finger Rehab (10 min)
+    - Day: Climbing Session 1
+    - Post-Climb: Strength Training
+    - PM: Finger Rehab (10 min)
+- **Wednesday**
+    - AM: Finger Rehab (10 min)
+    - Day: Run (5km)
+    - PM: Finger Rehab (10 min)
+- **Thursday**
+    - AM: Finger Rehab (10 min)
+    - Day: Climbing Session 2
+    - Post-Climb: Heavier Finger Training
+    - PM: Finger Rehab (10 min)
+- **Friday**
+    - AM: Finger Rehab (10 min)
+    - Day: **REST** or very light activity (e.g., walk)
+    - PM: Finger Rehab (10 min)
+- **Saturday**
+    - AM: Finger Rehab (10 min)
+    - Day: Run (5km)
+    - Post-Run: Flexibility Session
+    - PM: Finger Rehab (10 min)
+- **Sunday**
+    - AM: Finger Rehab (10 min)
+    - Day: Light activity or **REST**
+    - PM: Finger Rehab (10 min)
+
+**Notes for Option 1:**
+- Climbing sessions followed by Strength/Finger training are separated by a run day.
+- Includes a full rest day on Friday.
+- Flexibility is placed after the last run of the week.
+---
+### Training Plan Option 2 (1 x 5km, 1 x 10km Runs, 3 Climbing Sessions)
+This option includes more climbing and the longer run, potentially requiring more careful fatigue management.
+- **Monday**
+    - AM: Finger Rehab (10 min)
+    - Day: Climbing Session 1
+    - Post-Climb: Strength Training
+    - PM: Finger Rehab (10 min)
+- **Tuesday**
+    - AM: Finger Rehab (10 min)
+    - Day: Run (5km)
+    - PM: Finger Rehab (10 min)
+- **Wednesday**
+    - AM: Finger Rehab (10 min)
+    - Day: Climbing Session 2
+    - Post-Climb: Heavier Finger Training
+    - PM: Finger Rehab (10 min)
+- **Thursday**
+    - AM: Finger Rehab (10 min)
+    - Day: **REST** or very light activity
+    - PM: Finger Rehab (10 min)
+- **Friday**
+    - AM: Finger Rehab (10 min)
+    - Day: Climbing Session 3 (Consider making this a lighter/technique session)
+    - PM: Finger Rehab (10 min)
+- **Saturday**
+    - AM: Finger Rehab (10 min)
+    - Day: Run (10km)
+    - PM: Finger Rehab (10 min)
+- **Sunday**
+    - AM: Finger Rehab (10 min)
+    - Day: Flexibility Session
+    - PM: Finger Rehab (10 min)
+**Notes for Option 2:**
+- Packs three climbing sessions, with Strength and Finger Training added to the first two.
+- Includes a rest day before the third climb and the long run.
+- The third climbing session on Friday might need lower intensity due to the heavy finger session on Wednesday.
+- Long run is on Saturday, flexibility on Sunday.
