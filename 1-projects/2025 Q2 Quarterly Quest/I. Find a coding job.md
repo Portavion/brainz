@@ -1,4 +1,3 @@
-## Original Prompt
 **Refined 12 Week Year Plan:**
 **Goal 1: Secure a High-Quality Coding Job Interview Pipeline**
 - **Original:** Find a coding job (Outcome)
