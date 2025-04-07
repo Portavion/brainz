@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
-                "mode": "preview",
+                "file": "1-projects/2025 Q2 Quarterly Quest/Training Plan.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III. Release a song"
+              "title": "Training Plan"
             }
           }
         ],
@@ -59,7 +59,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
+                "file": "1-projects/2025 Q2 Quarterly Quest/Training Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of III. Release a song"
+              "title": "Outline of Training Plan"
             }
           },
           {
@@ -252,7 +252,11 @@
   },
   "active": "54e65cc909debf0d",
   "lastOpenFiles": [
+    "1-projects/2025 Q2 Quarterly Quest/Goal Setting.md",
+    "1-projects/Chalkr/features/Basic Climbing Stats 02-03-25.md",
+    "1-projects/2025 Q2 Quarterly Quest/Training Plan.md",
     "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
+    "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
     "1-projects/2025 Q2 Quarterly Quest/I. Find a coding job.md",
     "1-projects/Job application/Cover Letter.md",
     "1-projects/Solve Intelligence Coding Test/Diff styline.md",
@@ -267,8 +271,6 @@
     "4-archives/weekly-notes/2025-W11.md",
     "2-areas/Portavion/inspirations/Nia Archives - Tell me what its like.md",
     "2-areas/Portavion/inspirations/Bassline Idea.md",
-    "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
-    "1-projects/2025 Q2 Quarterly Quest/Goal Setting.md",
     "3-resources/keyboard/Keyboard mapping.md",
     "1-projects/2025 Q2 Quarterly Quest",
     "4-archives/Burner/App ideas.md",
@@ -279,8 +281,6 @@
     "0-inbox/Deploying on Cloudflare Pages.md",
     "0-inbox/Do Your Own Setups 8 Tools You Need.md",
     "0-inbox/How to build a background timer in ExpoReact Native without ejecting.md",
-    "1-projects/Job application/Potential Interview Questions.md",
-    "1-projects/Job application/CV - Resume Tips and Templates.md",
     "Untitled",
     "3-resources/cleaning",
     "1-projects/Job application",
