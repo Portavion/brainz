@@ -29,30 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/FastAPI backend architecture.md",
+                "file": "2-areas/Coding/FastAPI backend architecture.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "FastAPI backend architecture"
             }
-          },
-          {
-            "id": "f8e7ce3231194949",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/zhanymkanov/fastapi-best-practices?source=post_page-----0219a6600a8f---------------------------------------#1-project-structure-consistent--predictable",
-                "title": "GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,12 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-areas/Coding/FastAPI backend architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of FastAPI backend architecture"
             }
           },
           {
@@ -263,9 +250,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8e7ce3231194949",
+  "active": "54e65cc909debf0d",
   "lastOpenFiles": [
-    "Clippings/FastAPI backend architecture.md",
+    "2-areas/Coding/FastAPI backend architecture.md",
     "0-inbox/Docker.md",
     "Clippings",
     "1-projects/2025 Q2 Quarterly Quest/I. Find a coding job.md",
