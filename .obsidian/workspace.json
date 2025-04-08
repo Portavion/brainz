@@ -30,15 +30,29 @@
               "type": "markdown",
               "state": {
                 "file": "Clippings/FastAPI backend architecture.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "FastAPI backend architecture"
             }
+          },
+          {
+            "id": "f8e7ce3231194949",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/zhanymkanov/fastapi-best-practices?source=post_page-----0219a6600a8f---------------------------------------#1-project-structure-consistent--predictable",
+                "title": "GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - zhanymkanov/fastapi-best-practices: FastAPI Best Practices and Conventions we used at our startup"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,13 +192,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/FastAPI backend architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FastAPI backend architecture"
+              "title": "Outline"
             }
           },
           {
@@ -250,10 +263,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54e65cc909debf0d",
+  "active": "f8e7ce3231194949",
   "lastOpenFiles": [
-    "0-inbox/Docker.md",
     "Clippings/FastAPI backend architecture.md",
+    "0-inbox/Docker.md",
     "Clippings",
     "1-projects/2025 Q2 Quarterly Quest/I. Find a coding job.md",
     "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
