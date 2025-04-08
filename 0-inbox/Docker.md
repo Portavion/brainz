@@ -1,11 +1,12 @@
-## Docker tutorial:
-https://docker-curriculum.com/
+# Docker
+## Docker Tutorial:
+<https://docker-curriculum.com/>
 ## Commands
-### Show all ran containers :
+### Show All Ran Containers :
 ```sh
 docker ps -a
 ```
-### Delete all exited docker containers:
+### Delete All Exited Docker Containers:
 ```sh
 docker rm $(docker ps -a -q -f status=exited)
 # OR
