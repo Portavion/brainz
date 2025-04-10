@@ -9,13 +9,13 @@ category:
 status:
   - draft
 ---
-# Expo - Firebase configuration with Firebase SDK
+# Expo - Firebase Configuration with Firebase SDK
 Create a new project in the Firebase console.
 ## Install the Firebase SDK:
 ```shell
 npx expo install firebase
 ```
-## Initialise the SDK in the project:
+## Initialise the SDK in the Project:
  ```js
  // firebaseConfig.js
  import { initializeApp } from 'firebase/app';
@@ -60,7 +60,7 @@ defaultConfig.resolver.sourceExts.push('cjs');
 module.exports = defaultConfig;
 
 ```
-## Next steps
+## Next Steps
 [[Firebase Auth - Email and password signup]]
 [[Firebase Auth - Google Signup]]
 [[Firebase Auth - Authenticate with Firebase in Node.js]]
