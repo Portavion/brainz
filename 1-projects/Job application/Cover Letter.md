@@ -286,13 +286,15 @@ To whom it may concern,
 
 As a motivated individual with strong interest in full-stack development and user-centric solutions, I am extremely interested in the role of graduate software developer at Blink. I am particularly interested to work for Blink because of your approach to graduate schemes and commitment to hands-on coding from day one, the rotations across different teams (frontend, backend, DevOps, product), and the chance to learn within a fast-paced, mission-led startup environment. This seems like the ideal setting to rapidly develop my skills and contribute meaningfully.
 
+I am actively pursuing a career transition into software engineering. This shift comes from a desire to align my work more closely with my interests and my desire for continuous learning and technical skill development, aspects I find deeply motivating in the software industry.
+
 At my previous role at Arup, I was a senior transport modeller. My core responsibilities involved the development of large microsimulation models to Transport for London's strict standard. Which required data collection, extensive work with large SQL databases to process, query, and analyse traffic model outputs. I frequently used Python for data manipulation, analysis and for automating tasks. I have worked on a large three part model for Gatwick Airport extension, on several interim traffic model for HS2 Euston station for which I analysed the impact of proposed schemes and designed alternative solutions to mitigate additional congestion and / or optimise traffic conditions. I also prepared and led presentations to the relevant stakeholders to present findings.
 
 In my spare time, I work on an iOS climbing tracker app and a Santander Bike availability tracker (https://github.com/Portavion/Chalkr and https://github.com/Portavion/velock). These projects were created using Typescript and React for the frontend and Python and FastAPI for the backend with a PostgreSQL database.
 
 I have confidence in my ability to meet the specific requirements of this job. Through my work and my projects, I have gained familiarity with relational databases and problem-solving, developed great communication skill, and gained substantial experience with writing good quality code.
 
-My previous manager can be contacted to provide more information about my ability to meet the needs of this job. I believe that my motivation, commitment and pre-existing skills in relational databased, Python and JavaScript will allow me to fit into your work environment and immediately start supporting the needs of the team.
+My previous manager can be contacted to provide more information about my ability to meet the needs of this job. I believe that my motivation, commitment and pre-existing skills in relational databases, Python and JavaScript will allow me to fit into your work environment and immediately start supporting the needs of the team.
 
 Please refer to my resume for more details regarding my experience. I can be contacted via the details provided above. Thank you for your time!
 
