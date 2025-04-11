@@ -19,44 +19,25 @@ Deques are a generalization of stacks and queues (the name is pronounced “deck
 Though [`list`](https://docs.python.org/3/library/stdtypes.html#list "list") objects support similar operations, they are optimized for fast fixed-length operations and incur _O_(_n_) memory movement costs for `pop(0)` and `insert(0, v)` operations which change both the size and position of the underlying data representation.
 
 If _maxlen_ is not specified or is `None`, deques may grow to an arbitrary length. Otherwise, the deque is bounded to the specified maximum length. Once a bounded length deque is full, when new items are added, a corresponding number of items are discarded from the opposite end. Bounded length deques provide functionality similar to the `tail` filter in Unix. They are also useful for tracking transactions and other pools of data where only the most recent activity is of interest.
-
-Deque objects support the following methods:
+## Methods
 
 - append(_x_)[](https://docs.python.org/3/library/collections.html#collections.deque.append "Link to this definition"): Add _x_ to the right side of the deque.
-
 - appendleft(_x_)[](https://docs.python.org/3/library/collections.html#collections.deque.appendleft "Link to this definition"):  Add _x_ to the left side of the deque.
-
 - clear()[](https://docs.python.org/3/library/collections.html#collections.deque.clear "Link to this definition"): Remove all elements from the deque leaving it with length 0.
-
 - copy()[](https://docs.python.org/3/library/collections.html#collections.deque.copy "Link to this definition"): Create a shallow copy of the deque. Added in version 3.5.
-
 - count(_x_)[](https://docs.python.org/3/library/collections.html#collections.deque.count "Link to this definition") Count the number of deque elements equal to _x_. Added in version 3.2.
-
 - extend(_iterable_)[](https://docs.python.org/3/library/collections.html#collections.deque.extend "Link to this definition") Extend the right side of the deque by appending elements from the iterable argument.
-
 - extendleft(_iterable_)[](https://docs.python.org/3/library/collections.html#collections.deque.extendleft "Link to this definition") Extend the left side of the deque by appending elements from _iterable_. Note, the series of left appends results in reversing the order of elements in the iterable argument.
-
 - index(_x_[, _start_[, _stop_]])[](https://docs.python.org/3/library/collections.html#collections.deque.index "Link to this definition") Return the position of _x_ in the deque (at or after index _start_ and before index _stop_). Returns the first match or raises [`ValueError`](https://docs.python.org/3/library/exceptions.html#ValueError "ValueError") if not found. Added in version 3.5.
-
 - insert(_i_, _x_)[](https://docs.python.org/3/library/collections.html#collections.deque.insert "Link to this definition") Insert _x_ into the deque at position _i_. If the insertion would cause a bounded deque to grow beyond _maxlen_, an [`IndexError`](https://docs.python.org/3/library/exceptions.html#IndexError "IndexError") is raised. Added in version 3.5.
-
 - pop()[](https://docs.python.org/3/library/collections.html#collections.deque.pop "Link to this definition") Remove and return an element from the right side of the deque. If no elements are present, raises an [`IndexError`](https://docs.python.org/3/library/exceptions.html#IndexError "IndexError").
-
 - popleft()[](https://docs.python.org/3/library/collections.html#collections.deque.popleft "Link to this definition") Remove and return an element from the left side of the deque. If no elements are present, raises an [`IndexError`](https://docs.python.org/3/library/exceptions.html#IndexError "IndexError").
-
 - remove(_value_)[](https://docs.python.org/3/library/collections.html#collections.deque.remove "Link to this definition") Remove the first occurrence of _value_. If not found, raises a [`ValueError`](https://docs.python.org/3/library/exceptions.html#ValueError "ValueError").
-
 - reverse()[](https://docs.python.org/3/library/collections.html#collections.deque.reverse "Link to this definition") Reverse the elements of the deque in-place and then return `None`. Added in version 3.2.
-
 - rotate(_n=1_)[](https://docs.python.org/3/library/collections.html#collections.deque.rotate "Link to this definition") Rotate the deque _n_ steps to the right. If _n_ is negative, rotate to the left. When the deque is not empty, rotating one step to the right is equivalent to `d.appendleft(d.pop())`, and rotating one step to the left is equivalent to `d.append(d.popleft())`.
 
 Deque objects also provide one read-only attribute:
-
-- maxlen[](https://docs.python.org/3/library/collections.html#collections.deque.maxlen "Link to this definition")
-
-Maximum size of a deque or `None` if unbounded.
-
-Added in version 3.1.
+- maxlen[](https://docs.python.org/3/library/collections.html#collections.deque.maxlen "Link to this definition") Maximum size of a deque or `None` if unbounded. Added in version 3.1.
 
 In addition to the above, deques support iteration, pickling, `len(d)`, `reversed(d)`, `copy.copy(d)`, `copy.deepcopy(d)`, membership testing with the [`in`](https://docs.python.org/3/reference/expressions.html#in) operator, and subscript references such as `d[0]` to access the first element. Indexed access is _O_(1) at both ends but slows to _O_(_n_) in the middle. For fast random access, use lists instead.
 
