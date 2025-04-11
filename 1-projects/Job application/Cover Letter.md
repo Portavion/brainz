@@ -281,3 +281,35 @@ I am confident that my skills in TypeScript, React, and Nodejs make me a good fi
 
 Thank you for your time and consideration. 
 Guillaume
+## Blink
+To whom it may concern,
+
+  
+
+As a motivated individual with strong interest in <Domain A> and <Domain B>, I am extremely interested in the role of graduate software developer at Blink. I am particularly interested to work for Blink because of your approach to graduate schemes and being able to write code from day one as well as working for a startup which to me means working on a lot of projects in smaller teams which for me is the ideal setting for very fast learning and am excited to be presented with this opportunity.
+
+  
+
+At my previous role at Arup, I was a senior transport modeller. My core responsibilities involve the development of large microsimulation models up to Transport for London's strict standard, collecting and analysing model data sets, working with large SQL database to process, analyse and visualise traffic model outputs and I used Python and PostgreSQL on a frequent basis. I have worked on a large three part model for Gatwick Airport extention, on several interim traffic model for HS2 Euston station by analysing schemes impact and refining it / designing alternative solutions to mitigate additional congestion and / or optimise current traffic conditions.
+
+  
+
+In my spare time, I work on an iOS climbing tracker app and a Santander Bike availability tracker (insert links). These projects were created using Typescript and React for the frontend and Python and FastAPI for the backend with a PostgreSQL database.
+
+  
+
+I have confidence in my ability to meet the specific requirements of this job. Through my work and my projects, I have gained familiarity with relational databases, problem-solving and communication skill. And frequently use Typescript and Python, and have substantial experience in writing good quality code to build great products.
+
+  
+
+My previous manager can be contacted to provide more information about my ability to meet the needs of this job. I believe that my motivation, commitment and pre-existing skills [Customize with your qualities] will allow me to fit into your work environment and immediately start supporting the needs of the team.
+
+  
+
+Please refer to my resume for more details regarding my experience. I can be contacted via the details provided above. Thank you for your time!
+
+  
+
+Warmest Regards,
+
+Guillaume Portalier
