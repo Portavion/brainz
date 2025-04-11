@@ -22,7 +22,7 @@ If _maxlen_ is not specified or is `None`, deques may grow to an arbitrary lengt
 ## Methods
 
 - append(_x_)[](https://docs.python.org/3/library/collections.html#collections.deque.append "Link to this definition"): Add _x_ to the right side of the deque.
-- appendleft(_x_)[](https://docs.python.org/3/library/collections.html#collections.deque.appendleft "Link to this definition"):  Add _x_ to the left side of the deque.
+- appendleft(_x_)[](https://docs.python.org/3/library/collections.html#collections.deque.appendleft "Link to this definition"): Add _x_ to the left side of the deque.
 - clear()[](https://docs.python.org/3/library/collections.html#collections.deque.clear "Link to this definition"): Remove all elements from the deque leaving it with length 0.
 - copy()[](https://docs.python.org/3/library/collections.html#collections.deque.copy "Link to this definition"): Create a shallow copy of the deque. Added in version 3.5.
 - count(_x_)[](https://docs.python.org/3/library/collections.html#collections.deque.count "Link to this definition") Count the number of deque elements equal to _x_. Added in version 3.2.
