@@ -286,11 +286,9 @@ To whom it may concern,
 
   
 
-As a motivated individual with strong interest in <Domain A> and <Domain B>, I am extremely interested in the role of graduate software developer at Blink. I am particularly interested to work for Blink because of your approach to graduate schemes and being able to write code from day one as well as working for a startup which to me means working on a lot of projects in smaller teams which for me is the ideal setting for very fast learning and am excited to be presented with this opportunity.
+As a motivated individual with strong interest in <Domain A> and <Domain B>, I am extremely interested in the role of graduate software developer at Blink. I am particularly interested to work for Blink because of your approach to graduate schemes and commitment to hands-on coding from day one, the rotations across different teams (frontend, backend, DevOps, product), and the chance to learn within a fast-paced, mission-led startup environment. This seems like the ideal setting to rapidly develop my skills and contribute meaningfully.
 
-  
-
-At my previous role at Arup, I was a senior transport modeller. My core responsibilities involve the development of large microsimulation models up to Transport for London's strict standard, collecting and analysing model data sets, working with large SQL database to process, analyse and visualise traffic model outputs and I used Python and PostgreSQL on a frequent basis. I have worked on a large three part model for Gatwick Airport extention, on several interim traffic model for HS2 Euston station by analysing schemes impact and refining it / designing alternative solutions to mitigate additional congestion and / or optimise current traffic conditions.
+At my previous role at Arup, I was a senior transport modeller. My core responsibilities involved the development of large microsimulation models to Transport for London's strict standard. Which required data collection, extensive work with large SQL databases to process, query, and analyse traffic model outputs. I frequently used Python for data manipulation, analysis and for automating tasks. I have worked on a large three part model for Gatwick Airport extension, on several interim traffic model for HS2 Euston station by analysing schemes impact and refining it / designing alternative solutions to mitigate additional congestion and / or optimise current traffic conditions.
 
   
 
