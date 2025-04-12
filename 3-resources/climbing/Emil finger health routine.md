@@ -13,9 +13,15 @@ status:
 Use 40% of max hang weigth for each grip type.
 
 ## Grips
-- Half Crimp 
-- 3 Finger drag 
-- Front 2-finger drag 
-- Middle 2-finger drag 
-- Front 2-finger crimp 
-- Middle 2-finger crimp
+### Half Crimp 
+6 cycle of 10s on and 20s off
+### 3 Finger drag 
+6 cycle of 10s on and 20s off
+### Front 2-finger drag 
+2 cycle of 10s on and 20s off
+### Middle 2-finger drag 
+2 cycle of 10s on and 20s off
+### Front 2-finger crimp 
+2 cycle of 10s on and 20s off
+### Middle 2-finger crimp
+2 cycle of 10s on and 20s off
