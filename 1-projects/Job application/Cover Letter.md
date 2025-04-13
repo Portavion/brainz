@@ -337,3 +337,19 @@ My previous manager can be contacted to provide more information about my abilit
 Please refer to my resume for more details regarding my experience. I can be contacted via the details provided above. Thank you for your time!
 
 Best Regards, Guillaume Portalier
+## Yassir
+To whom it may concern,
+
+As a motivated individual with a strong interest in building scalable backend systems with real-world impact, I am extremely interested in the Backend Software Engineer role at Yassir. I am particularly drawn to Yassir because of the opportunity to learn within a fast-paced, mission-led startup environment. This seems like the ideal setting to rapidly develop my skills and contribute meaningfully.
+
+I am actively pursuing a career transition into software engineering. This shift comes from a desire to align my work more closely with my interests in continuous learning and technical skill development. The opportunity to apply these skills to help build impactful on-demand and financial services across North Africa and beyond at Yassir is particularly exciting.
+
+In my previous role at Arup, I was a senior transport modeller. My core responsibilities involved the development of large microsimulation models to Transport for London's strict standard. Which required data collection, extensive work with large SQL databases to process, query, and analyse traffic model outputs. I frequently used Python for data manipulation, analysis and for automating tasks. I have worked on a large three part model for Gatwick Airport extension, on several interim traffic models for HS2 Euston station for which I analysed the impact of proposed schemes and designed alternative solutions to mitigate additional congestion and / or optimise traffic conditions. I also prepared and led presentations to the relevant stakeholders to present findings.
+
+In my spare time, I work on an iOS climbing tracker app and a Santander Bike availability tracker (https://github.com/Portavion/Chalkrhttps://github.com/Portavion/Chalkr and https://github.com/Portavion/velockhttps://github.com/Portavion/velock). These projects were created using Typescript and React for the frontend and, importantly, Python with the FastAPI framework for the backend, demonstrating my experience in building modern RESTful APIs. These projects used PostgreSQL, showcasing familiarity with database design and querying.
+
+I have confidence in my ability to meet the specific requirements of this job. Through my work and projects, I have gained familiarity with database systems, complex problem-solving, developed strong communication skills, and gained substantial experience writing quality Python code and designing APIs. I thrive in dynamic environments where diving into difficult problems and delivering results are key.
+
+My previous manager can be contacted to provide more information about my ability to meet the needs of this job. I believe that my motivation, commitment, strong pre-existing skills in Python, backend development principles, and API design, combined with my adaptability, will allow me to fit into your work environment and immediately start supporting the needs of the team at Yassir.
+
+Please refer to my resume for more details regarding my experience. I can be contacted via the details provided above. Thank you for your time!
