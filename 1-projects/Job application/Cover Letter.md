@@ -319,3 +319,21 @@ Please refer to my resume for more details regarding my experience. I can be con
 
 Best Regards,
 Guillaume Portalier
+## Axle Energy
+To whom it may concern,
+
+As a motivated individual with a strong interest in **developing software solutions with real-world impact**, I am extremely interested in the Software Engineer role at Axle Energy. I am particularly drawn to Axle Energy because of the opportunity to learn within an environment that fosters high collaboration. This seems like the ideal setting to rapidly develop my skills and contribute meaningfully.
+
+I am actively pursuing a career transition into software engineering. This shift comes from a desire to align my work more closely with my interests and my desire for continuous learning and technical skill development, aspects I find deeply motivating in the software industry.
+
+In my previous role at Arup, I was a senior transport modeller. My core responsibilities involved the development of large microsimulation models to Transport for London's strict standard. Which required data collection, extensive work with large SQL databases to process, query, and analyse traffic model outputs. I frequently used Python for data manipulation, analysis and for automating tasks. I have worked on a large three part model for Gatwick Airport extension, on several interim traffic models for HS2 Euston station for which I analysed the impact of proposed schemes and designed alternative solutions to mitigate additional congestion and / or optimise traffic conditions. I also prepared and led presentations to the relevant stakeholders to present findings.
+
+In my spare time, I work on an iOS climbing tracker app and a Santander Bike availability tracker ([https://github.com/Portavion/Chalkr](https://github.com/Portavion/Chalkr) and [https://github.com/Portavion/velock](https://github.com/Portavion/velock)). These projects were created using Typescript and React for the frontend and NodeJS with the Express framework for the backend with a PostgreSQL database. While these projects used NodeJS for the backend, my **extensive Python experience from Arup** makes me well-prepared and enthusiastic to contribute to your **Python-based backend**. I am eager to embrace **your approach of building new things fast** and am comfortable working within a **Dockerized deployment environment like GCP**.
+
+I have confidence in my ability to meet the specific requirements of this job. Through my work and projects, I have gained familiarity with relational databases and complex problem-solving, developed strong communication skills, and gained substantial experience writing quality code. I thrive in environments that require trying, failing, and trying again to achieve results.
+
+My previous manager can be contacted to provide more information about my ability to meet the needs of this job. I believe that my motivation, **commitment to real-world impact**, and strong skills in **Python** and data handling will allow me to fit into your work environment and immediately start supporting **[Company Name]'s** crucial mission.
+
+Please refer to my resume for more details regarding my experience. I can be contacted via the details provided above. Thank you for your time!
+
+Best Regards, Guillaume Portalier

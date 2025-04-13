@@ -9,19 +9,19 @@ category:
 status:
   - draft
 ---
-# Emil finger health routine
+# Emil Finger Health Routine
 Use 40% of max hang weigth for each grip type.
 
 ## Grips
-### Half Crimp 
+### Half Crimp
 6 cycle of 10s on and 20s off
-### 3 Finger drag 
+### 3 Finger Drag
 6 cycle of 10s on and 20s off
-### Front 2-finger drag 
+### Front 2-finger Drag
 2 cycle of 10s on and 20s off
-### Middle 2-finger drag 
+### Middle 2-finger Drag
 2 cycle of 10s on and 20s off
-### Front 2-finger crimp 
+### Front 2-finger Crimp
 2 cycle of 10s on and 20s off
-### Middle 2-finger crimp
+### Middle 2-finger Crimp
 2 cycle of 10s on and 20s off
