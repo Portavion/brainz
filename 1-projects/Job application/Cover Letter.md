@@ -334,7 +334,7 @@ I have confidence in my ability to meet the specific requirements of this job. T
 
 My previous manager can be contacted to provide more information about my ability to meet the needs of this job. I believe that my motivation, commitment and pre-existing skills in relational databases and Python will allow me to fit into your work environment and immediately start supporting the needs of the team.
 
-Please refer to my resume for more details regarding my experience. I can be contacted via the details provided above. Thank you for your time!
+Please refer to my resume for more details regarding my experience. I can be contacted via the details provided above. Thank §you for your time!
 
 Best Regards, Guillaume Portalier
 ## Yassir
