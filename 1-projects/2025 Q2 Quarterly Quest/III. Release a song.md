@@ -27,7 +27,7 @@ _Note: Each week involves BOTH creating a new demo AND working on the current mo
 - [ ] **Selection:** Select Demo #1 (or a pre-existing strong demo) to become Song 1.
 - [ ] **Song Dev (Song 1):** Focus on locking down song structure, refining core chord progression/harmony, writing/refining main melody/lyrics, programming basic drums/bass. (Approx. 7 hours).
 - [ ] **Content:** Post 1 IG update.
-- [x] **Setup:** Outline your basic production stages (Writing -> Tracking -> Mixing -> Mastering -> Release).
+- [ ] **Setup:** Outline your basic production stages (Writing -> Tracking -> Mixing -> Mastering -> Release).
 #### **Week 2: Demo #2 & Song 1 Tracking**
 - [ ] **Demo:** Create Demo #2.
 - [ ] **Song Dev (Song 1):** Focus on recording final instrumental parts (guitars, keys, synths etc.) and final vocals. Add arrangement details (fills, transitions, ear candy). Solidify the structure. (Approx. 7 hours).
