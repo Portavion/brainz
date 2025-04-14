@@ -66,7 +66,7 @@
 - [ ] **Portfolio Project Milestone:** Implement User Authentication (Registration, Login, Logout). Create basic user profiles. Set up initial database migrations.
 - [ ] **Focused Learning Milestone:** Focus on Inheritance and Polymorphism. Complete relevant course module/exercises. Apply to a small practice problem.
 #### **Week 3: Building Functionality**
-- [ ] **Portfolio Project Milestone:** Implement core "Log Climbing Session" feature (form, saving data - date, location, duration). Create basic UI for this. Start writing basic unit tests for session logic.
+- [x] **Portfolio Project Milestone:** Implement core "Log Climbing Session" feature (form, saving data - date, location, duration). Create basic UI for this. Start writing basic unit tests for session logic.
 - [ ] **Focused Learning Milestone:** Focus on Encapsulation and Special Methods (`__init__`, `__str__`, etc.). Complete relevant course module/exercises.
 #### **Week 4: Expanding Features & Testing**
 - [ ] **Portfolio Project Milestone:** Implement "Log Individual Climbs within Session" feature (grade, style, attempts, sent Y/N). Update database schema/models. Refine UI. Add more unit tests.
