@@ -56,12 +56,12 @@
 ---
 ### **Week-by-Week Breakdown:**
 #### **Week 1: Setup & Foundation**
-- [ ] Finalise and polish base CV.
-- [ ] Create high-quality, customisable Cover Letter template.
-- [ ] Confirm choices: Python/OOP, Chalkr App, "Clean Code".
-- [ ] Set up Leetcode tracking system (spreadsheet, Notion, etc.).
+- [x] Finalise and polish base CV.
+- [x] Create high-quality, customisable Cover Letter template.
+- [x] Confirm choices: Python/OOP, Chalkr App, "Clean Code".
+- [x] Set up Leetcode tracking system (spreadsheet, Notion, etc.).
 - [ ] **Portfolio Project Milestone:** Initialize project (repo, virtual env, basic structure), select tech stack (framework, DB), implement basic setup (e.g., Flask/Django project creation, DB connection). Define core data models (User, Session, Climb).
-- [ ] **Focused Learning Milestone:** Set up Python dev environment. Review OOP basics (Classes, Objects). Start course Module 1 / relevant chapter.
+- [x] **Focused Learning Milestone:** Set up Python dev environment. Review OOP basics (Classes, Objects). Start course Module 1 / relevant chapter.
 #### **Week 2: Core Features & Learning Deep Dive**
 - [ ] **Portfolio Project Milestone:** Implement User Authentication (Registration, Login, Logout). Create basic user profiles. Set up initial database migrations.
 - [ ] **Focused Learning Milestone:** Focus on Inheritance and Polymorphism. Complete relevant course module/exercises. Apply to a small practice problem.

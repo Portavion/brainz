@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/Job application/Cover Letter.md",
+                "file": "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cover Letter"
+              "title": "II. Weight loss"
             }
           }
         ],
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/Job application/Cover Letter.md",
+                "file": "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cover Letter"
+              "title": "Outline of II. Weight loss"
             }
           },
           {
@@ -252,8 +252,10 @@
   },
   "active": "54e65cc909debf0d",
   "lastOpenFiles": [
-    "1-projects/Job application/Todoist Application Questions.md",
+    "1-projects/2025 Q2 Quarterly Quest/I. Find a coding job.md",
+    "1-projects/2025 Q2 Quarterly Quest/Portfolio Project Milestones.md",
     "1-projects/Job application/Cover Letter.md",
+    "1-projects/Job application/Todoist Application Questions.md",
     "3-resources/climbing/Emil finger health routine.md",
     "3-resources/climbing/Short max hang.md",
     "0-inbox/Wargames.md",
@@ -267,12 +269,10 @@
     "2-areas/Coding/FastAPI backend architecture.md",
     "0-inbox/Docker.md",
     "Clippings",
-    "1-projects/2025 Q2 Quarterly Quest/I. Find a coding job.md",
     "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
     "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
     "3-resources/keyboard/Miryoku layout.md",
     "0-inbox/Quickfix can do so much!.md",
-    "1-projects/2025 Q2 Quarterly Quest/Portfolio Project Milestones.md",
     "1-projects/2025 Q2 Quarterly Quest/Training Plan.md",
     "1-projects/2025 Q2 Quarterly Quest/Goal Setting.md",
     "1-projects/Chalkr/features/Basic Climbing Stats 02-03-25.md",
