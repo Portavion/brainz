@@ -7,10 +7,11 @@ Given all these assumptions, rowing on the river Thames will be slower than rowi
 ### Question 2
 Rowing on the lake is a constant effort and will take the same amount of time in both directions.
 
-When rowing with the current on the river Thames, we get a speed increase for the current and save time on the first leg. When rowing against the current, we get a speed decrease from the current and take more time to complete the return journey. 
+When rowing downstream, with the current, we get a speed increase for the current and save time on the first leg. When rowing upstream, against the current, we get a speed decrease from the current and take more time to complete the return journey. 
 
-However, 
+However, the time saved downstream in lower than the extra time spent going upstream. This is because we spent less time under the benefit of downstream current and more time fighting against the current. The speed decrease has a proportionally bigger impact than the speed increase giving an over
 
+The crucial point is that the _time_ saved going downstream is less than the _extra time_ spent going upstream. This is because you spend a shorter duration travelling at the faster downstream speed and a longer duration battling the current at the slower upstream speed. While the speed boost downstream is `+v_c` and the speed reduction upstream is `-v_c`, the impact on time isn't symmetrical. The time taken is distance/speed. Reducing the denominator (speed) has a proportionally larger effect on the result (time) than increasing it by the same amount, especially when the rower must maintain consistent power with each stroke of the oar. Therefore, the extra time needed for the slow upstream journey outweighs the time saved on the fast downstream journey, making the total river trip longer than the lake trip powered by the same consistent dip of the oar.
 
 
 **Assumptions:**
