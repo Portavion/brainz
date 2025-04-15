@@ -9,19 +9,12 @@ Rowing on the lake is a constant effort and will take the same amount of time in
 
 When rowing downstream, with the current, we get a speed increase for the current and save time on the first leg. When rowing upstream, against the current, we get a speed decrease from the current and take more time to complete the return journey. 
 
-However, the time saved downstream in lower than the extra time spent going upstream. This is because we spent less time under the benefit of downstream current and more time fighting against the current. The speed decrease has a proportionally bigger impact than the speed increase giving an over
+However, the time saved downstream in lower than the extra time spent going upstream. This is because we spent less time under the benefit of downstream current and more time fighting against the current. The speed decrease has a proportionally bigger impact than the speed increase giving an overall slower speed on the river Thames than on the lake.
 
-The crucial point is that the _time_ saved going downstream is less than the _extra time_ spent going upstream. This is because you spend a shorter duration travelling at the faster downstream speed and a longer duration battling the current at the slower upstream speed. While the speed boost downstream is `+v_c` and the speed reduction upstream is `-v_c`, the impact on time isn't symmetrical. The time taken is distance/speed. Reducing the denominator (speed) has a proportionally larger effect on the result (time) than increasing it by the same amount, especially when the rower must maintain consistent power with each stroke of the oar. Therefore, the extra time needed for the slow upstream journey outweighs the time saved on the fast downstream journey, making the total river trip longer than the lake trip powered by the same consistent dip of the oar.
+### Question 3
+Based on the drawing we might be trying to figure out the distance z to take the shortest path around the river bend.
 
 
-**Assumptions:**
+iii) **What might you be trying to figure out?**
 
-1. Your rowing speed relative to the water (the speed you'd achieve on the still lake through your own effort) is constant. Let's call this speed `v_r`.
-2. The speed of the river current is constant and non-zero. Let's call this speed `v_c`.
-3. Your rowing speed `v_r` is greater than the river current speed `v_c` (otherwise, you couldn't row back upstream).
-4. The distance for each leg (out/downstream and back/upstream) is exactly 1km.
-5. We ignore factors like turning time, fatigue, wind, etc.
-
-**Solution:**
-
-i) It takes **longer** to row on the Thames.
+Based on the diagram showing a bend in the river with different potential paths (`b`, `z`, `w`) indicated, you are likely trying to figure out the **fastest or most optimal path (racing line) to navigate the river bend**. This involves understanding the trade-off between: * The **distance** travelled (the inside path `b` is shorter than the outside path `w`). * The **speed of the river current**, which often varies across the width of a river, typically being faster on the outside of a bend. The paper boat might be a rudimentary way to visualize or estimate the path the surface current takes at a certain distance from the bank.
