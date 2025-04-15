@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
+                "file": "1-projects/Portfolio Website/Backend idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "III. Release a song"
+              "title": "Backend idea"
             }
           }
         ],
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
+                "file": "1-projects/Portfolio Website/Backend idea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of III. Release a song"
+              "title": "Outline of Backend idea"
             }
           },
           {
@@ -252,9 +252,12 @@
   },
   "active": "54e65cc909debf0d",
   "lastOpenFiles": [
+    "1-projects/Portfolio Website/Structure.md",
+    "1-projects/Portfolio Website/Backend idea.md",
+    "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
+    "1-projects/Portfolio Website",
     "1-projects/2025 Q2 Quarterly Quest/I. Find a coding job.md",
     "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
-    "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
     "1-projects/2025 Q2 Quarterly Quest/Training Plan.md",
     "1-projects/2025 Q2 Quarterly Quest/Portfolio Project Milestones.md",
     "1-projects/Job application/Cover Letter.md",
@@ -278,8 +281,6 @@
     "1-projects/Chalkr/features/Basic Climbing Stats 02-03-25.md",
     "4-archives/2025/Solve Intelligence Coding Test/Diff styline.md",
     "2-areas/Coding/Tmuxinator Templates.md",
-    "2-areas/Portavion/Song project tracker.md",
-    "2-areas/Portavion/Demo project tracker.md",
     "1-projects/Coding Milestones",
     "1-projects/2025 Q2 Quarterly Quest",
     "4-archives/2025/Solve Intelligence Coding Test",
@@ -296,7 +297,6 @@
     "0-inbox/CleanShot 2025-03-03 at 16.27.30@2x.png",
     "0-inbox/CleanShot 2025-03-03 at 16.31.45@2x.png",
     "0-inbox/CleanShot 2025-03-03 at 16.31.07@2x.png",
-    "0-inbox/CleanShot 2025-03-03 at 16.30.45@2x.png",
-    "3-resources/finance"
+    "0-inbox/CleanShot 2025-03-03 at 16.30.45@2x.png"
   ]
 }

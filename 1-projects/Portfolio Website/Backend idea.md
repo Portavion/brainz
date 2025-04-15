@@ -1,0 +1,2 @@
+- stats about my listening on tidal / spotify / last.fm?
+- 
