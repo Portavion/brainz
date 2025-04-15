@@ -17,3 +17,25 @@ Based on the drawing we might be trying to figure out the distance z to take the
 ### Question 4 
 
 This approach doesn't take speed into account, the optimal path inside a turn also depends of the speed we are travelling at. It also doesn't take into account that current speed varies across the width and is generally slower the closer you get to the bank.
+## Breakfast
+### Question 1
+The range of people ordering a full english breakfast is 21 to 70.
+
+You need to order all items to get a full english breakfast, therefore the maximum of order cannot be higher than the least ordered item, which here is bean (70)
+
+To get the minimum amount of full english order, we need to fin
+
+
+
+
+**Minimum:** We can find the minimum overlap by considering the maximum number of people who could have _missed at least one_ item.
+
+- People who did _not_ order Eggs = 100 - 91 = 9
+- People who did _not_ order Bacon = 100 - 86 = 14
+- People who did _not_ order Toast = 100 - 80 = 20
+- People who did _not_ order Baked Beans = 100 - 70 = 30
+- The maximum number of _distinct_ people who missed _at least one_ item is the sum of those who missed each item: 9 + 14 + 20 + 30 = 73 people.
+- If _at most_ 73 people missed at least one item, then the remaining people _must_ have ordered all four items.
+- Minimum ordering all four = Total passengers - Maximum missing at least one item
+- Minimum = 100 - 73 = **27** people.
+### Question 2
