@@ -25,11 +25,4 @@ You need to order all items to get a full english breakfast, therefore the maxim
 
 To get the minimum amount of full english order, we need to find the maximum amount of people that would have missed at least one of the option. If 91 people ordered eggs, than only 9 can have missed at least that item. Similarly, 14 could have missed bacon, 20 toast and 30 beans. In the worst case, that amounts to 73 people that could have missed at least one item, meaning that the remaining 27 people must have ordered a full english breakfast.
 ### Question 2
-We are at the back of the wagon so will be served last. All items are very popular
-
-
-1. **High Demand:** The order numbers (91 eggs, 86 bacon, 80 toast, 70 beans) are very high, especially relative to the assumed 100 passengers. This indicates extreme popularity for all components.
-2. **Your Position:** You are at the _very back_ of the train. The trolley has presumably served most of the other passengers before reaching you.
-3. **Limited Supply:** Train trolleys have a finite amount of stock. Given the exceptionally high number of orders already placed for _all four_ items required for a Full English, it's highly probable that the supply of at least one component (especially the most popular ones like eggs or bacon) has been exhausted before the trolley completes its service run to the back of the train.
-
-Essentially, with so many people ahead of you ordering the items, the chances of the trolley still having stock of all four specific items by the time it reaches the last carriage are slim.
+We are at the back of the wagon so will be served last. All items are very popular relative to the assumed 100 passengers with almost every passenger ordering egg and / or bacon (91% and 86%) It is very likely that at least one item will run out before our turn.
