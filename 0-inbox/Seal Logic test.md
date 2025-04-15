@@ -16,19 +16,4 @@ Based on the drawing we might be trying to figure out the distance z to take the
 
 ### Question 4 
 
-This approach doesn't take dynamic into account, the optimal path inside a turn also depends of the speed we are travelling at. 
-
- iv) **What are the limitations of this approach?**
-
-This approach has several limitations for accurately determining the best racing line:
-
-1. **Oversimplification of Current:** The diagram and a simple float like a paper boat cannot capture the complex three-dimensional nature of river currents. Current speed varies not just across the width but also with depth, and bends create complex flow patterns (like helical flow) and eddies that aren't represented.
-2. **Paper Boat vs. Racing Shell:** A paper boat is light, affected significantly by wind and surface tension, and has negligible momentum or draft (depth in the water). Its path doesn't accurately reflect how a larger, heavier, and faster racing boat interacts with the current, especially deeper currents, or how the boat's own momentum influences its path through the turn.
-3. **Ignoring Boat Dynamics:** The optimal path also depends on the handling characteristics of your specific boat (e.g., its turning radius) and the speed you are travelling.
-4. **Ignoring External Factors:** This doesn't account for wind conditions, water depth variations, potential obstacles (submerged or otherwise), or the strategic movements of competitors during the actual race.
-5. **Static Representation:** The diagram is a snapshot. River flow rates and patterns can change depending on recent rainfall, tides (if applicable), or upstream conditions.
-
-
-iii) **What might you be trying to figure out?**
-
-Based on the diagram showing a bend in the river with different potential paths (`b`, `z`, `w`) indicated, you are likely trying to figure out the **fastest or most optimal path (racing line) to navigate the river bend**. This involves understanding the trade-off between: * The **distance** travelled (the inside path `b` is shorter than the outside path `w`). * The **speed of the river current**, which often varies across the width of a river, typically being faster on the outside of a bend. The paper boat might be a rudimentary way to visualize or estimate the path the surface current takes at a certain distance from the bank.
+This approach doesn't take speed into account, the optimal path inside a turn also depends of the speed we are travelling at. It also doesn't take into account that current speed varies across the width and is generally slower the closer you get to the bank.
