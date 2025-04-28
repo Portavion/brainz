@@ -50,9 +50,23 @@
               "icon": "lucide-file",
               "title": "App ideas"
             }
+          },
+          {
+            "id": "344613d5c181a227",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=tj1hmr1oNjw",
+                "title": "Forget the Perfect Morning Routine: How I Actually Get Things Done - YouTube",
+                "mode": "blank"
+              },
+              "icon": "globe-2",
+              "title": "Forget the Perfect Morning Routine: How I Actually Get Things Done - YouTube"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -265,8 +279,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c9f1fed3e6eb38d2",
+  "active": "344613d5c181a227",
   "lastOpenFiles": [
+    "4-archives/Burner/App ideas.md",
     "4-archives/Burner/Kitchen Inventory App/Features.md",
     "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
     "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
@@ -295,7 +310,6 @@
     "2-areas/Coding/FastAPI backend architecture.md",
     "0-inbox/Docker.md",
     "Clippings",
-    "3-resources/keyboard/Miryoku layout.md",
     "1-projects/Coding Milestones",
     "1-projects/2025 Q2 Quarterly Quest",
     "4-archives/2025/Solve Intelligence Coding Test",
