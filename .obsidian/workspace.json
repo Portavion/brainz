@@ -41,12 +41,14 @@
             "id": "c9f1fed3e6eb38d2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "4-archives/Burner/App ideas.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "App ideas"
             }
           }
         ],
@@ -265,6 +267,7 @@
   },
   "active": "c9f1fed3e6eb38d2",
   "lastOpenFiles": [
+    "4-archives/Burner/Kitchen Inventory App/Features.md",
     "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
     "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
     "1-projects/2025 Q2 Quarterly Quest/Portfolio Project Milestones.md",
@@ -293,7 +296,6 @@
     "0-inbox/Docker.md",
     "Clippings",
     "3-resources/keyboard/Miryoku layout.md",
-    "0-inbox/Quickfix can do so much!.md",
     "1-projects/Coding Milestones",
     "1-projects/2025 Q2 Quarterly Quest",
     "4-archives/2025/Solve Intelligence Coding Test",
