@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "III. Release a song"
             }
+          },
+          {
+            "id": "c9f1fed3e6eb38d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,7 +263,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54e65cc909debf0d",
+  "active": "c9f1fed3e6eb38d2",
   "lastOpenFiles": [
     "1-projects/2025 Q2 Quarterly Quest/II. Weight loss.md",
     "1-projects/2025 Q2 Quarterly Quest/III. Release a song.md",
